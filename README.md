@@ -69,4 +69,30 @@ We built 4 baseline models for our reference and analysis which include
 
 ### CNN
 
+We also built a CNN model with word embedding.
+The accuracies obtained here were as follows -
+
+- Normal tagged - 0.7957038391224863
+- POS tagged - 0.8281467719461217
+- Stemmed and POS tagged - 0.8367626886145405
+
+
 ### LSTM
+
+In the LSTM model we built with word embedding,
+The accuracies obtained were as follows -
+
+- Normal tagged - 0.8386654478976234
+- POS tagged - 0.8137482582443103
+- Stemmed and POS tagged - 0.8454503886602652
+
+### Observations
+
+- Since the dataset we used was skewed. That is most of the sentences were tagged as non hate speech, the accuracies obtained with almost all the baseline models were in the range 85-88 percent.
+- However the F1 precision and recall scores were different as expected due to different models.
+
+### Goals 
+
+- For the final phase we plan to experiment with more models.
+- We shall implement Tree lstms and n gram based models.
+- We shall also try different datasets and other structure and semantic based analysis.
