@@ -49,50 +49,24 @@ We built 4 baseline models for our reference and analysis which include
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 - For Logistic regression we obtained the following Accuraries, F1, Precision and Recall.
 
 | Dataset  | Accuracy  | F1  | Presicion  |  Recall |
 |---|---|---|---|---|
-| Normal Tagged  |   |   |   |   |
-| POS tagged  |  |   |   |   |
-| POS + stemming  |   |   |   |   |
+| Normal Tagged  | 0.8766560073092736  | 0.6367095298977183  | 0.7201042372243547  | 0.6090939442094347  |
+| POS tagged  |0.8734582000913659  | 0.5960676159547006  | 0.7052683694713857  | 0.5753961592694554  |
+| POS + stemming  | 0.8743718592964824  | 0.6191133324095499  | 0.7098678410432989  | 0.59412792736334  |
 
 
 - For Decision Trees we obtained the following Accuraries, F1, Precision and Recall.
 
 | Dataset  | Accuracy  | F1  | Presicion  |  Recall |
 |---|---|---|---|---|
-| Normal Tagged  |   |   |   |   |
-| POS tagged  |  |   |   |   |
-| POS + stemming  |   |   |   |   |
+| Normal Tagged  | 0.8579259936043856  | 0.6394379549866136  | 0.6643687953770929  | 0.6241438931041429  |
+| POS tagged  | 0.8579259936043856 | 0.596474256954484  | 0.6440535339515485  | 0.5801420503293866  |
+| POS + stemming  | 0.8542713567839196  | 0.6247314965737432  | 0.6508532414471057  | 0.6099090176593029 |
 
 
+### CNN
 
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
+### LSTM
