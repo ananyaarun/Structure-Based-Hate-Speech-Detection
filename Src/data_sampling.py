@@ -103,10 +103,8 @@ def write_to_csv(file, msg, tag):
     tag = tag.reshape(tag.shape[0],1)
     sample_data = np.hstack((msg,tag)).tolist()
     shuffle(sample_data)
-    fields = ['Msg','Tag']
     with open(file, 'w') as handle:
         csvwriter = csv.writer(handle)
-        csvwriter.writerow(fields)
         for row in sample_data:
             csvwriter.writerow(row)
     pass
@@ -114,10 +112,10 @@ def write_to_csv(file, msg, tag):
 
 
 
-write_to_csv("Data_over_sampled/dataset_normal.csv",data_os_Msg, data_os_Tag)
+write_to_csv("Data_over_sampled/dataset.csv",data_os_Msg, data_os_Tag)
 write_to_csv("Data_over_sampled/dataset_POS.csv",data1_os_Msg, data1_os_Tag)
 write_to_csv("Data_over_sampled/dataset_stemmed.csv",data2_os_Msg, data2_os_Tag)
-write_to_csv("Data_under_sampled/dataset_normal.csv",data_us_Msg, data_us_Tag)
+write_to_csv("Data_under_sampled/dataset.csv",data_us_Msg, data_us_Tag)
 write_to_csv("Data_under_sampled/dataset_POS.csv",data1_us_Msg, data1_us_Tag)
 write_to_csv("Data_under_sampled/dataset_stemmed.csv",data2_us_Msg, data2_us_Tag)
 
