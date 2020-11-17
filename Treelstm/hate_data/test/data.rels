@@ -1,0 +1,2479 @@
+root det amod dep vmod aux xcomp dobj dep mark poss nsubj dep rcmod prt nn nn neg nn dobj prep amod pobj nn nn dep
+nsubj nsubj dep nsubj rcmod root dobj
+predet det root nsubj aux rcmod advmod nsubj ccomp nsubj ccomp aux cop amod nn nn xcomp det dobj advmod
+nn nn nsubj det advmod nsubj root det dobj mark nsubj advcl dobj nsubj ccomp advmod dobj advmod dep nsubj advmod mark nsubj dep acomp
+root nsubj aux rcmod nn dobj nsubj rcmod acomp prep pobj
+nsubj dep aux nsubj root dobj nsubj dep nsubj ccomp iobj dobj
+root advmod dep pobj dep dep vmod
+dep nsubj prep det pobj csubj prep pobj cop root
+nsubj root xcomp dobj nsubj rcmod amod nn amod dep dep dobj
+amod nn root nn dep
+nsubj root advmod det amod nn nn nn nn dobj
+root prep pobj vmod aux xcomp nn nn dobj
+nsubj nsubjpass advmod advmod auxpass root mark nsubj ccomp det amod nn dobj prep det pobj
+root vmod dobj
+dep nsubj root dobj advmod nsubj dep prep pobj vmod prep pcomp nsubj ccomp amod dobj cc dobj poss nsubj aux conj nn dobj
+nn root
+nn nsubj dobj nsubj rcmod prep poss amod amod pobj root poss nsubj ccomp mark nsubj aux ccomp dobj cc conj prep pobj amod dep
+prep amod nn pobj nsubj root
+prep poss pobj root nsubj nn nn nn dobj prep pcomp nn amod nn dobj cc nn nn conj ccomp dobj nn dep vmod acomp dobj dep cc conj cc
+nsubj advmod nsubj csubj advmod dobj cop xcomp cc conj nn dobj cc advmod cop det amod amod nn conj root nsubj advmod advmod xcomp amod nn dobj
+nsubj csubj dobj advmod root
+nn nn nn dep nsubj root det dobj prep pobj cc conj nn nn dobj aux xcomp xcomp prep pobj cc conj poss dobj dep prt advmod
+nn nn amod root dep prep aux cop det nn nn nn pcomp
+det nsubj root num dobj cc aux conj dobj prep det det pobj
+nn nn neg advmod root prep det pobj det nsubj rcmod nsubj dep xcomp nsubj det xcomp
+nn nn nn root amod dep dep nsubj aux vmod dobj prep pcomp pobj nsubj neg rcmod det dobj advmod
+nn nn root
+nsubj cop det nn nn root nn advmod dep advmod
+dobj nsubj csubj prep nn pobj cop det root nsubj dep prep det pobj prep pobj
+root det nsubj cop rcmod
+nsubj root nn nsubj ccomp dobj dep
+nn nn nsubj root advmod amod dobj prep pcomp neg nn nn nn dobj dep nsubj dep nsubj xcomp cc nn amod nsubj conj dobj
+advmod mark nn nn amod nn nn nn nn nn nn root dobj
+nn nn nsubj nsubj cop amod root predet det dobj nsubj advmod rcmod dobj mark nn nsubj ccomp
+nn nn amod nsubj root prep dep amod pobj
+nn nn nn nn nn nn amod root prep pcomp nn nn nn nn nn nn nn nn nn dobj
+nn root prep pobj prep det amod pobj
+root prep pobj dep dep mark dobj nn nsubjpass auxpass prep pobj aux aux advcl prep det amod pobj prep pobj cc advmod npadvmod amod nn conj
+nn root poss nsubj rcmod dobj prep det pobj cc conj dep dep prep pobj
+dep root dobj amod mark nn nsubj cop det nn nn ccomp
+nn root prep nn pobj prep det nn nn nn nn nn amod pobj
+root nsubj rcmod poss dobj nsubj dep dobj amod mark nsubj advcl prep pobj cc conj amod dobj advmod vmod prep det pobj prep det pobj
+nsubj prep det pobj root dobj preconj dep cc det conj
+det amod nsubj root nsubj xcomp cc
+root nn nsubj cc conj dep dep nsubj ccomp dobj
+nn nn nsubj root prt dobj prep nn pobj nsubj rcmod dobj prep det pobj amod amod dep det nsubj rcmod aux xcomp nn amod nn dobj
+nsubj mark nsubj advcl dobj advmod advmod advmod root xcomp prep det pobj mark nsubj advcl aux cop det amod amod xcomp advmod advmod
+nn nn root
+advmod root advmod nsubjpass nsubj rcmod poss nn nn dobj advmod advmod auxpass ccomp mark nsubj nsubj rcmod nn nn dobj cop advcl
+nn root nsubj rcmod det dobj
+nn nn root nsubj rcmod det dobj
+nn nsubj root dobj prep pobj npadvmod amod dobj
+cc nsubj root nn dobj
+nn nn nsubj root dobj advmod dep det tmod
+advmod det nsubj prep poss nn pobj cop root vmod prep dobj nsubj pcomp aux cop det nn xcomp
+advmod nsubj cop advmod root cc conj aux aux auxpass xcomp det amod dobj prep det pobj prep nn pobj
+nsubj nsubj rcmod dobj root dobj
+dep nsubj amod root det amod dobj prep poss nsubj pobj nsubj rcmod aux xcomp dobj advmod nn nn nn nn dep
+amod nn nn amod amod poss nsubj nsubj prep pobj root dobj aux vmod prep nsubj pcomp iobj amod amod dobj
+nn nsubj prep det amod nn pobj prep det pobj root nn nn nn nn dobj
+nsubj cc conj det det nn pobj root det nsubj ccomp prep pobj
+prep det pobj prep poss amod nn nn nn pobj root dobj
+dep root prep pcomp pobj mark det dep nsubj aux advcl nsubj dep
+nn nn nsubj root prt
+amod nn nn nsubj root aux csubj aux ccomp nn cc conj nn dobj det tmod
+nsubj poss root prep poss pobj advmod advmod dep dobj cc conj nsubj advmod ccomp cc conj
+root advmod nsubj rcmod det nn nn nn dep nn nn dobj
+root vmod prep poss npadvmod npadvmod amod nn pobj
+amod amod root prep pobj det dep det dep
+nsubj aux nsubj root nsubj nsubj ccomp det advmod amod nn nn dobj
+nsubj root det dobj
+nsubj root prt dobj
+root mark nsubj det dep
+nn nn nn nn nsubj cop root
+amod nn amod nsubj root det nn nn dobj
+det nsubj root amod dobj poss nsubj cop nn nn nn dep dep
+amod nn nsubj aux amod det root prep pcomp det pobj advmod amod
+root dep advmod det nsubj cop amod dep advmod nsubj vmod nsubj ccomp det nn dobj nsubj rcmod
+nn nn nn nn nn nn nn nn nn nn root dep det det nn dep vmod det nn nn dobj
+root nn nn nn nn nn nn nn dep aux vmod det nn nn nn nn dobj advmod amod dep prep pobj
+root aux xcomp prep det amod pobj prep pcomp poss dobj
+nsubjpass auxpass root prep neg pcomp det amod nn dobj vmod advmod advmod dep nsubj neg dep cc conj cc nn nn nn nn conj
+nsubj root nsubj aux dep nsubj ccomp mark poss dep amod nsubj advmod ccomp dep advmod dobj cc det conj prep dobj cop nsubj pcomp
+root amod dobj det amod nsubj ccomp dobj prep pcomp det pobj mark nsubj aux advcl prep nn pobj
+amod nsubj cop det amod root advmod nsubj cop neg nn amod rcmod dep amod dobj
+amod root
+det amod nsubj aux root prep det pobj nsubj rcmod dobj amod dep dobj nn dep
+nn nsubj det nsubj advmod root dobj cc conj mark nsubj advcl aux xcomp iobj poss dobj
+root pobj amod dep dep dobj dep vmod dep dobj prep poss pobj prep poss pobj prep nn nn nn nn nn pobj
+nsubj root det amod dobj nn nn nn dep det amod dep
+nn root nsubj rcmod amod nn dobj
+root nsubj cop det ccomp advmod nsubj advcl dobj
+nn nn nn nsubj root dep nn nsubj dep det nsubj prep pobj ccomp det nsubj ccomp nsubj ccomp dobj
+poss amod poss root
+root det nsubj dep prep det nn nn nn nn nn nn pobj dep prep nn amod nn pobj
+nn nn nsubj nsubj rcmod neg dobj prep pobj advmod advmod prep poss pobj root det nn dobj cc conj
+advmod nsubj aux nsubj root dobj nn aux nn advmod advmod det amod nsubj nsubj rcmod cop advcl poss dobj cc conj poss dobj prep det nn pobj prep amod pobj
+nn nn nsubj root aux xcomp nsubj ccomp advmod nsubj parataxis nsubj cop det amod ccomp nsubj rcmod amod acomp
+nn nn nn nsubj root prep nn nn nn pobj dep
+mark nsubj aux advmod cop det nsubj neg cop det root
+mark nn amod dobj nsubj aux root dep dep npadvmod advmod npadvmod amod poss nn nsubj cop advmod ccomp prep poss nn pobj
+nn root amod prep pobj det dobj cc det amod conj cc conj dep det nn dobj advmod nsubj advmod vmod dobj advmod advmod
+dep root nsubj ccomp prep pobj nsubj rcmod det nsubj ccomp acomp
+root neg det num nn nn nsubj neg rcmod det dobj prep det nn nn pobj
+root neg dobj advmod nsubj rcmod expl ccomp advmod det dobj vmod det nn dobj dep amod nn nn nn dobj punct
+tmod det nsubj advmod root advmod
+advmod nsubj root amod nsubj cop ccomp aux prep pobj dep dep aux nsubj dep poss amod dobj vmod dobj vmod prep det nn amod pobj dep
+advmod root dobj prep pobj nsubj rcmod neg dobj prep poss pobj nsubj rcmod nn nn amod amod nn dobj vmod dep
+nsubj cc conj cop neg advmod det root nsubj rcmod dobj dep det dobj cc conj aux vmod dobj prep pobj cc conj det dobj
+nn advmod nsubj root poss nsubj expl parataxis dobj prep pobj cc expl conj cop det nsubj advmod cop ccomp
+nn nsubj cop root aux nsubj nn dobj aux vmod dep
+nn nn nsubj advmod root aux xcomp dep mark nsubj prep advmod num pobj cop ccomp prep pobj
+nn root mark nsubj cop dep mark nsubj aux advcl cc nsubj aux conj prep aux pcomp prep nn amod nn pobj
+nn nn nn nn root prep nn pobj dep aux xcomp prep nn pobj advmod advmod advmod dep dobj
+nn nn root nsubj aux rcmod poss dobj
+root advmod nn nsubj dep acomp prep poss pobj mark nsubj dep dep nsubj advcl nsubj ccomp acomp aux xcomp nsubj ccomp poss dobj prep det amod pobj
+csubj det dobj prep pcomp prep det amod pobj cop det root nsubj dep prt dep
+det nn nn nsubj csubj root aux xcomp det dobj prep poss pobj vmod nsubj nn nn amod neg ccomp advmod amod nn nn nn dep
+nn nn nn nn nn nsubj root dobj cc
+nsubj root det dobj det dep det dep det nn nn amod dep
+nn nn nsubj root nsubj ccomp advmod nsubj advcl nsubj ccomp dobj prep pobj det tmod
+nn nn nn nsubj prep nn pobj neg prep poss pobj aux nsubj advmod root amod dobj prep pobj vmod nn dobj
+nn nn nn root prep nn nn pobj advmod advmod
+nsubj prep pobj root nn dobj
+root nsubj cop rcmod dep prep amod nn nn nn nn pobj
+nn root det nn dep
+nn nsubj root advmod amod nn nsubj aux ccomp dobj prep pcomp aux xcomp amod dobj det amod nsubj amod rcmod dep
+nn nn nsubj root advmod
+nn root dep
+nn nsubj root nsubj dobj prep dep poss dep
+nn nsubj vmod det amod dobj root
+root prep pcomp poss amod pobj cc poss nn conj
+nn nn nn nsubj root det dobj prep amod pobj prep nn pobj
+advmod nsubj aux root poss nn nsubj dep nsubj advmod ccomp dobj
+amod nn nsubj root det dobj amod advmod advmod cc nsubj conj advmod dep prep pobj advmod
+nsubj cc dep nn nn conj root prep pobj nsubj cop det amod ccomp vmod dobj prep auxpass pcomp prt nn nn nn dobj
+det nn nsubj root xcomp det nn dobj nsubj rcmod dobj
+nn nn nn nn nsubj nsubj rcmod prep det nn nn pobj root xcomp
+root prep det nn amod pobj
+root prep nn pobj prep det nn nn nn nn nn pobj prep nn nn amod amod nn pobj
+nn amod nn nsubj vmod dobj root prt advmod
+nn root
+nsubj aux root amod nn dobj det nsubj prep pobj advmod rcmod dep det dep poss nsubj dep mark expl dep dep
+nn nn nsubj root acomp aux xcomp iobj dobj
+root det dep nsubj rcmod dep dep dep nsubj amod dep nsubj dep dobj vmod nn nn nn dobj det dep prep nn pobj
+advmod csubj aux xcomp det nn amod dobj cop root nn amod nn nsubj parataxis dobj
+nn nsubj aux root aux xcomp amod advmod poss nn nn dobj
+nsubj nsubj rcmod prep pobj root amod dobj nsubj rcmod dep cc conj prep det pobj prep det amod pobj
+nn nsubj advmod root prt prep poss pobj nsubj ccomp xcomp aux auxpass xcomp prt
+det advmod amod nsubj root dobj advmod aux vmod nn dobj advmod aux nsubj rcmod aux xcomp
+amod root det amod dep vmod amod nsubj cop det amod ccomp vmod dobj prep nn nn pobj
+root det dobj det dep cc det conj det dep
+nn dep advmod advmod amod root
+dep cop advmod root aux xcomp aux xcomp mark det prep det amod nn pobj amod nsubjpass aux auxpass ccomp prep pobj
+nsubj mark nsubjpass advmod auxpass dep prt prep nn pobj nsubj rcmod cop amod nn root nsubj rcmod nsubj ccomp neg aux csubj nn nn dobj aux dobj
+root nn nn amod pobj advmod amod amod amod dep nsubj rcmod nn nn dobj prep pcomp pobj
+nsubj root amod dobj prep amod npadvmod amod amod pobj prep det pobj prep det pobj
+amod nsubjpass auxpass root dep nn dep vmod prep poss nn pobj advmod nsubj rcmod dobj prep poss pobj
+nn nn root advmod auxpass dep acomp prep det nn pobj cc det conj
+root nsubj rcmod aux cop det amod xcomp prep nn pobj nsubj rcmod det amod dobj
+nn amod nn nsubj aux advmod root dobj vmod dobj prep det pobj det dep advmod advmod
+nsubj root iobj nn dobj dep
+root det nsubj cc conj ccomp nn nn dobj
+root nsubj rcmod dobj poss nsubj rcmod ccomp prt dobj
+det nsubj root det amod dobj
+nsubj root nsubj ccomp iobj dobj prep pcomp prt det amod dobj nsubj rcmod dobj dep
+nn root dep advmod prep poss nn nn pobj det amod dep
+root nsubj aux rcmod dobj quantmod det npadvmod npadvmod advmod nn dep nsubj parataxis nsubj ccomp amod nn nn nn nn nn nn nn dobj
+csubj poss dobj cop det nn root
+nn nn root
+nn root advmod dep cc nn nn nn conj nsubj dep dobj prep pobj prep advmod prep det nn nn pobj pcomp aux xcomp prep dep
+nsubj root advmod nn nn nn nn dobj
+nn nsubj root mark nsubj advmod advcl det nsubj cop amod nn parataxis dep dobj dep
+advmod nsubj root prep cop advmod pcomp prep pobj prep nn pobj dep dep dep nsubj ccomp det dobj advmod dep
+nn nn root vmod aux aux xcomp advmod prep det pobj det nn nn nn nn dobj
+root dep advmod nsubj rcmod dep dep nsubjpass cc poss conj auxpass rcmod xcomp mark nsubj ccomp nn dobj nsubj dep dobj prep
+dep mark nsubj dep dep dep prep pobj nsubj amod nn advmod dep root prep poss pobj nsubj dep nsubj ccomp neg dobj
+nn nsubj advmod root nsubj nn xcomp
+nn nn nn nsubj cop det advmod amod nn root nsubj rcmod amod nn amod nn nn dobj amod dep
+amod nsubj amod discourse nsubj ccomp poss nsubj ccomp dobj nsubj aux rcmod advmod npadvmod acomp poss nsubj cop advmod amod ccomp xcomp det root
+nn nn nn nn root aux vmod dobj det dep prep pobj
+nn nsubj root nsubj ccomp num amod dobj prep pobj dep
+nn nn root dep advmod rcmod det nn nn nsubj
+dep nn nn nsubj root prep pobj prep det nsubj amod nn pobj prep advmod aux pcomp dobj cc det amod amod nn nn nsubj cop conj
+nn nsubj csubj nsubjpass auxpass ccomp aux cop xcomp prep amod amod pobj cc det conj cop advmod root prep pobj advmod dep
+nn nn amod root
+nsubj nsubj rcmod dobj root dobj
+amod amod nsubj mark nsubj dep det nsubj ccomp aux xcomp aux xcomp dobj dep prep pobj prep pobj prep pobj root
+amod nn root det nsubj rcmod poss dobj
+root dep mark nsubj prep pobj prep pobj ccomp prep nn nn dep advmod dep
+csubj dobj root nn nn nsubj prep nn nn pobj ccomp dobj prep pobj dep nn nn nsubj rcmod nn dobj
+amod root prep det pobj det amod nn dep prep det pobj
+nn nn nn nsubj csubj poss dobj prep pobj cop nn nn nn root
+root det dobj prep det nn pobj
+det nsubj root poss dobj prt mark nsubj advcl prep pobj cc nsubj conj aux xcomp dobj prep det nn amod pobj prep pobj
+nn root vmod prep poss pobj mark nsubj dep dep nsubj advcl nsubj ccomp acomp aux xcomp nsubj ccomp dobj prep poss amod pobj dep
+nsubj advmod root poss nsubj prep pobj aux ccomp poss amod nsubj xcomp
+root prep nn nn pobj prep nn pobj nn nn nn dep vmod nn amod amod nn nn dep prep nn pobj
+nn nsubj root dobj poss dobj nsubj rcmod nn nn dobj
+nsubj nn root cop det num dep cc det amod conj
+nn nn nn root
+nn root advmod dep advmod mark nsubj advcl advmod aux ccomp nn dobj vmod det nn dobj advmod cc advmod conj nn advmod vmod prep det pobj
+nn nn nn nn nn nn nn nn nn root advmod nsubj dep dep amod advmod nn nn nn dobj
+nn nn nsubj aux det nsubj root nn nn nn dobj
+det nsubj root dobj
+nn nsubjpass auxpass root prep pobj
+nsubj advmod aux nsubj root prep pobj
+root dep mark nsubj amod ccomp nsubj ccomp prt advmod dep nn nsubj advcl prep amod nsubj cop det pcomp
+nsubj root nn dobj vmod mark det nsubj aux advcl dobj
+nsubj prep det pobj prep poss pobj dobj mark nn nn nn nsubj rcmod prep pobj prep nn nn nn nn pobj root
+root pobj aux cop det amod vmod nsubj ccomp aux cop amod vmod
+dep root nsubj ccomp det dobj prep det pobj
+advmod root nsubj ccomp nsubj ccomp dobj prep det nn nn nn nn nn pobj
+nsubj root det num dobj advmod advmod advmod nsubj aux dep dobj cc conj advmod aux xcomp
+root nsubj advmod rcmod nsubj ccomp aux csubj prep dep advmod pobj cop ccomp aux xcomp prep det pobj
+root nn nn amod amod dep
+root prep nsubj pcomp xcomp aux xcomp det dobj nsubj rcmod acomp
+neg root aux xcomp det dobj neg dep
+root advmod dep nsubj ccomp det dobj prep npadvmod pcomp amod nsubj parataxis nn dobj vmod nsubj dobj nsubj advmod dep nn dobj prep pobj mark nsubj advcl xcomp
+advmod root aux vmod xcomp nn dobj mark nsubj advcl dobj
+nn nn nn nsubj cc mark nsubj conj dobj prt prep pobj cc conj dobj prep pobj root aux xcomp
+root dep nsubj ccomp poss dobj
+root nsubj ccomp det dobj aux dep
+root nsubj rcmod det dobj
+nn nn root vmod iobj det dobj cc poss det num amod conj cc conj dobj prep pcomp poss nn nn dobj prep det pobj
+root det dobj nsubj neg rcmod prt
+root det amod nsubj cop amod rcmod cc conj dep nsubj dobj prep neg amod pobj advmod advmod
+nn nn root det dep poss dep
+advmod aux nsubj root nsubj amod nsubj ccomp det dobj nsubj dep acomp cc poss nsubj conj prep nn det amod pobj
+nn nn nsubj neg root cc conj
+root pobj dep amod dep dobj det dep amod
+nsubj cop det amod root nsubj amod dep
+nn nn amod nn nn nsubj det dep cop det nn nn root dep dobj dep
+amod det nn root det advmod amod amod nn nn nn nn dep cc conj dep
+nn amod nsubj advmod root aux dep prep nn pobj dep nn dobj aux vmod prep neg pobj prep pobj
+nn root poss advmod nsubj rcmod poss neg advmod amod nn dobj vmod aux xcomp dobj
+nn root nsubj rcmod aux xcomp prep pobj vmod nsubj dep ccomp dobj prep pobj vmod det dobj prep pobj
+nsubj root prt dobj prep det nn nn pobj
+amod amod nn nsubj aux root poss nn nn nn nn nn dobj
+amod nsubj root nsubj ccomp dobj det nsubj prep pobj cop rcmod
+root dobj poss amod dep det num nn nn dep prep
+amod nn nn root dep advmod prep advmod nn nsubj pcomp det dobj advmod nn advmod aux advcl dobj
+root prep amod nn pobj cc nn conj
+nsubj advmod mark nn nsubj root nn dobj nsubj advmod nn rcmod nsubj dep neg nn nn dobj csubj prep pobj dep dobj
+root det nsubj mark nsubj aux dep dobj prep dep advmod pobj cc aux nsubj advmod conj cc conj aux xcomp poss nn dobj cc nn conj det dep
+root nsubj ccomp nsubj ccomp dep mark det nsubj advcl prep poss nn pobj det nn nn dep neg dep
+nsubj advmod root prep pobj det dobj aux dep cop ccomp prep pobj
+nn nn nsubj nsubj rcmod advmod root
+nn root det dep vmod prep auxpass pcomp mark det nn dep nsubj det dep advmod nsubjpass cc conj aux nsubj ccomp dobj det dep
+nsubj root det dobj prep nn pobj prep amod pobj
+nn root
+nsubj vmod num amod dobj cop advmod root prep pcomp dobj dep
+dep det nsubj csubjpass dobj prep pobj prep pcomp prep amod pobj cc nn conj advmod prep pobj poss dep auxpass prep pobj prep num pobj advmod root
+advmod csubj amod det nn nn dobj cop nn nn nn amod nn root
+nsubj root prep pobj prep det nn pobj dep nn nsubj det dep nsubj rcmod prep pobj mark det nsubj advcl dobj prep det nn pobj
+nn nsubj root nn dobj prep pobj prep det pobj
+nn root dep
+nsubj root dobj amod prep dep nn pobj dep
+nn nn nn root dep dep dep dep nsubj dep acomp mark det nn nsubj advcl det tmod dobj det tmod
+root nsubj cop ccomp advmod advmod prep pobj amod xcomp dobj dep
+advmod root dobj mark det nsubj advcl dobj
+mark nsubj root dobj nsubj aux advmod ccomp prep det pobj advmod nsubj cop det nn amod rcmod
+dep root det nn amod amod dobj amod nn dep
+root mark nsubj dep dobj mark nsubj dep det amod dobj cc nsubj neg conj aux xcomp advmod dobj nsubj ccomp
+nn root prep pobj nn dep
+nn nsubj root det dobj aux vmod prep pobj dep nn nsubj ccomp prep pobj dep amod
+nn nn advmod det advmod amod nsubj aux root det amod nn amod nsubj ccomp prep pobj prep det nn pobj
+nn nn nn root nn amod nn dep vmod amod dobj
+nn amod root advmod nn amod nsubj advmod rcmod dep advmod
+nsubj root nn dobj det dobj tmod prep pobj nsubj aux rcmod aux xcomp poss dobj dep
+root amod dep advmod amod nsubj rcmod aux xcomp amod amod dobj prep det amod nn nn pobj dep
+nsubj cop det root
+aux det nsubj advmod dep amod dep det dep amod nsubj root dobj
+nsubj aux advmod root poss nn nn nn pobj
+amod advmod nsubj root mark nsubj advcl aux xcomp dobj prep poss amod nn amod pobj
+nn root neg dep dep
+nsubj root prt det dobj prep nn nn nn nn pobj
+det amod nsubj nsubj rcmod prep det pobj det tmod prep poss amod pobj root
+nn nsubj root nsubj ccomp dobj
+nn dep amod nsubj root dobj dep
+nsubj aux cop det root nsubj cc cop det conj cop poss ccomp
+dep nsubj root dobj
+root det nn nn nsubj rcmod mark nsubj advcl det dobj nsubj rcmod mark nsubj advcl det dobj dep
+nsubj root nn dobj dep
+nn root neg dep
+amod root advmod prep advmod nsubj pcomp dobj det dobj nsubj rcmod neg mark nsubj advcl acomp nsubj ccomp prep advmod nsubj pcomp prep det pobj
+amod nn root mark det nsubj dep det dobj
+amod nn amod nn root prep det pobj nsubj rcmod aux auxpass xcomp prep det pobj advmod prep pcomp dobj mark nsubj advcl
+nsubj root nn nn nn nn dobj
+root nsubj rcmod det nsubj prep det amod pobj ccomp dobj dep amod dep dep prep det amod nn nn nn nn nn pobj
+root dep vmod xcomp nn dobj vmod cop amod nn xcomp neg dobj prep pobj cc cop conj dep prep pobj
+root det amod dep prep det pobj cc det conj det nsubj aux rcmod dobj amod det dep dep dep dep acomp
+nn root prep pcomp poss nn pobj
+nsubj cop root prep det pobj nsubj rcmod dobj advmod advmod advmod prep nn nn neg det amod pobj prep det pobj
+nn nsubj advmod advmod root amod dobj prep poss pobj dep dep nsubj rcmod prep det pobj prep pobj
+nsubj aux root prep det amod pobj nsubj aux rcmod det dobj
+dobj num amod amod nsubj nsubj advmod rcmod dobj vmod quantmod mwe num amod dobj advmod root advmod advmod nsubj advcl dobj
+amod root det dep cc det conj
+nn nn nsubj root prep nn pobj
+dep aux nsubj root det nn nsubj ccomp det amod dobj mark prep pobj nsubj advcl advmod xcomp prep pcomp nn dobj prep poss pobj dep
+poss nsubj advmod mark nsubj dep dobj vmod det amod dobj nsubj rcmod prep cop amod nn nn amod advmod amod root
+nn nn amod nsubj root advmod prep dep nsubj aux pcomp dep
+det root advmod advmod amod nn amod nn nn nn nn dep
+amod nsubj root det dobj dep
+amod root dep amod dep det nn nn nn nsubj rcmod nn nn dobj
+dep nsubj root dobj advmod prep nn nn nn nn pobj vmod dep acomp nsubj nn amod nn ccomp prep det nn nn nn nn pobj
+root det dobj mark nsubj dep det dobj
+dep det nsubj cop det amod nn root prep mark nsubj pcomp nsubj ccomp advmod det dobj prep det pobj
+advmod nsubj prep nn pobj root csubj poss dobj prep neg pobj prep pobj advmod xcomp det dobj nsubj aux aux dep aux cop advmod xcomp
+advmod root advmod aux nsubj dep dep det amod dobj advmod det amod amod nn nsubj aux xcomp nsubj cc conj dep ccomp amod dobj
+nn nsubj root poss dobj prep pobj
+root advmod nsubj rcmod prep poss pobj advmod dep dep nsubj ccomp nsubj ccomp det amod dobj aux vmod prt dobj
+root nsubj ccomp dobj
+root amod dep dep det dobj
+nn nn nsubj dep dep nsubj root nn amod dobj prep pobj dep
+nsubj root poss nn dobj advmod amod amod nsubj aux cop amod rcmod nsubj dep dobj dep nsubj advmod aux rcmod prt dobj
+amod root prep pobj prep amod pobj
+advmod nsubj root det amod dobj dep dep nn advmod vmod
+amod nn amod root poss nsubj dep prep det pobj cc nn nn nsubj conj poss dobj dep advmod vmod poss prt dep nn nn dobj dep
+nn root nsubj aux nsubj advmod rcmod poss nn dobj advmod det dep prep pobj dep nsubj aux dep poss dobj prep nn pobj
+nn nn nn nn root nn poss amod dep
+nn nn nsubj cop det amod root dep
+dep nsubj aux root nn nn nn dobj cc conj advmod dep acomp nsubj ccomp advmod nsubj ccomp nn dobj advmod
+nn nsubj root det nsubj ccomp nsubj ccomp nsubj ccomp ccomp dobj prep det amod nn pobj
+root vmod prt det dobj prep poss pobj det nsubj dep det dobj
+nn dep prep nn advmod nn amod amod pobj root
+dep nsubj aux root det amod dobj advmod
+root det dep
+root amod dep nn advmod nsubj advmod dep
+root det nn nn nn nn nsubj ccomp det dobj
+aux nsubj root predet det nn nsubj ccomp prep nn pobj
+amod nn nn root cc nn nn advmod nn nn nn nn nn conj
+root det pobj advmod nsubj advcl dep nn amod dobj advmod nsubj advcl amod nn dobj npadvmod
+nn nn nsubj root det dobj nn advmod vmod amod nn dobj parataxis dep xcomp aux xcomp dobj advmod prep det pobj
+root nsubj rcmod det amod dobj
+advmod aux root prep nn pobj nsubj rcmod prep det pobj
+amod nsubj prep det pobj csubj poss dobj root
+nn nn nsubj root poss tmod cc nsubj conj nsubj det xcomp cc advmod conj
+nsubj root det nn dobj
+nn nsubj aux root neg nn dobj vmod prep poss nn pobj prep pcomp pobj amod neg advmod dep det dobj
+root nsubj rcmod det dobj mark nsubj advmod advcl det nn amod nn dobj
+nn nn root
+nsubj root nn dobj amod det nn dep
+nn root mark nsubj advmod advmod dep nn nn nn dobj mark amod dep amod nn nsubj advmod amod ccomp dobj dep dep amod dobj
+nn nsubj aux csubj prep pcomp nn dobj nsubj ccomp aux xcomp det nn nn nn dobj prep aux xcomp dobj root
+nsubj root dep nn dobj
+mark nsubj root poss nsubj ccomp advmod dep
+nsubj root poss amod dobj advmod
+dep nsubj root advmod amod nn nn dobj dep
+nsubj cc advmod conj poss amod amod nn dobj neg root dobj nsubj rcmod prep pcomp mark nsubjpass aux auxpass advcl prep det pobj
+det amod nsubj root advmod prep nn nn pobj
+nn nsubj root dobj advmod poss dep
+nn det nsubj root
+advmod nsubj neg det root nsubj advmod det amod rcmod
+root dep nsubj ccomp det dobj prep pobj cc conj nsubj rcmod nsubj aux advmod nsubj rcmod prt
+root prep det pobj
+advmod root nsubj dep prep det pobj advmod nsubj aux rcmod prep pobj prep det pobj amod nsubj rcmod advmod prep poss pobj dep dobj mark nsubj advcl amod dobj
+root poss amod dep dep
+nn nn nn nsubj root amod nn nsubj ccomp neg prep pobj advmod nn nsubj cop ccomp dep dep amod dobj dep
+nn nsubj root dobj cc conj dobj cc conj nn advmod mark nsubj poss dep cop advcl
+amod root dep poss dep amod dep amod mark nsubj dep dobj cc nsubj prep pobj conj advmod prep pobj
+root mark nsubj advcl num amod dobj prep det nn amod pobj amod nsubj aux rcmod det dobj prep poss pobj
+nn nn nn nsubj advmod pobj dep root det dobj amod dep
+det nsubj advmod root advmod prep pcomp dep dobj nsubj dep aux rcmod acomp prep pobj
+nn nsubj aux root amod nsubj ccomp dobj
+dep root nsubj amod ccomp advmod nsubj aux dep cc conj dobj advmod nsubj aux ccomp poss dobj prep nn pobj prep poss pobj dep dobj dep
+nn root nsubj rcmod acomp advmod det nsubj ccomp poss dobj mark det nn nn nn nn nsubj cop det amod amod nsubj rcmod
+det nsubj root nn dobj dep
+nsubjpass mark cop nn dep prep nn pobj aux neg aux root prep pcomp dobj prep pobj
+nsubj root iobj det amod amod dobj cc nn amod conj dep dobj
+advmod nsubj root dobj nsubj rcmod dobj nsubj rcmod xcomp dobj nsubj aux nn nsubj aux rcmod aux xcomp nn amod nsubj ccomp nsubj ccomp poss dobj
+nsubj advmod root nsubj ccomp prt prep nn pobj nsubj ccomp prep det pobj nsubj aux rcmod det tmod det nn nsubj advmod ccomp dobj
+advmod nn nsubj det nsubj nsubj rcmod nn dobj aux root prt
+nn nn nn nn root nn advmod nsubj cop nn nn nn dep
+nn nsubj root det dobj nsubj rcmod mark nsubj advcl det dobj dep dep dep dep dep dep dep dep dep nsubj dep nn dobj advmod advmod
+amod root advmod nn nn nsubj aux dep dep num amod dobj aux vmod nn dobj prep det nn nn nn nn pobj
+det nsubj cop root dep det dobj
+root mark nsubj dep aux xcomp nn nsubj advmod ccomp prep det pobj prep nn pobj cc conj det dep
+nsubj cop advmod amod nn nn nn nsubj root
+nn root preconj advmod nsubj cop nn nn nn nn nn rcmod preconj nn nn nn nn nsubj prep poss pobj rcmod nn nn dobj
+nsubj root det dobj advmod dep dobj nsubj rcmod nsubj ccomp nsubj ccomp nn advmod amod nn dobj
+nn root poss vmod prep det pobj prep nn nn nn pobj prep det pobj prep det pobj
+root advmod amod dobj nsubj poss nn dep
+det amod amod nsubj prep det amod pobj root prep amod pobj prep det nsubj prep det pobj prep pobj pcomp dobj
+root mark nsubj nsubj rcmod dobj ccomp mark nsubj cc conj ccomp det amod dobj nsubj rcmod advmod prep pobj
+root advmod amod nsubj aux advmod rcmod prep det pobj prep det amod nn nn nn pobj prep pobj
+nsubj nsubj aux rcmod det nn amod amod amod dobj root mark nsubj advcl xcomp xcomp prep pobj dep
+nsubj root poss nn dobj nsubj rcmod nsubj ccomp advmod nsubj csubj det dobj prep pobj ccomp dobj dep prep pobj
+nn nn nn nn nn nsubj aux root dobj amod dep
+advmod nsubj dep advmod prep pobj prep amod pobj root
+predet poss amod nn nsubj advmod prep pobj root neg aux xcomp iobj neg dobj nn dobj vmod dobj prep poss pobj
+nsubj nsubj rcmod aux xcomp dobj cop det amod root det amod nn dobj nsubj aux ccomp amod dobj mark nsubj aux advcl advmod aux ccomp cc conj
+amod root dep dep
+poss nn nn nn root
+nn nn nn nn nn nsubj advmod root dobj dep det num amod dep cc num amod nn conj npadvmod prep pcomp prep pobj
+nn advmod nsubj advmod advmod advmod dep aux nn advmod root advmod
+root poss dep advmod nsubj rcmod dobj aux xcomp nn nn nn dobj
+root nsubj rcmod nsubj cop det nn ccomp
+nsubj aux nsubj root det dobj prep det nn pobj dobj
+nn nn root cc poss conj prep det pobj
+root advmod mark nsubj dep det dobj
+dep nn nn nn nsubj aux advmod root dobj prep pobj
+root poss dobj advmod poss nsubj rcmod prt nn nn dobj
+nsubj aux nsubj advmod root det nn dobj prep pcomp nsubj ccomp dep prep pobj nn advmod det nsubj advmod ccomp acomp
+root cc mark nn nsubj aux conj acomp prt det nsubj ccomp det nn dobj prep pobj advmod
+root det nn nsubj cop nn dep cc amod nn conj nn advmod det dep prep det pobj
+root dobj nsubj rcmod dobj nsubj prep poss pobj ccomp prep nn nn pobj dep det dep
+root mark det nn nsubj dep prep pobj nn advmod vmod aux xcomp poss dobj cc conj poss dobj prt
+nn nsubj root amod nn advmod dobj
+mark nsubj root prep poss pobj advmod advmod nsubj dep nsubj ccomp prep pobj nsubj rcmod det amod dobj dep
+dep root det nsubj prep pobj dep prt prep poss pobj
+nn nn root nsubj rcmod prep det pobj cc conj dobj prep amod amod pobj nsubj rcmod dobj cc conj dobj nsubj cop rcmod dep
+root dep amod dep dep dobj dep nsubj rcmod det nn nn dobj dep amod nn nn nn nn amod dobj
+cop det root prep det amod pobj amod
+nsubj csubj dobj cop det root nsubj rcmod dep advmod prep poss nn nn pobj
+dep det nsubj root dobj
+det nsubj prep det pobj root xcomp nn dobj prep mark nn det nsubj pcomp poss nn dobj
+amod amod root amod dep nsubj amod dobj advmod
+mark nsubj vmod root nn dobj dep dobj nsubj rcmod dobj dep prep det nn pobj
+nsubj root nn amod advmod det amod dobj
+root det nn nn nsubj ccomp nsubj ccomp dep
+nn nn nn nn nn nsubj advmod nsubj cop ccomp nsubj xcomp prt dobj nsubj advmod ccomp dobj advmod dep aux root nsubj ccomp prt
+nn root prep amod pobj prep pcomp
+dep root dobj
+root prep det nn pobj prep nn pobj
+nn nn nn root dep prep nn det nn pobj
+nsubj root det nn dobj prep det pobj nsubj prep pobj parataxis nn amod dobj mark nsubj advcl det nsubj ccomp prep pobj
+nn nn nsubj root det amod nsubj prep det pobj nsubj rcmod det dobj aux cop det vmod prep det amod nn pobj ccomp dobj
+nn nsubj root dep prep poss nsubj dep nn nn nn pobj dep
+nsubj aux root dobj prep amod nn pobj advmod amod nn nn dep
+nsubj nsubj rcmod prep pobj aux root aux dep det dobj amod nsubj dep dep cc conj advmod aux nsubj dep advmod advmod prep pobj dep
+nn root
+nn nn nn root mark nn nsubj advcl dobj dep dobj cc conj dobj dep det dep
+root mark nsubj advcl dobj dep prep poss pobj mark neg amod nsubj neg advcl dobj advmod
+nn root nsubj rcmod det amod nsubj ccomp prep dep pobj cc neg conj advmod dep
+nn nn amod nsubj root amod dobj det nsubj parataxis acomp
+nn nsubj root det dobj prep poss pobj dep nsubj advmod advmod nsubj csubj nsubj ccomp det dobj cc poss nn conj cop det rcmod amod advmod nn dep
+nn amod nn amod nn root
+nn nsubj root nsubj ccomp amod dobj dep dobj
+amod nn amod nn root advmod advmod amod
+nn nn nn nsubj prep pobj root poss amod nn dobj dep nsubj cop quantmod dep ccomp prep nsubj cop det amod pcomp
+amod nn nsubj advmod root det amod dobj prep pobj amod tmod nn dep
+root poss amod nsubj rcmod aux xcomp dobj advmod nsubj nsubj parataxis nn nn dobj nsubj advmod rcmod dobj
+aux root det amod dobj prep pobj
+nn amod root nsubj dep dobj prep pobj aux vmod dobj
+nn nsubj advmod cop rcmod prep det nn pobj root nsubj advmod ccomp dep amod dobj cc conj
+nsubj prep poss pobj amod dep prep poss nn amod pobj root dobj nsubj parataxis det dobj
+root advmod nsubj rcmod poss amod nn nn nn nn nn nn dobj
+amod nn nn nsubj aux nsubj csubj nsubj ccomp prt dobj prep poss pobj prep pobj root
+root advmod nn nsubj aux nsubj dep poss dobj amod dep cc nsubj conj poss nn dobj nn nn dep nsubj nn advmod det dep
+amod nn nn npadvmod amod nn nn det root det advmod nn nn dep
+dep det nsubj advmod root poss amod nsubj dep ccomp advmod pobj prep nn pobj
+advmod aux nsubj advmod cop nn amod root amod prep pobj
+root det poss nn amod nsubj advmod pcomp advmod aux nsubj ccomp poss amod amod dobj amod nn nn nn dep dep
+nn nn nsubj root advmod dobj
+root prep pobj nsubj rcmod nsubj ccomp amod nn nn dobj dep
+root dep nsubj vmod nn dep aux advmod ccomp mark advmod nsubj advcl iobj det dobj cc nn conj
+root poss nn amod nn nn nsubj det nn nn xcomp mark nsubj advcl det dobj prep advmod nsubj pcomp
+dep det amod nsubj aux csubj det dobj prep pcomp pobj root advmod aux advmod xcomp dobj
+nn nn advmod nn root prep pcomp pobj nsubj rcmod neg det dobj advmod mark nsubj advcl cc advmod nsubj conj nsubj ccomp dobj
+nn nn nn nn nn nsubj root advmod cc conj dep prep det pobj nsubj rcmod amod nn nn dobj dep dep
+nn nn dep nsubj aux cop root prep det amod pobj prep pobj mark nsubj advcl dobj cc poss amod conj aux vmod acomp nsubj cc nn conj cop ccomp dep
+root mark nsubj dep amod dep dobj nn advmod dep dobj amod
+root vmod nn nn nn nn dobj
+root nsubj rcmod nn nn nsubj parataxis nn dobj dep dobj det amod nsubj rcmod poss nsubj ccomp prep pobj dep dep nn nn dobj
+nsubj root prep pobj prep det pobj advmod amod advmod nsubj advcl xcomp aux xcomp
+nn nsubj advmod root nsubj cop advmod ccomp neg det nsubj aux dep amod amod dobj nsubj cop advmod parataxis
+amod nn nsubj root aux aux xcomp nn dobj advmod nsubj advcl prep prep nn nn pobj cc nn nn amod amod conj nsubj dep
+nsubj advmod nn nsubj rcmod advmod amod nsubj ccomp discourse prep pobj nsubj ccomp det amod dobj cc nsubj conj advmod aux nsubj ccomp poss dobj root
+advmod det nsubj csubj acomp advmod dep dobj cop det root dep
+nn nsubj csubj xcomp det dobj cop amod advmod nn nn nn root advmod aux dep det dobj vmod nsubj det xcomp
+nn root nsubj rcmod mark advmod aux nsubj advcl prep nn pobj nsubj cop dep cc nsubj aux conj nn nsubj ccomp prep advmod det nn nn pobj
+root nsubj rcmod det nn dobj
+root mark nsubj ccomp neg dobj nn nn nn amod nn dep
+root nsubj rcmod det amod amod dobj prep nn nn amod nn nn nn pobj
+root nn dobj nsubj aux rcmod det amod dobj prep poss pobj cc auxpass conj cc nsubj nsubj conj mark nsubj advmod advcl det dobj
+nsubj prep det pobj aux aux root prep pobj prep det amod pobj det tmod npadvmod
+tmod mark nsubj aux nsubj advcl cc conj amod dobj prep pobj prep nn pobj advmod nsubj dobj root dobj
+root advmod dep aux xcomp det dobj prep poss pobj
+amod nn nn root amod dep prep pobj vmod prep det pobj cc nsubj dep amod conj nsubj aux aux rcmod dobj
+root dobj prep det pobj dep xcomp poss dobj prep pobj aux vmod prt det dobj prep det amod pobj prep pobj prep det pobj
+nsubj cop root prep amod pobj nsubj rcmod prep pobj
+nsubj cop det amod root
+nn nsubj dep dep aux nsubj csubj prep dep nn pobj det dobj aux root prt prep pobj prep pcomp amod dobj
+amod nn root amod prep pobj nsubj rcmod nn nn dobj
+dep aux nsubj root dobj mark nsubj advcl iobj det dobj
+nn nn nn root neg det dep nsubj rcmod dobj nsubj rcmod det amod nn nn nn dobj vmod prep advmod det nsubj dep aux pobj
+nn nn nsubj cop det amod root prep advmod nsubj aux pcomp nsubj dobj nsubj rcmod prep poss amod nn amod pobj
+nsubj nsubj root nsubj xcomp advmod nsubj ccomp nn dobj advmod prep nn pobj dep
+nn amod nn nn nsubj vmod prt nn amod dobj root nsubj ccomp nsubj aux cop nsubj advmod xcomp
+neg nsubj nsubj rcmod dobj root nsubj ccomp prep pobj dep nn dobj
+nsubj aux root prep poss amod nn pobj
+nn nn nn root poss dep nsubj dep det dobj cc nsubj conj dobj
+root poss dep prep nn pobj
+nn nn root vmod aux xcomp dobj amod nn dep dep det amod dep
+nn nn root
+amod amod nn root nsubj cop amod dep cc conj nsubj amod ccomp advmod cc nn conj vmod prep pobj
+nn amod amod root
+nsubj nn nn amod dep cop root prep det pobj dobj nsubj rcmod neg dobj det dobj nsubj aux ccomp dobj cc poss conj advmod cc nsubj aux conj
+npadvmod nsubj advmod cop advmod root
+det root det nn dep
+nn root det nsubj nsubj rcmod prt det nsubj dep prep amod pobj rcmod aux xcomp prt det dobj det dep neg vmod dobj
+nsubj advmod root det dobj dep prep det pobj dep dep
+nn root
+det amod nn nn nn nn amod root vmod prt mark amod nsubj ccomp nn amod neg det dep poss amod nn dobj dep
+advmod amod nn advmod nn root prep det pobj cc conj
+nsubj prep det pobj nsubj prep nn pobj rcmod dobj prep det nn pobj prep det pobj amod poss dep root
+nn nsubj root nn nn nn dobj
+nn root dep det amod dep dep
+nn npadvmod det npadvmod dep root
+root cc conj dep det amod amod amod amod dep amod nn dep nsubj rcmod dep prep pobj dep poss poss dep
+advmod nsubj prep nn nn amod nn amod pobj root poss dobj cc conj prt prep pobj det tmod
+nsubj root poss dobj mark nsubj advcl det dobj prep det pobj nsubj rcmod predet det dobj
+dep nn root prep poss amod nn pobj dep det nsubj dep mark dep nn nsubj csubj prep nn nn amod nn pobj ccomp prep det pobj
+root aux nsubj dep nn dobj prep pcomp advmod amod nsubj ccomp nn nn nn nn dobj
+nn nn nsubj root dobj cc conj nsubj advmod xcomp prep pobj
+nn nn nn nn nn nsubj prep pobj amod cop neg amod nn nn nn nn nn root
+dep dep dep dep dep nsubj root nn dobj prep pobj
+csubj dobj amod cop root
+advmod nn nn nsubj aux root det dobj prt
+nsubj aux nsubj root amod dobj advmod dep dep nn amod nn nn nn nn nn nn nn dobj
+root dobj nsubj rcmod nn advmod dep det nn nn dobj prep
+amod nn nn nsubj root amod nn dobj prep pobj
+advmod nsubj root prep pobj cc conj neg det dep cc conj nn dep vmod prep nn pobj mark poss nsubj advcl
+nn dep advmod nn nsubj cc conj cop advmod root aux xcomp prt cc auxpass conj prep det pobj nsubjpass auxpass rcmod prep pobj
+amod root dep
+root amod prep det nn nn pobj vmod dep det dobj
+nsubj prep poss amod nn nn pobj amod advmod det nn nn nsubj rcmod advmod det dobj root dobj det dep
+nn nsubj root nsubj neg dep advmod det amod nsubj cc conj cc conj ccomp amod dobj prep pobj
+root det nn dobj
+root nn nn nn nn nn nn nn nn dep num nn dep
+advmod root nsubj dep nn dobj dep
+det nn nsubj advmod root prep pobj
+nn nn nn nn nn nn nn nn nn nn root vmod prep det nn amod nn nn pobj nn advmod
+nn nsubj advmod root nn amod dobj nsubj aux rcmod prep det pobj
+amod neg root det nsubj cop det rcmod prep pobj cc det conj nsubj rcmod nsubj advmod cop det ccomp vmod dobj amod
+amod nsubj root amod nsubj nn advmod advmod ccomp prep pcomp dobj amod
+root poss nn nsubj dep poss dobj advmod cc conj prt
+root advmod det nn nsubj advcl dobj prt prep nn amod nn nn nn pobj
+root det dobj prep det nn pobj nsubj dep neg
+nsubj root advmod prep pobj dep nn dep poss nn nn nsubj dobj
+nn root nsubj rcmod
+nn amod root
+mark nsubj root dep det dobj poss nn nn nsubj rcmod dobj prep amod nn pobj nsubj dep dobj prep pobj dep dobj npadvmod nsubj rcmod dobj
+nn nn nn nn nn root prep aux pcomp prt prep predet det amod pobj dep
+root nsubj rcmod amod dobj
+nn nn root vmod nn nn dobj nsubj rcmod dep advmod nsubj advcl mark prep det amod pobj nsubj ccomp poss dobj prep det pobj
+nn root poss nsubj aux neg rcmod dobj prep nn nn nn nn nn nn nn nn pobj
+root det nn dep cc nn conj vmod poss dobj det dep
+nn nn nn nn root det dep prep det nn pobj
+nn nn nsubj advmod root det amod dobj
+root det nsubj prep poss nn nn nn pobj nsubj rcmod dobj poss nn dep vmod nsubj ccomp dobj ccomp aux xcomp prep poss nn nn pobj
+nsubj aux root dobj aux cop det amod xcomp prep pobj advmod advmod advmod
+root neg pobj advmod advmod amod dep
+amod nn nsubj csubj det npadvmod amod dobj prep pobj aux root aux xcomp cc conj prep amod nn pobj
+nn root prep pobj dep nn nn dep det nn nn nsubj aux nsubj rcmod iobj nn nn nn nn dobj
+amod root nsubj det rcmod amod dobj prep det nn nn nn pobj
+advmod nn root prep advmod nn nsubj cop det pcomp advmod
+advmod nsubj root prep pobj prep nn pobj
+root nn amod nn amod dep amod dobj prep pobj
+nn nn nn nsubj root dobj advmod advmod mark nsubj advcl det dobj prep det pobj nsubj aux rcmod advmod acomp nsubj ccomp prt prep pobj prep pobj vmod dobj
+advmod nsubj root nsubj ccomp nsubj ccomp xcomp prep pobj prep det nn nn pobj dobj
+nn nn nn nn nn nn nn root
+nn root dep det dep dep
+root dobj amod dep dep nsubj rcmod dobj prep pobj poss dep amod dep
+root prt nsubj ccomp nn iobj det amod dobj prep pobj dep prep nn pobj det nn nn dep amod amod dep
+root det nn amod nn dobj
+nn nn root det dep prep pobj cc nn advmod nsubj conj det dobj det dobj
+nn nn root prep nn pobj det amod dep cc expl dep dobj cc conj prep det pobj
+det amod nsubj root det dobj prep pobj
+root advmod dep nn nsubj parataxis dobj mark nn nsubj advcl
+nn nsubj csubj dobj cop advmod root prep det nn pobj det advmod cop amod det dep nn advmod advmod dep dobj prep pobj
+nn amod amod nn root prep nsubj advmod pcomp prep det amod pobj mark nsubj advmod dep det dobj cc conj
+root dep det nn amod nn nn nn nn nn nsubj dep
+nsubj prt prep det pobj root dobj nn nn dep advmod amod aux xcomp dobj nn dep cc conj prep nn nn nn pobj
+nn nsubj aux root amod dobj nsubj rcmod acomp
+det nn root aux vmod prt amod dobj
+nsubj root prep pobj
+root prep cop det pcomp cc conj nsubj ccomp prt advmod prep det npadvmod amod amod pobj
+nn nsubj root poss dobj
+nn nn nn nn nn nn nn nn root
+nsubj root nn nn dobj dep
+root dep vmod aux xcomp nn dobj det dep
+nsubj root det advmod advmod amod dobj cc prep det amod pobj nsubj rcmod advmod aux xcomp det advmod amod dobj prep det amod pobj prep det amod nn pobj
+root det dobj prep poss nn pobj
+nn nsubj root det nn nn nn nn nn dobj dep
+nn nsubj advmod root dobj advmod nsubj dep xcomp prep nn amod pobj nn advmod cop dep advmod prep nn pobj aux nsubj dep
+nn root aux vmod prep pobj det dep dep
+amod root det amod dep prep det pobj prep pobj
+nn root dep prep det pobj
+nsubj nsubj rcmod prep det nn pobj root aux xcomp ccomp dobj prep pobj cc advmod conj det nn dobj prep det pobj prep det pobj
+root advmod nsubj rcmod ccomp poss nn nn nsubj ccomp dobj nn nn nn nn dep amod
+dep aux nsubj root poss amod dobj advmod poss nsubj dep prep pcomp pobj
+nn nn nsubj root poss nsubj xcomp neg dep
+nsubj advmod root xcomp prep pobj nsubj rcmod dobj poss nsubj rcmod nsubj ccomp det nn dobj nsubj rcmod dobj
+advmod nsubj aux root nn nsubj ccomp nsubj ccomp dobj
+root dep nn dobj det dep aux vmod prep det pobj prep pobj prep aux pcomp det dobj prt
+amod nn nsubj aux root dobj prep pcomp nn pobj prep poss pobj cc nsubj dep conj poss amod dobj nsubj rcmod det amod dobj
+nn nsubj root nn nsubj dep dobj
+amod nn root vmod nn amod nn nn nn nn nn nn nn nn nn nn dobj
+root prep det nn nn nn nn nn pobj
+nn nsubj root prep nn pobj cc nsubj conj prep nn pobj
+root amod vmod mark nsubj advmod advcl det nn nn dobj dep
+nn nsubj csubj prep det nn pobj cop nn neg root det amod nsubj nsubj rcmod dobj prep nsubj pcomp nn nn dobj advmod dep dobj
+nn nn nn dep root det amod nsubjpass advmod auxpass rcmod advmod nsubj advcl nn dobj
+nn root prep poss pobj
+nsubj root amod cc conj dobj aux vmod nsubj ccomp prep det amod pobj
+dep nsubj root nsubj ccomp det amod dobj nsubj rcmod nsubj det ccomp
+det nsubj root nsubj nsubj aux nsubj nn nsubj ccomp dobj
+root poss dep prep pobj
+root dobj prep det nn nn pobj
+nn nsubj csubj tmod cop nn root vmod det nsubj ccomp dobj det dobj prt prep nn nn pobj mark nsubj aux advcl dobj prep nn nn pobj dep
+nn nn nn nn nn nn nn nn nn nn nsubj root dobj
+root prep pobj aux xcomp det nn dobj prep pobj poss nsubjpass auxpass rcmod nn nsubj ccomp nn dobj
+advmod aux root dobj advmod advmod neg dep cc det conj
+nn amod nn root
+nn root amod advmod prep amod nn pobj num nsubj det nsubj advmod rcmod dobj rcmod dobj nsubj ccomp
+root nn nn nsubj dep prep poss nn pobj
+root prep poss pobj mark nsubj ccomp iobj amod cc conj dobj dep prep pobj
+nsubj vmod cop nsubj mark amod nsubj advcl dep nn nn dobj cop amod root amod mark nsubj advcl prep pobj prep pobj dep
+root dep csubj nn dobj prep poss pobj ccomp det amod nn dobj
+root nsubj rcmod aux xcomp dobj
+advmod advmod amod nsubj root nsubj ccomp advmod dobj poss nn nsubj advmod nn nn dep ccomp dobj advmod cc advmod conj nsubj cop dep
+nn nsubj root dobj
+nn nn root
+nsubj root nsubj dep advmod ccomp det amod amod dobj dep
+dep det amod nsubj nsubj rcmod prep pobj cop amod root cc nn conj
+nn nsubj root det dobj cc nsubj conj det amod dobj dep dep
+advmod det root nsubj rcmod advmod amod dobj dep
+nn nsubj advmod nsubj aux root det dobj prep predet det pobj prep pobj
+nn dep det nsubj root dobj
+nsubj root dobj nsubj dep nn nn dobj prep advmod pobj
+nn cc conj nn nn nsubj root xcomp nsubj ccomp det nn dobj advmod
+nn root prep pcomp poss pobj advmod prep poss nn nn nn pobj poss advmod dep
+nn root det nn nn dep
+advmod root
+nsubj advmod aux nsubj cop amod root neg nn dobj dobj nsubj aux aux advmod rcmod dobj
+nn nsubj root det amod nsubj parataxis dobj advmod parataxis amod dobj prep pobj dep dep nsubj rcmod nsubj nn nn amod xcomp
+amod nsubj root prep pcomp dep dep nsubj aux nsubj amod amod dep ccomp mark nn dep nn nsubj prep pobj nn nn advcl dobj
+nn nn nsubj amod nn nn nn nn nn dep det advmod nn nn nsubj aux root dobj
+advmod nsubj root cc conj xcomp prep det pobj dep prep nn nn nn nn nn pobj
+amod nn root nsubj advmod dep dep prep poss nn pobj dep
+dep det nsubj aux root det dobj prep nn nn nn nn pobj
+nn nn root
+det root nsubj rcmod nsubj ccomp acomp prep amod nn pobj cc det amod amod nsubj conj poss dobj det npadvmod npadvmod amod dep
+root nn dep dep mark nsubj dep cc poss nsubj conj acomp dep det dep nn nsubj advmod rcmod
+root poss pobj det dep amod
+amod nn nsubj root poss dobj advmod dep nsubj ccomp aux auxpass xcomp prep nn nn amod nn nn nn nn nn pobj
+advmod root det nsubj ccomp nn nn dobj cc conj neg advmod dobj dep
+nsubj cop root vmod dobj
+nn root prep nn pobj det nn appos nsubj rcmod nn advmod amod nn npadvmod amod dobj
+root neg nsubj rcmod nn nn nn nn nn dep nn nn nn dobj
+aux det nsubj root poss amod nn amod nn nn nn nn dobj
+nn nsubj prep pobj neg root dobj nn dep prep det pobj prep pobj dep
+nn nn amod nn nn nn nsubj root prep det pobj nsubj rcmod csubj det amod amod dobj prep det nn pobj ccomp prt prep nn pobj nsubj cop rcmod
+nsubj cop root prep amod pobj
+nsubj root dobj dep nsubj rcmod amod dobj nsubj nn nn rcmod advmod dep nn dobj
+nsubj root det nn dobj prep poss pobj dep cc det conj advmod amod dep prep pobj
+nn amod root dep nsubj advmod dep prep pcomp dep dep prep poss pobj
+advmod nsubj root det amod dobj dobj nsubj cop det amod nn nn nn nn nn rcmod
+nn dep nn amod nsubj root det dobj nsubj rcmod dep
+root dep det nsubj vmod det nsubj ccomp dobj
+npadvmod advmod advmod nsubj advcl advmod amod nsubj root prt
+nn nn amod root aux vmod dobj dep poss dep nsubj dep cc conj dobj advmod dep aux nsubj dep nsubj xcomp acomp aux xcomp nn nn dobj
+root nsubj rcmod prt prep det pobj nsubj rcmod aux xcomp prep det pobj
+nn nn root det dep
+amod nn root dep advmod amod cop nsubj amod dep nsubj rcmod advmod amod dobj dep dobj prt dep
+nn root dep advmod prep poss pobj
+nsubj root det nn dobj poss nn nsubjpass auxpass rcmod prep poss nn nn pobj parataxis dep nsubj ccomp nsubj aux ccomp
+root dep nsubj rcmod nsubj cop ccomp aux xcomp prep nn pobj advmod nsubj advcl amod dobj
+root advmod dep dep nn nn nn dep
+root poss nn dobj nn dep nsubj rcmod det dobj prep pobj
+nn nn root amod dep nsubj rcmod poss amod dobj
+root nn nn nn nsubj dep nn nn dobj
+amod nn root
+nn nsubj mark amod nn nsubj aux dep dobj advmod amod dep root aux xcomp amod dobj cc conj
+nn nn nn nsubj root det dobj prep pobj dep nn nn nn nn dobj nsubj rcmod advmod nsubj advcl
+root dep dep neg prep pobj cc advmod nsubj conj mark det amod nsubj aux advmod ccomp prep det nn pobj
+nsubj root nn nsubj ccomp dobj prep pobj dep dobj prep pobj
+nn root nsubj rcmod nn nn dobj det amod nn dep nsubj rcmod prt nn nn nn nn nn nn nn nn dobj prep nn nn pobj dep
+root nn dobj det nn nn nn nn nn dep dep advmod dep det nn pobj
+nsubj amod root nsubj rcmod dep dep dep nsubj dep dobj nsubj rcmod mark nn nsubj prep pobj nsubj aux nsubj ccomp det dobj advmod advcl
+root nsubj rcmod nn dobj
+det amod nsubj root prt prep advmod det pobj dep
+nn root
+nn nsubj root det nsubj ccomp prep nn nn pobj vmod prep pobj dep nsubj ccomp amod dobj nsubj advmod parataxis advmod poss nsubj ccomp det dobj
+nn nn root dep dobj nsubj cop det amod ccomp advmod nsubj aux ccomp prep nn nn nn nn pobj
+nsubj aux nsubj dep mark nsubj root prep det pobj cc conj xcomp dobj advmod
+root advmod rcmod expl nsubj cc det conj prep det nn pobj
+nn nn nn nsubj poss dep cc conj poss dep root nn nn nn nn dobj amod amod dep
+nn nn nn root dep
+nn dep advmod amod root prep det pobj cc nsubj nn conj prep pobj poss advmod nn nn dep dep cc cc conj dobj
+nn nsubj cop amod nn nn nn nn nn amod dep dep root
+nn nsubj aux root det dobj prep nn nn pobj
+nn root vmod mark nsubj aux nsubj advcl dobj det amod nn dep mark nsubj aux dep amod nn dobj det nn dep
+nsubj root det amod amod nn nn nn amod nsubj amod xcomp nsubj rcmod det dobj mark nsubj cop advcl cc advmod nsubj conj dep
+nsubj cop det root
+root det nn nn dep
+nn nn aux nn root
+nn nn nsubj dep root num amod dobj cc amod conj nsubj rcmod dobj prep cc conj cc nsubj conj aux xcomp prt dobj
+nn nn root
+dep nsubj aux neg root prep det amod pobj
+nn nn nsubj root nsubj mark nsubj rcmod advmod amod nsubj ccomp xcomp dobj cc conj ccomp dobj advmod aux nsubj advmod det dobj
+nn root nsubj rcmod dobj prep pobj
+amod amod nn nsubj root acomp prep pobj prep pobj amod amod cc nsubj aux conj det dobj prep pobj advmod nn dep nsubj rcmod prep det pobj
+nsubj det dobj det amod nsubj rcmod amod nn dep root
+dep root prep det pobj
+nsubj root advmod aux dep acomp prep det pobj nsubj rcmod dobj advmod dep nn dobj dep
+nsubj root aux xcomp prep pobj dep dobj
+root nn nsubj dep neg nn nsubj nn dep advmod dep dobj mark nsubj advcl aux xcomp dobj advmod advmod
+nn amod nn nsubj det npadvmod root dep amod dep vmod prt nn nn dep prep pobj prep poss nn pobj prep det pobj
+nn nn root cc nn cc conj nn conj
+root pcomp pcomp pobj advmod nsubj aux advcl det amod xcomp cc nn conj prep pcomp mark poss amod nsubj advcl
+root dobj advmod prep det nn pobj
+nn nsubj aux root poss dobj prep det amod pobj cc nsubj conj det iobj det dobj prep pobj
+root amod nn nn nsubj rcmod nn nn dobj
+advmod neg neg dep nsubj aux nn nn amod nsubj csubj dep dobj dep dobj advmod det nn dobj aux root poss nn nsubj dep amod xcomp
+root dobj det nsubj cop ccomp mark nsubj nsubj aux nsubj advcl dobj det dep mark nsubj dep det dobj det nn dep det nn dep dep
+nn nn nsubj prep cop amod prep pobj cc advmod npadvmod conj pobj root amod dobj prep det pobj
+nn amod amod root prep poss pobj nsubj aux advmod rcmod det dobj
+nn nn nsubj root prep pcomp amod dobj
+mark nn nsubj root amod nn nsubj advmod ccomp acomp nn dep dep amod nn nn dep prep pobj nsubj rcmod prep amod pobj
+amod nn det nn amod nsubj prep det pobj vmod prep pobj root dobj advmod
+nn nn nsubj root nsubj ccomp poss dobj cc conj prep det amod pobj prep pobj dep
+dep nsubj dep aux advmod dep nsubj aux root prep nn pobj prep pobj
+det nn nn root advmod nn nn amod nn nn dep
+advmod amod nsubj root xcomp acomp aux xcomp nsubj ccomp advmod acomp aux xcomp
+nsubj root nsubj aux ccomp xcomp nsubj dep nsubj xcomp nn nn nsubj det nn nsubj aux rcmod nn dobj nn advmod ccomp nsubj ccomp
+nsubj root nn nn nsubj ccomp nn dobj mark num advmod nsubj advcl dep dep prep det nn pobj
+root nsubj ccomp advmod advmod advmod det nn nsubj advcl aux xcomp prep nn pobj dep nn nn nn nn dobj
+nn advmod amod nsubj prep det pobj cop nn amod nn nn nsubj cop nn nn root cc conj dep
+dep nsubj root nsubj parataxis dobj aux poss nsubj parataxis prt dobj
+nsubj root dobj mark nsubj advcl dep dep xcomp nn prep det pobj dobj
+nn root amod
+amod nn tmod advmod nsubj csubj cop amod nn root
+root mark nsubj dep acomp
+root vmod prt prep det nn nn pobj
+nn nn nsubj cc nn conj cc nn nn nn conj root nn amod nn nn nn dobj
+amod nsubj cc nn nn nn nn amod nn amod nn conj prep nn pobj root dep dep dep prep pobj
+nn nn amod nsubj root prep det amod amod pobj prep det nn pobj dep dobj aux vmod prep pobj prep det pobj dobj
+advmod nsubj cop nn root
+nsubj prep det amod nn nn nn pobj root dobj prep pobj tmod
+advmod aux nsubj csubj det dobj prep nn nn nn pobj cc nn conj root advmod prep dep nn nn nn nn pobj
+root det dep
+root advmod nsubj advcl det dobj nsubj rcmod prep poss nn nn nn nn pobj
+nn root vmod aux xcomp det dobj prep pobj
+nn dep nn nn det root cc conj amod nsubj rcmod neg dobj dep
+root nsubj advmod rcmod nsubj cop advmod ccomp poss dobj det nn nsubj advmod rcmod poss dobj nsubj dep prep cop det nn nn nn pcomp
+root det nsubj rcmod dobj advmod poss nsubj advcl dobj nsubj rcmod dep poss dobj prt
+dep root poss dobj amod prep pobj det nsubj nsubj rcmod dobj rcmod aux xcomp prep pobj num prep det amod pobj nsubj rcmod mark cop nn advcl
+nsubj csubj nsubj amod nn nsubj ccomp nn nsubj ccomp dobj aux vmod nn nsubj cop ccomp aux cop det nn root
+nn nn nn nsubj prep pobj aux root nsubj ccomp mark advmod nn tmod nsubj advcl prep pobj prep poss pobj
+nsubj root det dobj prep pobj nsubj rcmod dobj neg dep prep pobj
+root nsubj rcmod nn nn dobj prep det pobj prep det pobj
+nsubj root det amod nn dobj amod nsubj aux rcmod amod nsubj ccomp det amod nn dobj aux vmod prep nn nn pobj
+amod nn nn nn nn nn root nsubj det dep advmod
+amod nn nn root prep mark nsubj pcomp nn nn nsubjpass auxpass parataxis prep pobj cc nsubj cop neg amod dep amod nn conj dep
+root det nsubj cop advmod amod dep prep det amod nn amod dep dep
+nn nsubj root nn dobj prep pobj cc conj nn amod nn nn dobj prep nn nn nn nn nn pobj neg dep dep
+root det advmod nsubj det dobj mark nsubj advcl det nn dobj
+det nn nn nn root neg dep det nsubj aux neg rcmod
+amod nn nn nsubj cc nsubj advmod amod conj root prt
+nn root vmod det amod dobj det nsubj nsubj rcmod prt rcmod prep pobj nsubj dep nn nsubj aux dep nn dobj det amod dep ccomp
+root dep cc poss nn nn nn nn conj
+nn nn root
+root nn nn dep prep pcomp prep expl pobj
+nsubj advmod root nsubj ccomp nn dobj mark nsubj advcl nn amod nn dobj
+amod root poss advmod det amod dep dobj nsubj vmod nsubj aux ccomp poss dobj cc neg nsubj conj prep pobj rcmod
+nn root neg nn dep neg dep dep
+dep det nsubj root prep poss nn pobj poss nn dep prep pobj
+root det nn nn nn dobj dep
+nsubj cop root prep nn amod pobj det nsubj advmod advmod advmod prep poss nn pobj vmod prep pobj xcomp nn nn dobj mark nsubj advcl dobj advmod advmod dep
+nsubj csubj amod amod amod nn dobj prep amod pobj cop det amod root advmod vmod nsubj aux ccomp poss nn dobj
+advmod amod nn nsubj prep det nn nn num pobj num amod aux xcomp prt nn nn nn dobj root predet det dobj
+nn nn nn root
+nsubj root prt prep pobj advmod nsubj aux advcl prt det amod dobj nsubj rcmod prep det pobj
+nsubj advmod root det dobj prep pcomp advmod acomp dep vmod amod amod nsubj advmod aux nsubj ccomp amod amod dobj
+root npadvmod advmod cc conj pobj mark det nsubj advcl prt advmod nsubj aux nsubj ccomp dobj dep
+nsubj dep neg root prep pobj dep dobj prep nn nsubj pcomp nsubj ccomp dobj advmod nsubj advcl dobj dep
+root det dep amod dep dobj preconj dep nn nn dobj det dep prep advmod nn pobj
+nsubj root cop det amod amod ccomp det amod dep
+root dep nn dep det dep mark nn advmod amod nn nn tmod nsubj cop amod dep
+nn amod nn nsubj prep poss nn pobj root
+nn nn root prep aux pcomp det dobj det nsubj rcmod cop amod dep
+amod root vmod prep det pobj prep nn pobj cc conj nsubj dep prep det pobj prep pobj dep
+prep amod pobj poss nsubj aux advmod csubj xcomp prt dobj tmod cop det root dep
+root amod aux xcomp det dobj cc conj neg advmod det dep dep poss amod nn nn nn dobj
+dep aux nsubj root prep det nsubj pcomp nsubj ccomp aux xcomp det dobj prep pobj prep nn predet det pobj
+det nsubj nsubj cop root predet poss nsubj cop rcmod
+nsubj amod prep poss pobj cop poss nsubj aux cop root mark nsubj advcl dobj
+nn nsubj det nn nsubj root dobj dep advmod pobj dep
+det nsubj root nn prep pobj dobj
+advmod root det amod dobj prep nsubj pcomp det amod dobj
+det nsubj nsubj aux nn nn rcmod cop root
+root nsubj rcmod poss nsubj ccomp prep poss pobj dobj
+nn nn amod nsubj vmod aux xcomp det nn dobj root advmod acomp expl parataxis det nn dobj prep det pobj aux dep dobj
+root advmod nsubj advcl nn nn nsubj det dep cc aux nsubj conj dobj dobj cop det amod ccomp amod prep pcomp nn nn nn dobj
+root dep dobj prep amod nn pobj
+nn root vmod mark advmod ccomp
+amod nsubj nn advmod det nsubj root dobj
+dep nsubj dep nsubj cc conj advmod ccomp aux auxpass xcomp advmod aux nsubj root det dobj advmod dep
+dep dep root cc det nn nn conj num
+amod root det nn amod nn amod nn dep nsubj det dep
+nn nn nsubj prep pobj cop root advmod nsubj cop advmod amod parataxis dep
+root det amod dep prep cc conj amod pobj nsubj dep dobj
+root det pobj nn nsubj neg vmod acomp prep poss nn pobj rcmod nsubj aux aux ccomp iobj num dobj cc conj det dobj pobj
+root num dobj prep pobj cc num conj advmod prep pobj
+advmod amod root advmod neg dep
+nn nn root
+root det nn nn dep mark nsubj dep xcomp iobj det dobj mwe prep det pobj amod prep pobj
+nn nn nsubj prep pcomp nn nn nn nn pobj aux nsubj root det dobj advmod advmod prep pobj vmod neg dobj vmod mark nsubj advcl prep amod pobj
+amod root cc nn conj dep nsubj aux neg dep prep pobj amod advmod amod
+nn root nsubj rcmod prep dep dep
+nn nn nsubj det dep prep det pobj cop root nsubj prep det amod nn pobj dep dep
+nn nsubj root predet det dobj
+nn amod root prep nn nn nn nn nn pobj advmod prep nn nn amod nn nn pobj
+nsubj cc nn conj root nn dobj prep poss pobj
+nn nn nn dep nn nn root dep
+nn nsubj root det dobj prep dobj nsubj aux pcomp prep pobj
+nn nn nn nn root cc conj prep pobj
+nn nn nn nn nsubj advmod mark poss nsubj root dobj
+nn advmod root det dep
+root mark nn nn nsubj advcl dobj nsubj det nn amod nn nn dep
+dep aux nsubj root det amod dobj advmod prep pobj prep poss amod nn pobj nn dep
+nn root cc advmod aux nsubj conj mark det tmod det nsubj ccomp dobj
+nn nn nn nn nn nn nn root
+nn nn amod nsubj prep pobj root nsubj aux ccomp dobj prep nn pobj aux vmod dobj advmod nsubj advcl predet det nn nn dobj
+nn nsubj root nn dobj mark nsubj advcl dobj vmod xcomp dep det nsubj aux advmod ccomp nsubj det ccomp
+nn nn root neg nn dep amod advmod dep
+nn nsubj root prep pobj mark poss nsubj advcl prep expl nn pobj
+nn nsubj root npadvmod npadvmod amod dobj
+nn nn nsubj root prt cc conj det dobj cc
+dep neg root det iobj det amod dobj nsubj rcmod prep pobj neg nsubj cop ccomp prep pobj nsubj ccomp det amod nn dobj dep dep
+nn nn nn nsubj root nn dobj nsubj dep cc dep cc conj nsubj nsubj advmod rcmod nn dobj conj dobj advmod
+nsubj root mark nsubj nn dep neg cop dep cc conj nsubj rcmod nsubj ccomp nn dobj nsubj rcmod dobj ccomp aux xcomp det dobj nsubj rcmod dep
+root nsubj rcmod xcomp mark nsubj ccomp dobj prep pobj
+nn nn nn amod nsubj root dobj dep nsubj dep nsubj ccomp det nn nn nn nn nsubj aux ccomp dobj
+nn nn nn nsubj csubj neg nn amod dobj cop det amod root nsubj rcmod dep
+nn root nn dep
+root nsubj aux aux rcmod det nn dobj mark nn nn nsubj advcl advmod
+nn amod root prep pcomp dobj dobj
+nn nn nn nn root prep pobj prep nn pobj dep
+amod nn nn root nsubj rcmod dobj advmod dep
+nn root det amod nn nsubj rcmod amod dobj nsubj rcmod det dobj mark det nsubj dep dobj advmod prep pobj
+advmod dep nn nn nn dep nn nsubj aux nsubj root dep
+cc nsubj root dep det dep prep pcomp pobj dep dep nn dep dep
+nsubj nn nn nn nn nn dobj aux advmod root dobj
+poss amod nn nsubj root det dobj advmod poss nn nn nsubj advcl dobj
+root poss det dobj
+root det dep advmod nn nn amod nn nn nn nn dep
+root dep prep det pobj nsubj rcmod nsubj ccomp acomp mark det nsubj ccomp dobj
+nn root prep pobj neg nsubj rcmod prep poss pobj
+nn nn root
+dep dobj prep nn nn nn nn pobj neg amod nn nn dep prep pobj dep prep poss pobj nn nsubj root poss dobj advmod cc conj poss dobj
+nsubj cop amod root
+dep aux root advmod amod dobj advmod advmod advmod nsubj cop amod dep
+nsubj root prep nn pobj det dep cc nn nn conj dep advmod
+nsubj root dobj vmod dobj prep det pobj amod mark det nsubj ccomp aux xcomp dobj prep det pobj dep
+nn root vmod xcomp dobj nn nsubjpass auxpass rcmod prep pobj dep det amod dep dep
+advmod root prep nn nn nn pobj advmod advmod cop det amod dep prep pobj
+nn nsubj root dobj amod dep nsubj dep nsubj ccomp det amod dobj prep pobj
+csubj advmod nsubj advcl dobj nsubj ccomp dobj cc advmod nsubj conj nsubj neg ccomp advmod amod dobj cc conj dobj advmod root
+nsubj cc conj root amod nn nn nn nn dobj
+nn amod amod amod nn nn amod root
+nsubj root nn nsubj ccomp dobj prep predet poss amod pobj
+root det dep prep det pobj dep advmod nsubj rcmod dep prep det pobj prep pobj prep cc conj prep det amod amod pobj
+dep root nn amod nn dobj prep pobj
+nn root det dep
+root det nn dep vmod prep det nn nn nn nn nn pobj
+dep advmod root det dobj nn advmod det nn dep
+root mark nsubj nn dep det dobj nsubj rcmod nn dobj
+det nsubj aux root aux cop det xcomp aux vmod prep pobj
+dep amod tmod nsubj root aux xcomp advmod nn nsubj cop det amod amod advcl
+root amod nn nn amod nn dep prep nn pobj prep nn pobj nsubj rcmod nsubj dep prep nn pobj
+advmod nn nn root
+det nn tmod nsubj root xcomp dobj
+nn nsubj dep nsubj aux root amod nn nn dobj prep det nn nn nn nn pobj cop nn parataxis det amod dep
+nsubj root det nsubj dep advmod nsubj advcl poss dobj advmod nsubj ccomp aux xcomp det dobj aux xcomp poss det dobj
+nn root
+nn advmod prep nn nn nn nn nn pobj root
+root advmod prep nn pobj
+nn nn nsubj aux nsubj root amod dobj
+root advmod nn nn nsubj ccomp dobj nn nn dep nsubj rcmod det amod dobj prep det nn nn nn nn pobj dep
+nn nn root
+nsubj root dobj
+nn nsubj root det nn nn nn nsubjpass auxpass ccomp prt advmod nsubj ccomp xcomp aux cop det amod xcomp cc nn nn conj
+dep nn nsubj aux root prep det amod pobj mark nsubj advmod advcl dobj dobj det nsubj ccomp prep pcomp poss pobj
+nn dep root dep prep det pobj
+mark nsubj root det dobj neg nsubj aux dep dobj nsubj dep dobj poss nsubj aux ccomp aux aux xcomp dobj advmod
+root det amod dobj mark dep nsubj advmod advcl dobj
+root dep poss amod dobj det nsubj neg dep
+root nn amod nn nn dep nn nn nn nn nn nn nn dep
+nsubj root det amod dobj aux dep advmod dep neg amod nn amod nn nn nn dobj nn nsubj dep rcmod nn dobj
+advmod amod root prep det nn pobj amod amod nn nn nn dep
+root det nn det dobj
+nn nn nn nn dep dep dep det root advmod nn dep
+root advmod prep det pobj amod prep nn nn pobj
+nn nsubj root dep prep poss pobj prep det pobj
+poss nsubj root det nsubj amod ccomp nsubj ccomp advmod advmod nsubj dep ccomp nsubj ccomp dobj
+root prep poss amod nn nn nn nn nn pobj
+nsubj amod root det nn dobj prep det pobj dep advmod det dep dep nn dep vmod nsubj advmod aux neg dep dobj
+amod nn nn nn nn nsubj advmod root dobj prep pobj aux advmod vmod poss dobj advmod csubj cop det amod dep
+nn nn nn root vmod nn nn dobj prep pcomp dobj advmod advmod dep aux nsubj dep prep pobj
+nn num nsubj root nsubj cop amod ccomp advmod nsubj rcmod det dobj det nsubj dep aux dep prep pobj mark advcl advmod
+amod amod poss root det nn dep
+root prep det pobj cc nsubj cop amod nn nn nn conj nsubj rcmod dobj det dep advmod cc conj prep poss pobj
+nn nsubj aux neg root dobj vmod prep amod amod pobj vmod mark amod nsubjpass auxpass advcl nn dobj
+nsubj root prep det pobj nn nsubj rcmod poss dobj advmod advmod dep poss dobj
+amod amod nsubj root nn dobj
+advmod nsubj prep pobj mark nsubj advmod rcmod mark nsubj advmod ccomp amod advmod dobj root dep dobj
+nsubj root dobj aux vmod nn dobj advmod
+nn root advmod prep pobj prep predet det pobj
+amod nsubj dep aux nsubj root amod nn nn dobj
+nn nn root det nsubj prep nn nn pobj rcmod advmod
+root prep nn nn advmod amod pobj prep amod amod nn amod pobj prep amod pobj nsubj rcmod dobj prep pobj nsubj rcmod aux xcomp det dobj
+aux nn nsubj root dobj prep pobj nn advmod det nn nn dep prep pcomp det pobj prep det pobj
+nn nsubj root nn nn nn nsubj ccomp poss amod nn nn tmod nsubj rcmod nn nn nn nn nn dobj vmod nsubj dep nn nn dobj advmod
+nn nn nsubj root det nn nn nn dobj
+nn nn nsubj root dobj dep
+dep advmod csubj acomp prep det pobj nsubj advmod rcmod prep amod nn pobj root det amod dobj prep amod amod pobj cc conj poss pobj
+root dobj cc advmod conj prep det nn pobj
+amod nn nsubj cop amod nn nsubj aux root prep det nn nn pobj dep
+nn nn root nsubj rcmod poss dobj prep poss pobj cc det nn nn nsubj advmod conj dobj neg poss nn dep cc conj nsubj rcmod amod dobj
+root prep advmod nsubj cop det pcomp prep pobj
+nn amod root
+dep nsubj cop det root mark nsubj advcl aux xcomp prep det pobj
+root nsubj cop amod amod nn nn rcmod
+det amod nn nn nn root prep nn pobj
+advmod nsubj root det amod dobj vmod dobj cc det nn nn nn nn nn nn nn conj
+poss nn root amod num amod dep vmod iobj dobj prep det amod nn nn nn nn nn nn pobj dep
+nn nsubj root poss nn dobj advmod advmod aux vmod dobj prep det pobj prep neg pobj
+csubj dobj det dep cc nn conj aux cop advmod root prep det pobj prep nn pobj advmod cc mwe
+nn nsubj root advmod dobj advmod nsubj advcl neg dobj cc poss conj amod prep pobj prep pobj dep dep
+amod nn nsubj vmod prt poss dobj cc conj prep poss pobj dep prt poss dobj cc conj prep poss pobj det dobj nsubj rcmod dobj root dobj
+nsubj root prep pobj dep predet det amod dobj nsubj rcmod nn dobj
+advmod det nsubj advmod root cop nn amod dobj nsubj rcmod mark nsubj aux nsubj aux nsubj ccomp dobj nn dep
+root nsubj rcmod aux cop det xcomp cc advmod dep nn nn nn conj
+advmod root nn nsubj ccomp amod dobj nsubj rcmod nn dobj prep nn pobj prep pobj
+dep root aux vmod det dobj
+det nsubj prep pobj root dobj advmod
+nn nsubj advmod aux nsubj root dobj advmod nsubj dep det dobj prep det pobj amod
+nn nn root
+root aux xcomp det nsubj dep ccomp tmod prep nn cc conj pobj
+root det nsubj ccomp amod dobj
+root poss amod dobj prep nn pobj neg dep prep pcomp
+nsubj dep nsubj rcmod aux xcomp root preconj det nn nsubj det nsubj rcmod dobj ccomp aux xcomp det dobj det dep dep
+nn nn root nsubj rcmod nsubj ccomp xcomp prt prep pobj nn dobj amod
+nn nsubj root det nsubj ccomp prep pobj vmod iobj det nn nsubj ccomp prep nn nn nn pobj
+dep nsubj root dobj det nsubj det dep prep det amod amod pobj cc det conj rcmod dobj
+dep aux root det dobj advmod cc det amod nn nsubj conj prep det pobj amod mark nsubj cop ccomp prep pobj
+nsubj root prep det nn pobj
+root det dobj dep dep nn nn nn nn dobj nsubj rcmod nn nn dobj neg vmod nn dobj mark nsubj ccomp prep det pobj
+root advmod nn nsubj neg amod nsubj dep dep det amod nn dobj prep pobj dep vmod det dobj prep pobj tmod
+nn amod nn nn nn nsubj root prep amod nn pobj det nsubj ccomp prep pcomp nn nn pobj nn advmod
+det nsubj aux root prep pobj prep nn pobj vmod nn dobj advmod dep prep det amod nn nsubj aux pcomp auxpass tmod ccomp aux xcomp dobj
+mark nsubj root amod nsubj ccomp dep nsubj cop acomp prep det pobj dobj aux nsubj cop rcmod prep poss pobj nsubj rcmod dobj dep iobj dobj nsubj rcmod
+nn nn nn nsubj root advmod amod nn dobj
+amod nn nn dep cc poss nn nn conj mark poss nn advmod aux advmod dep poss dobj aux nsubj root prep poss nn pobj poss dep neg dep
+dep aux nsubj root advmod nsubj cop det amod dep cc det amod conj aux vmod cc nn advmod amod conj advmod amod amod nsubj vmod dobj rcmod amod dobj
+nsubj root nn nn dobj dep dep discourse dep nsubj ccomp prt aux xcomp nsubj ccomp prep det pobj nsubj rcmod prep nn dep pobj dep dep
+nsubj dep mark nn dep neg nn nsubj mark poss nsubj dep mark nsubj dep dep aux nsubj root poss nn dobj nsubj rcmod nn nn nn dobj
+root advmod det nsubj advcl dobj aux vmod nn nn dobj
+dep nsubj dep det dobj poss nsubj neg root dep
+nn root advmod amod nn nn nn dep nsubj dep xcomp aux xcomp det dobj dobj
+advmod cop predet det root cc amod conj vmod advmod amod dobj
+nn nn amod nsubj aux root advmod cop det nsubj cop det ccomp advmod nsubj aux rcmod dobj dep dep nsubj rcmod nn dobj
+nn nn root nsubj rcmod advmod det advmod prep amod nn amod amod pobj
+nsubj root advmod nsubj neg dep prep det pobj cc nn conj advmod amod prep pcomp dobj prep det amod cc conj nn nn nn pobj cc conj ccomp dobj
+nn advmod root
+cc dep dep mark nn nsubj ccomp poss dobj root nsubj
+nsubj root amod nsubj det npadvmod cop det nn nn dobj
+root poss amod nn nn nn nn nn pobj dep
+nsubj root det nn nsubj ccomp prep pobj advmod aux xcomp dobj aux vmod prep pobj nn dep dep expl prep pobj
+nn nn root advmod nn nn nn amod nn nn nn advcl
+root dep nn nn nn dobj prep det nn pobj
+amod root poss nn nn dep
+root det amod nn nn nn nn nn nn nsubj dep
+nsubj root advmod dep nsubj dep prep nn nn pobj mark nsubj advcl det nn dobj
+nsubj root dobj prep pcomp poss nn nsubj xcomp tmod
+nn nsubj root
+nn nsubj nsubj rcmod advmod neg xcomp prt prep neg pobj root det nsubj dep amod nn nn nn dep dep nn dobj cc conj prt
+nsubj aux neg root prep pobj mark nsubj advcl prep pobj acomp xcomp nsubj ccomp prep det pobj nsubj neg rcmod advmod prep pobj cc conj dep
+poss nsubj root poss dobj prep poss pobj
+nn nsubj nsubj rcmod aux nsubj root nsubj cop amod ccomp det amod npadvmod dep dobj
+neg det nn nn nn root
+nn nn root vmod prep nsubj pcomp prep det nn pobj dep neg xcomp poss dobj dep det dobj amod
+nn nn nn nn nn root det amod dep cc nsubj det conj aux xcomp det dobj poss dep det dep dep prep pobj
+nn nn root det dep nsubj rcmod det dobj poss nsubj dep det dobj prep pcomp det dobj poss nsubj dep det dobj prep pcomp det dobj advmod nsubj dep dobj
+dep csubj num amod dobj prep amod nn nn pobj aux root dep
+advmod amod root dep dep amod nn dep dep mark poss nsubj dep nn nn nn dobj
+nn nn nsubj cop root prep advmod advmod advmod pobj det nn dobj dep dep prep pobj
+nn nsubj det amod nn root nsubj rcmod prt cc advmod conj det dobj advmod
+nsubj root prep det advmod amod amod pobj prep pobj dep
+nn nn nn nsubj root dobj
+aux nsubj root nsubj ccomp det dobj advmod cc conj
+nn nn root aux vmod dobj cc conj nn dep vmod nn nn dobj amod nsubj dep dobj
+nn nn nsubj advmod root dobj dep poss nn dobj
+amod nn root det nn nsubj advmod amod prep poss amod nn nn nn pobj
+nn root nsubj neg det dep
+nn nn root nsubj rcmod nsubj prep dep amod amod nn pobj ccomp nsubj dep nn xcomp dep amod nn dobj
+nn nsubj root nn dobj aux xcomp nsubj dobj advmod
+nsubj root neg xcomp nn amod nn amod amod nsubj xcomp prt det nn dobj nsubj rcmod xcomp det nn nn nn nn dobj
+advmod root mark det nsubj advcl det dobj prep det amod pobj nsubj dep prep pobj advmod advmod prep nn nn pobj dep
+det nn nsubj root dobj nsubj rcmod amod dobj
+root dep dep dep dep aux xcomp ccomp prt nn nn dobj det nn dep det nsubj vmod prt prep poss pobj advmod dep nn nn nn nn nn dobj
+root nsubjpass auxpass rcmod det amod dobj amod tmod nn nsubj cop nn nn nn dep vmod
+nn npadvmod neg npadvmod dep dep amod root
+nsubj advmod root det nsubj advmod det nsubj dep dobj parataxis dobj advmod advmod
+root dep dep advmod dep amod advmod amod nsubj dep nn nn nn dobj dep nsubj det nn ccomp
+nn nsubj advmod root dep nn dep advmod det nn nn nsubj cop det amod dep cc conj dobj amod nn dep vmod dobj nn amod dep
+dep aux nsubj root mark nsubj ccomp prep det pobj prep det pobj mark nsubj dep prep det pobj
+nn nn amod nn nsubj root dobj neg nsubj aux advmod rcmod dobj dep
+nsubj root amod nn dobj prep nn nn amod nn nn nn pobj cc conj
+nn nn root nsubj aux rcmod det dobj
+nsubj root nn dobj prep pobj prep nn nn nn nn nn pobj
+root nn nn dep neg nsubj rcmod det nsubj aux ccomp poss dobj
+det nsubj advmod root prep det nn pobj dobj
+amod root prep nn nn nsubj pobj nsubj cop dep advmod prep cc nsubj advmod cop nn nn nn nn conj
+nn root
+nn root nsubj rcmod prep det nn pobj prep amod nn pobj cc amod nn nn nn nn nn conj
+root nn dobj prep poss pobj prep nn pobj nsubj parataxis nn advmod dep nn dobj advmod nsubj dep poss dobj prep det det pobj advmod nsubj parataxis prt advmod
+nn nn nn root vmod aux xcomp dobj prt prep nn amod pobj cc nsubj conj aux xcomp prt prep nn pobj dobj
+nsubj dep dep dep nsubj root det amod dobj
+amod nn nn nn nsubj neg root dep
+nn amod amod nn nn root dep
+det nsubj aux root dobj prep det amod pobj
+amod nsubj det root
+nsubj root nsubj cc conj ccomp dobj
+nsubj root det nsubj ccomp dobj
+amod nsubj cop amod root
+dep csubj dobj det amod dep det amod nsubj rcmod dobj prep amod pobj root
+amod root
+root prt det amod dobj prep advmod prep nsubj pcomp aux nsubj pcomp poss dobj prep det amod pobj
+nsubj nsubj root nn nn nn nn nn nsubj cc det nn conj nn advmod cop ccomp det nn npadvmod advmod dep dep
+root mark nsubj aux advcl advmod prep pobj advmod advmod nsubj ccomp nsubj aux cop nn ccomp
+nsubj root det dobj
+root poss amod poss nn amod dep
+advmod nsubj cop csubj acomp aux xcomp poss dobj amod prep pcomp det dobj dep nsubj rcmod prt prep nn pobj cop root
+nn nsubj root det dobj dep
+nsubj root nn advmod dobj dep vmod dobj nsubj rcmod det dep
+neg det nsubj advmod root dep poss pobj cc nn nn conj prep det pobj nsubj rcmod acomp prep pobj cc dep conj
+nn nn root cc advmod nsubj conj prt poss amod nn dobj dep
+root pobj prep pobj dep det nsubj aux rcmod advmod acomp
+dep root det dobj dep nsubj rcmod dobj xcomp nsubj advmod ccomp nn nsubj ccomp prep pobj
+nn nsubj mark det nsubj advcl dobj nsubj xcomp dobj vmod nn dobj root aux xcomp nn advmod nn dobj mark nsubj advcl poss dobj prep pobj prep nn pobj
+nsubj root nsubj ccomp poss nn amod nn dobj nsubj rcmod dobj cc conj nsubj ccomp det dobj mark nsubj advcl nn nn nn dep dobj
+root nsubj advmod aux neg rcmod nsubj nsubj cop det amod amod dep nsubj rcmod aux xcomp dobj poss dobj
+nn nn root det nn nsubj rcmod dobj prep pobj det tmod prep det pobj nsubj rcmod nsubj det xcomp cc nsubj conj dobj
+dep det dep dep advmod det amod root prep pobj
+nsubj root amod nn dobj predet det tmod det dep
+amod root vmod dep dep dep vmod dobj dep nsubj dep dobj nn nn dep
+amod advmod amod root vmod nn nn nn nn nn nn dobj dep
+nn nn nn amod nsubj root cc poss nsubj cop conj
+mark nn nn nsubj root predet det dobj nsubj advmod rcmod dobj cc conj
+dep dep nn root advmod dep neg det dep advmod
+nn nn root nsubjpass aux auxpass advmod rcmod prep poss pobj
+nn nn nn nn nn amod nn root dep
+nn root dep poss nn nn dep mark det nsubj dep nsubj xcomp cc nsubj conj mark nsubj advmod ccomp dobj
+root nsubj rcmod nsubj ccomp acomp advmod det nsubjpass auxpass advcl prep det nn pobj cc nsubj aux neg cop nn nn nn nn conj
+nn root nsubj aux rcmod xcomp mark det nsubj advcl aux xcomp dobj prt prep amod pobj
+nn nn nsubj root mark det nsubj advcl dobj cc conj cc conj cc conj dep det dep det dep dep advmod prep pobj
+nn nn nn dep mark nn amod root
+dep nsubj root dobj nsubj rcmod nsubj amod amod ccomp nsubj rcmod
+mark nsubj aux root nn dobj dobj
+root dep nn nn dep advmod amod mark det dep det nn nsubj vmod prep pobj prep pobj advmod dep dep amod nn nn nn nsubj dep
+root amod dep det nn nn dep
+root prep det nn pobj
+poss nn root prep amod pobj cc nsubj conj nsubj cop neg amod nn ccomp aux vmod det nn nn nn dobj dep
+nsubj root cc nsubj conj dobj dep aux cop det xcomp amod tmod
+nn nn nsubj dep det nn nsubj cop amod rcmod root
+nn root nsubj rcmod dobj prep det pobj
+nsubj advmod root nsubj det amod xcomp cc nn npadvmod neg conj advmod nsubj ccomp prep pobj
+nsubj cop nsubj root dobj prep det pobj nn nsubj nn advmod nsubj rcmod amod
+det nsubj cop root det tmod
+advmod root predet poss dobj advmod aux nsubj advcl
+dep dep nsubj ccomp dobj nsubj rcmod prep det pobj prep pobj nsubj cop root
+amod root amod aux xcomp advmod det nsubj advcl prep pobj dobj prep pobj
+root det amod nn nn dobj advmod
+root prep det pobj prep amod nn pobj prep pobj amod prep nsubj pcomp amod dobj
+root neg nn dep neg dep
+nn nsubj cop amod det root tmod
+root advmod det dobj prep det nn nn nn pobj dep dep
+root nsubj prep nn pobj vmod prep pobj advmod rcmod dobj advmod nsubj advmod advcl prep nn nn pobj dep dobj advmod aux vmod dobj
+nn root nsubj cop det amod nn nn nn rcmod
+det nn nn nn nsubj dep root aux xcomp
+root pcomp dep aux xcomp aux cop det amod xcomp dep dep advmod nn advmod neg dobj prep amod pobj
+nn root det nsubj dep det dobj neg vmod nsubj nsubj rcmod amod dobj ccomp num nn dobj vmod mark ccomp
+root prep det amod pobj det nsubj rcmod prep pcomp det pobj prep det pobj aux vmod
+nsubj nsubj aux rcmod prep det nn pobj advmod cc conj aux vmod nsubj ccomp nsubj advmod ccomp nn dobj root iobj dobj
+dep nsubj advmod root poss amod nsubj advmod aux nsubj ccomp dobj prt poss nsubj dep
+advmod nsubj aux root aux xcomp det amod dobj prep det amod pobj dep advmod prep pobj
+dep neg root det dobj advmod dep cc amod det conj mark nsubj cop poss advcl nsubjpass aux aux auxpass dep prep pobj
+nsubj root advmod nsubj ccomp xcomp nn dobj prep pcomp poss pobj
+nn nn nn nsubj root det amod nn dobj poss dobj prep dep dep dep prep pobj
+root nsubj ccomp nn dobj cc conj dobj advmod
+root det amod nn nn nn nn nn nn nn nn nn dobj
+root prep amod pobj
+root dep poss nsubj advmod rcmod dobj prep det pobj
+nsubj dep root aux xcomp prep amod pobj nsubj rcmod dobj prep pobj prep pobj advmod nsubjpass auxpass dep dobj prep pcomp cop pcomp
+root dep nn dobj prep pobj prep nn pobj
+nsubj root det dobj
+amod dep dep dep prep pobj prep amod pobj nsubj root acomp cc nsubj conj acomp prep pobj
+nn nn nn root
+amod nn nn nn nsubj root det nn dobj
+nsubj root det nsubj aux xcomp nsubj advmod mark nsubj ccomp prep pobj
+root prep pobj prep pobj prep amod pobj
+nn amod amod nn nsubj root prep pcomp nn nn nn pobj cc advmod neg nn nn nn nn nn conj
+nn nn amod nn root
+prep advmod amod det nn pobj aux advmod root dobj
+nsubj root nn nn nn nn nn dobj
+nn nn nn nn nn nsubj prep pobj root prep det pobj dep
+npadvmod advmod npadvmod amod cc det nsubj conj dobj cop advmod amod amod det nsubj aux root det nn nn dobj prep pcomp dobj dep
+det nsubj root prep neg pobj
+nn root
+nsubj root nn amod nn nsubj dobj vmod dobj
+root det prep det amod predet det pobj prep pobj nn dep
+amod neg nn amod root advmod nn nn nn nn nsubj dep nn dobj
+poss amod npadvmod npadvmod amod root
+nsubj root amod amod dobj
+root nsubj dep dep amod dobj prep pobj dep det dep
+amod nsubj root det amod nn dobj cc nsubj conj det amod amod dobj
+nn nsubj aux nsubj root dobj
+nn dep nsubj cop advmod amod nn nn nn root dep
+poss nn nn nn nn root dep amod dep nsubj rcmod prep advmod nsubj neg pcomp aux xcomp dobj prep pobj cc nn nn conj vmod dobj prep pobj
+mark det amod nsubj root iobj dobj nsubj rcmod det nn nn nsubj ccomp nn nn nn nn dobj prep pobj
+discourse advmod advmod nsubj nsubj rcmod nn nn nn dobj root aux xcomp dobj
+nn nn nn nn nn nn nsubj cop det root
+nn nn amod root prep amod nn pobj poss nsubj cop amod nn nn nn dep vmod npadvmod neg acomp
+nn root det dep
+dep root det dobj cc nsubj conj det dobj prep det pobj
+root npadvmod advmod amod pobj
+nn nn nn nsubj cop det root dep
+root det nn nn nn pobj dep
+nsubj discourse aux nsubj root iobj det dobj amod advmod dep prep det pobj poss nsubj rcmod prt poss dobj
+nn nn nn nn root prep poss pobj nsubj rcmod det amod dobj prep nn nn pobj nsubj rcmod dobj
+root iobj nn nn dobj nsubj dep nn nn dobj advmod amod nn nn dobj aux nsubj dep tmod
+nsubjpass auxpass root prep det pobj nsubj rcmod dobj advmod poss nn dep
+nn nn nn nsubj dep cop det root
+nn root nsubj dep iobj det dobj
+nsubj root neg advmod dep aux xcomp det dobj dep
+nn root mark nsubj dep poss dobj det dep poss nsubj rcmod prt prep pobj
+nn amod nn nn nn dep nn nsubj root dobj
+amod nn advmod amod root advmod vmod det nn dobj prep amod pobj dep
+dep dep poss dobj root nsubj ccomp dobj prep poss pobj nsubj parataxis nsubj aux ccomp cc nsubj conj poss dobj
+amod mark poss nsubj ccomp dobj nn advmod amod nsubj ccomp nsubj ccomp advmod advmod aux aux nsubj root det dobj poss nsubj rcmod dep
+nn amod nsubj root det dobj vmod det dobj
+poss nsubj root dobj aux xcomp dobj aux xcomp nn nn nn nn dobj nsubj neg rcmod dobj nsubj cop ccomp
+root dobj nn nsubj rcmod det dobj prep det pobj vmod prep det amod nn nn pobj
+aux det nsubj root det dobj advmod cc conj det dobj prt
+dep tmod neg advmod det nn nn nn nsubj advmod root xcomp prep pobj amod dep vmod nn dobj prep pobj advmod
+nn nn root dep dep dobj advmod
+det root prep pobj nsubj rcmod dobj neg dep dobj dep
+nsubj root nsubj ccomp nn nn dobj nsubj advmod rcmod aux xcomp dobj prep pobj
+nsubj cop nsubj root nn nn dobj vmod
+advmod nn nsubj root dobj det amod tmod dep
+aux nsubj root advmod nsubj advcl det nsubj advmod ccomp prep pcomp nn nn pobj advmod nsubj vmod prep det nn pobj vmod aux cop xcomp dep
+dep det nsubj advmod root advmod
+root prep pobj prep det pobj
+nsubj dep cc det conj aux neg cop det root prep pobj cc det conj amod dep nsubj rcmod prep nn nn pobj dep
+nn nn nn nn root det dep
+root prep pobj aux cop vmod det nn nn nn nsubj ccomp nn nn nn nn dobj
+nn nn nn root dep dep dep nn poss dobj prep pobj amod dobj
+nn nn aux nn nn advmod nn nsubj aux nn root det nn nn aux nn dep det dep
+advmod nsubj root prt prep det pobj det dobj prep pcomp det pobj prep prep poss pobj prep pobj dep prep det pobj dep
+dep nsubj root cc conj dep nn advmod dep dep dep poss nsubj cop amod dep dep dep
+amod root
+poss amod amod nsubj root poss amod dobj
+nn nn nn nsubj cop nn nn nn root cc conj cc conj nn dep det dep advmod advmod
+dep nsubj root dobj nsubj amod aux ccomp aux xcomp prep det pobj
+nsubj prep nn pobj csubj dobj cop root nsubj rcmod prep det pobj dobj aux nsubj ccomp
+root nsubj rcmod det dobj nsubj rcmod advmod mark nn nn nn advmod aux nsubj advcl det dobj nsubj rcmod amod dobj vmod aux xcomp prep pobj
+nsubj dep nn nn dep dep det nsubj root nsubj
+nsubj root nn nn dobj poss nsubj prep det amod pobj cop rcmod prep det amod pobj mark nsubj aux advmod ccomp dobj det nn dep dep
+nsubj nn nsubj rcmod nn nn nn nn nn amod nn dobj prep nn pobj root dobj vmod
+dep amod root
+nn amod nn root nn nn dep vmod prep pobj
+nn root nsubj aux rcmod prep
+root dep dep nn nn dobj cc advmod auxpass csubj prep pobj neg conj prt
+neg root det dobj advmod nsubj advcl neg ccomp dobj advmod nsubj advcl
+dep advmod amod nn nsubj neg dep aux nn nsubj root nn dobj advmod
+nsubj cop nn neg nn nsubj cop root
+amod amod nn nn nsubj root advmod ccomp det amod dobj nsubj rcmod amod nn nsubj dep dobj prep amod pobj
+nsubj root dobj
+nn root det nsubj aux rcmod aux xcomp nn nn dobj preconj det dobj prep det amod pobj amod nn dep
+nn nn nn nsubj nsubj rcmod nn nn nsubj cop advmod prep pobj nn advmod root nsubj ccomp
+cc nsubj aux root det dobj prep det nn nn pobj
+nsubj cop root prep pobj mark nsubj advcl advmod amod amod nn nn nn dobj
+dep nsubj cop root prep det nn pobj det nn dep
+nn advmod advmod nsubj root
+nsubj prep det pobj root nn nn nn nn amod nsubj ccomp prep nn nn nn nn nn nn pobj
+nn nn root advmod det amod amod dep cc amod conj dep prep poss pobj
+nsubj neg root det dobj nsubj rcmod amod nn dobj
+advmod det nsubj cop amod nn nsubj root neg det nn dobj advmod prep det amod nn pobj det nn dep prep pobj
+aux advmod root nn dobj prep poss pobj prep det nn nn pobj
+dep cc conj aux det amod dep nn nn nsubj cop amod root prep pobj prep det pobj cc nsubj conj det amod dobj det tmod
+advmod nsubj root advmod nn nsubj prep amod pobj cop nn ccomp dep dobj
+nn nn nsubj csubj nn dobj aux root advmod prep nn nn pobj prep det amod nn pobj
+nn nn nn root aux vmod prep det amod pobj prep pcomp dobj
+nn nn nn nn nsubj root
+nsubj root mark nsubj aux ccomp det amod det dobj mark nsubj advcl dobj
+amod nsubj advmod root prt mark nsubj advcl xcomp det dobj tmod
+root prep predet det pobj prep nsubj amod dep dep mark nsubj cop amod nn nsubj pcomp dep dep xcomp poss dobj prt prep nn pobj
+nn advmod nn nsubj aux root nn nn dobj
+dep det nsubj root poss dobj cc conj det dobj cc conj dep dep poss nsubj amod dep
+advmod nsubj csubj prep pobj root poss nsubj ccomp prt nn dobj
+root vmod nsubj ccomp nn dobj prep det nn pobj prep pobj nn nn nn nn dep dep
+det nsubj cop root dep
+dep poss nsubj cop amod nn root
+nn nsubj root cc advmod conj prep pobj prep advmod advmod nsubj pcomp
+nn nn root det nn nn nn nsubj rcmod nsubj xcomp nsubj ccomp nn amod dobj
+dep nsubj det npadvmod amod amod vmod prep det amod pobj prep pobj dep dep nn dobj mark mark nn nsubj advcl dobj dep root
+root prep det pobj prep det pobj cc det nsubj conj acomp
+root advmod nsubj rcmod det nsubj cc nn nn conj ccomp nsubj ccomp acomp nsubj nn nn nn nn nn nn xcomp
+nsubj root prep pobj aux cop advmod amod nn dep amod nn nn dep dep
+nsubj nn nn advmod dep nsubj root dobj quantmod mwe num dobj
+det nn nn amod nn nsubj neg preconj prep nn amod pobj root nn amod dobj advmod
+nsubj root cop det xcomp
+amod nn nsubj nsubj rcmod dobj root advmod prep amod pobj prep det pobj nsubj advmod dep det amod dobj prep pobj
+nn root
+nsubj nsubj root amod det amod dobj prep pcomp dobj dep nn dobj advmod poss amod advmod amod nsubj dep advmod prep pobj advmod
+root dep poss nn dobj
+dep nsubj root dobj cc det nn nn conj num nsubj rcmod prep nsubj pobj dep advmod dobj
+mark nsubj root dobj dep dobj prep det pobj prep poss nn pobj cc amod conj csubj poss dobj aux cop dep
+root prt poss dobj cc conj mark nn nsubj ccomp nsubj xcomp aux xcomp amod dep dobj cc conj
+root nsubj aux rcmod prep pcomp amod pobj
+csubj det amod dobj prep nn pobj cop advmod amod nn nn nn root
+root dep neg dep dobj nn amod dep prep amod pobj
+nn nn root prep det pobj advmod nn nsubj rcmod det dobj cc neg conj prep pobj
+nn nn nsubj root nn amod dobj dep
+csubj nsubj advmod amod nn ccomp cop det root vmod
+advmod amod root
+nn nsubj root dobj nn dep vmod amod dobj mark aux nsubj dep prep poss pobj dobj
+nn nsubj amod root dep cc conj nsubj ccomp dobj
+nsubj root nsubj ccomp det amod dobj
+nn nn root dep det nn dep dep prep det pobj nsubj dep poss dobj dep nn advmod dep
+cop det nsubj cop root dep
+poss nsubj root nn nsubj prep det nn pobj ccomp dobj dep
+root nsubj rcmod det dobj vmod xcomp prep amod nn pobj prep pcomp acomp
+det amod root nsubj prep det nn pobj neg vmod nn dobj aux rcmod advmod dep nn dobj amod dep
+nn amod nn nn nn nn nsubj root prt poss nn nn nsubj ccomp nn nn nn nn dobj
+nn root advmod dep
+root nn nn pobj dep dep dep prep nn amod nn pobj advmod prep nn nn nn pobj
+root det nsubj nsubj rcmod nn dobj
+dep nsubjpass auxpass root nn advmod prep pobj cc conj amod advmod npadvmod dep
+amod nn root cc amod conj nsubj advmod rcmod nn det amod dobj
+nn root advmod amod dep advmod dep dobj advmod prep det pobj
+nn nsubj det nn nn nn dep dep dep advmod root acomp det nsubj dep nn amod nn dobj
+root amod dep vmod prt advmod dobj mark nsubj advcl mark nsubj ccomp prep poss amod pobj
+nn nsubj root advmod det nsubj cop poss amod nn nn nn nn advcl prep poss nn pobj
+advmod advmod nn amod nsubj cop root
+aux nsubj root poss nn dobj nn advmod advmod xcomp det dobj dep dobj
+nsubj prep nn pobj cop poss nsubj root
+nsubj neg root det amod dobj dep cop det xcomp
+nn nn root nsubj rcmod advmod ccomp det nsubj
+root prep det pobj det nsubj prep pobj aux parataxis preconj prep cc conj nn pobj
+advmod nsubj csubjpass poss dobj auxpass root cc mark nsubj cop conj cc nn nn conj
+root det nsubj ccomp det dobj prep det pobj dep
+amod nn nsubj root nn dobj advmod
+advmod amod root poss amod dobj vmod prt det amod dobj prep det pobj
+nn nn nn root nsubj rcmod dobj
+dep advmod aux root iobj det det nn nn nn dobj dep
+nsubj root dobj dobj nsubj csubj ccomp aux auxpass cc conj nsubjpass xcomp prep det pobj cc mark nsubj conj det dobj prep det nn pobj
+nn nn root advmod nsubj rcmod dobj prep advmod advmod dep dobj mark advmod aux nsubj advcl dobj nsubj aux ccomp iobj det dobj prep poss pobj det
+nn root vmod prep pobj predet det tmod nsubj rcmod nsubj ccomp acomp mark nsubj advcl dobj advmod xcomp poss dobj
+nsubj root dep prep pobj dep dep
+amod amod root mark nsubj dep xcomp amod nn amod nn nn dobj aux vmod dobj dep
+prep predet poss nn pobj root dep aux vmod prep pobj advmod
+nn nn nn root dep dep dobj amod
+nsubj root det amod dobj
+advmod amod amod nn nsubj root prep det pobj
+det nsubj advmod advmod csubj prep pobj prep pobj aux nsubj root
+dep root poss dobj prep det amod pobj
+nn nn nsubj det nn dep det amod root dep
+det nsubjpass auxpass root nn nn dobj advmod advmod nsubj ccomp aux xcomp nsubj dep nn dep det nsubj xcomp
+nn nsubj prep poss pobj root dobj prep pobj cc conj
+root mark nsubj advcl xcomp aux cop det xcomp cc neg conj prep det pobj mark det nsubj advcl advmod ccomp dep advmod amod dobj prep pobj prep pobj
+nn nn nn nn nn root
+nn nsubj root prep det amod pobj nsubj rcmod det dobj dobj
+nsubj advmod aux nsubj root aux xcomp prep nn pobj
+nn nsubj root
+nn nn nn nn nn nsubj prep det pobj cop root amod
+nn amod root
+nn nn nn advmod root
+nsubj root nn nn amod nn dobj
+nn advmod amod amod amod nsubj vmod prt prep amod pobj prep pobj root det amod dobj
+advmod aux det amod amod amod nn nsubj advmod root prep pobj advmod
+advmod amod nsubj prep det pobj advmod nsubj advmod advmod advmod advmod nsubj dep advmod nsubj prep pobj vmod det dobj prep det amod amod pobj root
+root
+nn nn nn nn nn root
+root amod nn nn nn nn nn nn dep dep dep vmod nn dobj prep pcomp det dobj
+cc det nn nn pobj prep pobj mark nsubj advcl nsubj root aux xcomp poss amod nn nn dobj prep det nn amod advmod nn pobj amod
+dep auxpass root mark dep nsubj det ccomp
+root prep poss nsubj amod pcomp det nn dobj
+amod nn nsubj root dobj nsubj ccomp nn nn dobj prep det amod nn pobj dep amod advmod amod dobj
+nsubj amod nn dep dep nn nsubj dep cc det conj prep pobj prep nn nn nn pobj amod dep prep amod pobj root dobj
+nn nn nn nsubj cop amod nn nn nn nn nn advmod root dep det num dep prep pobj
+nn nsubj root det dobj nn amod nn nn amod dep
+advmod det nsubj advmod root prep pobj advmod nn nn nsubj advcl prep poss nn nn nn pobj
+nn root nsubj prep det pobj rcmod prep pobj prep pobj
+nn nn nn nn nn nn root
+root nsubj rcmod amod nn nn dobj prep det pobj amod nn nn nn dep
+nsubj vmod dobj vmod det dobj prep det amod pobj cop root
+amod nsubj dep dep prep poss nn pobj dep root prep poss pobj nsubj dep nsubj ccomp neg dobj
+nn nsubj root det dobj nsubj aux rcmod prep pobj
+root poss nsubjpass auxpass ccomp amod dobj mark nsubj advcl dobj prep poss pobj cc conj dobj prep poss pobj
+nn nsubj aux root amod nn dobj dep dep nn nn nn dobj
+nsubj dep dep dep nsubj root det nn nsubj
+amod nn nn nsubj root dobj det nsubj rcmod advmod expl ccomp neg nn nsubj prep det amod pobj prep pobj
+nn nsubj csubj det dobj nsubj rcmod prt cop amod nn nn nn nn nn root
+nn root det amod nn nsubj dep prep pobj cc conj det amod nsubj dep prep nn amod pobj advmod
+nn root amod dep
+nn nsubj root nn nn nn advmod amod nn dobj dep prep pobj nn cop dep vmod prep det pobj nsubj rcmod advmod
+nsubj root amod nsubj aux vmod prep det pobj ccomp aux xcomp mark det num nn nsubj advmod advcl prep pobj
+advmod csubj prt xcomp det dobj root
+nsubj poss amod nsubj rcmod det dobj prep pobj root prep pobj prep poss pobj
+amod nsubj root nsubj ccomp det amod amod dobj dobj amod prep nsubj pcomp advmod nsubj ccomp
+nn amod root nsubj cop neg nn rcmod det nn nsubj cop amod dep
+root advmod nsubj aux dep dep dep advmod amod cc amod conj advmod dep nn advmod det amod dep
+root nsubj dep nn dobj amod dep dobj dep
+root pobj mark nsubj dep nn nn nn nn dobj dep prep pobj mark poss nsubj advcl prep nsubj pcomp det advmod amod dobj
+nn nn nn nn nn nn nn nn root advmod prep pobj
+amod root advmod advmod amod mark det nsubjpass advmod auxpass ccomp dep
+root nn nn nn amod nn dep poss nn dep
+dep nsubj advmod root aux xcomp dobj mark mark nsubj aux nsubj advcl mark nsubj ccomp aux xcomp poss nn dobj mark nsubj advmod ccomp det dobj
+nn nn root nsubj det amod rcmod dep
+nn nsubj advmod root amod dobj prep nn amod nn pobj dep
+root dep advmod dep det amod nsubj nsubjpass aux auxpass rcmod nsubj ccomp det amod tmod aux xcomp poss dobj poss nn nn dep
+root dep advmod nsubj rcmod dobj prep advmod pobj det dep dep
+nn root det nsubj aux advmod rcmod nn nn dobj det dep
+nn amod nsubj prep pobj root acomp nsubj ccomp dobj advmod advmod nsubj neg advcl
+dep nsubj aux root det nsubj ccomp prt prep num pobj prep det pobj prep pcomp
+amod root advmod amod advmod dep cc aux conj prep nn nn pobj det nn nsubj nsubj cop rcmod cop amod rcmod
+nn amod nn root discourse amod neg nsubj rcmod nsubj ccomp aux vmod det dobj advmod prep det pobj cc nn nn conj dep
+nsubj aux root dep mark aux nsubj advcl nn amod nn advmod nn nn nn dobj prep nn pobj
+nn nsubj root dobj advmod det nsubj advmod amod poss dep advcl det dobj prep pobj vmod prep nn nn pobj cc conj
+nn nn nn neg nsubj prep predet poss nn pobj csubj dobj aux xcomp dobj root
+dep nsubj root aux aux dep nn nn nn nn amod dobj
+dep advmod nsubj dep nn nn nsubj root poss nn dobj prep det pobj
+nn nn nn root dep dep
+advmod nsubj root dobj prep aux pcomp det nn nn dobj dep
+advmod nsubj nsubj prep det nn pobj root xcomp poss dobj nsubj parataxis neg dobj prep poss pobj advmod dep advmod
+root det amod dobj prep det pobj cc nsubj conj xcomp aux cop amod nn nsubj neg advmod ccomp dobj nsubj rcmod nn nn nn dobj vmod aux xcomp dobj
+advmod root aux vmod prep nn nn nn pobj
+nn nn root prep pobj dep dobj nsubj rcmod advmod det nsubj advcl
+root prep pobj nsubj rcmod det dobj
+root nsubj rcmod nsubj cop det nn nn ccomp poss nn nn dobj prep det pobj prep nn nn nn nn pobj
+amod det root mark nsubj dep advmod nsubj prep amod pobj advcl dobj prep det amod nn nn nn nn nn nn nn nn pobj
+root nn nn pobj advmod prep pobj advmod prep det pobj cc det conj cc conj
+nn nn amod nsubj aux nsubj root mark nsubj ccomp cc amod nn nn conj aux nsubj dep cc
+nn nsubj det nsubj root dobj prep neg det pobj mark nsubj cop advmod neg advcl advmod nsubj advcl
+root discourse poss nsubj pcomp advmod prep det pobj prep det nn pobj
+nsubj root nn det amod amod dobj dep dobj prt nn dobj mark nsubj advcl dobj dep dep num dep nsubj rcmod poss dobj
+root dep amod nn dep det dep nsubj vmod dobj amod nsubj ccomp dobj prep poss pobj rcmod mark nsubj ccomp nn nn nn dobj dep
+nn root vmod aux xcomp nn dobj prep det nn pobj prep nn nn nn nn nn pobj
+poss nn nn root nsubj aux rcmod det amod nsubj prep nn nn nn nn pobj xcomp nn nn dobj advmod punct dep
+nn root det nn dep aux nsubj aux ccomp nsubj advmod ccomp advmod dobj cc conj prep nn pobj prep nn num pobj prep num pobj
+root advmod nsubj advcl ccomp det dobj nsubj advmod rcmod dep
+root advmod nsubj dep det dobj cc amod conj nsubjpass auxpass rcmod dep nn nn nn nn dobj
+nn nn root
+advmod nsubj root nn nn nsubj acomp prep det nn pobj nsubj advmod aux rcmod
+root det amod nn dobj
+advmod root det amod dobj amod det dep prep det pobj amod det amod dep det dep amod cc det nn conj amod
+nsubj root nsubj ccomp nn dobj det dobj cc cop amod amod conj
+root det nn nn dobj prep pobj
+nsubj amod prep pcomp pobj cc conj root poss nn nsubj ccomp prep nn poss pobj prep det nn pobj
+nn amod nn nn root
+nn nsubj root advmod dobj
+nn nsubj cop advmod det amod nn root mark nsubj advcl dobj prep det pobj prep nn nn pobj dep
+nn nsubj root prep pcomp predet det pobj prep poss pobj advmod mark det amod nsubj advcl advmod advmod amod dobj prep cop amod pcomp
+nn nn nn nn nn nn root advmod vmod amod nsubj xcomp prt nsubj amod dep dep nsubj xcomp prep pobj
+nn nsubj root nsubj ccomp dobj mark nsubj ccomp nn amod dobj
+root det dep dep aux vmod dobj advmod nsubj dep nn dobj advmod
+det nsubj advmod root nsubj ccomp poss dobj mark nsubj cop advcl prep poss pobj
+nsubj root nn dobj prep pcomp nn dobj nsubj rcmod det dobj cc conj det dobj prep pobj nsubj dep
+nn nn nsubj root det nn nsubj ccomp dobj det nsubj aux nn ccomp mark nsubj amod nn advcl
+amod nsubj root dobj dep
+root det dobj amod nsubj prep nn pobj rcmod dobj prep poss nn pobj dep poss dobj advmod dobj prep det pobj
+advmod det nsubj amod dep aux root nsubj cop prep pobj neg nsubj cop det amod ccomp
+dep det dep dep npadvmod root
+root nsubj rcmod poss nn dobj
+dep aux root dobj dep dep nn dobj mark nsubj advcl nn amod nn nn nn nsubj ccomp dobj
+poss nsubj root advmod advmod prep pobj neg amod dep
+nsubj aux root ccomp dobj advmod prep det amod amod pobj
+amod nn nn root auxpass vmod prep dobj nsubj pcomp
+det nsubj root dobj
+det nsubj root prep pobj dep nn nn nn nn dobj
+root dobj prep pobj dep dobj
+root poss nsubj rcmod nsubj ccomp advmod prep det nn pobj nsubj aux aux ccomp advmod prep pobj prep amod pobj
+amod amod nsubj vmod mark nsubj ccomp prt prep det pobj nsubj rcmod advmod acomp prep nn nn nn pobj root det ccomp prt dobj
+amod nn root advmod amod nsubj dep prep pobj mark det amod nsubj advcl nsubj ccomp det dobj dep
+nsubj aux mark det nsubj aux root tmod dep det amod dobj cc conj nsubj predet det ccomp prep det pobj dep
+nn det nn root nsubjpass nsubj aux aux rcmod prep npadvmod pcomp nsubj dep dobj aux xcomp det dobj advmod
+nsubj vmod det amod dobj prep poss pobj cc conj dobj prt prep pobj cop det root prep pobj
+mark nsubj root prep pobj nsubj rcmod det dobj prep pobj mark nsubj advcl cc conj mark nsubj ccomp det dobj mark nsubj advcl dobj prep pobj nsubj rcmod det dobj
+root nsubj rcmod advmod nsubj ccomp nn nn nn dobj
+root nsubj aux neg rcmod poss dobj prep pobj cc nn nn conj cc aux neg conj dep det nsubj aux ccomp xcomp dobj prep det pobj
+nn nsubj root amod nn nsubj ccomp dobj
+nsubj dep nsubj dep nn dep nsubj root dobj advmod amod amod nn nn pobj
+advmod amod nsubj advmod root mark nsubj ccomp det dobj advmod advmod mark dep nsubj advcl det nn amod dobj dep
+det nn nsubj amod root advmod cc conj mark det amod nn nn nsubj ccomp xcomp dobj advmod nsubj advcl poss dobj
+nsubj nsubj root mark nsubj amod aux neg ccomp dobj poss nn dep
+nsubj root det nn dobj advmod nsubj parataxis
+nn nn root vmod predet poss dobj prep poss pobj
+nsubj det nsubj aux rcmod num amod nn nn nsubj dep dobj prep pcomp nn dobj root dobj
+det nsubj aux advmod root prep poss pobj
+nsubj cc conj root nsubj det dep cc conj cc nsubj conj nsubj dep aux xcomp mark nsubj det ccomp prep pobj
+root dep poss dep prep det amod nn nn pobj
+root nn nn dep vmod dobj advmod prep pobj prep nn pobj cc conj aux dep dobj prep neg pobj cc conj dobj prep det pobj
+root nsubj cop poss rcmod prep det nn pobj
+nn poss nn advmod amod nn nn amod nsubj root
+nn nn dep nn root cc conj aux vmod dobj dobj amod nsubj rcmod dobj det nsubj advmod aux nsubj advmod ccomp prep pcomp mark nsubj ccomp
+nn nsubj cop det root
+amod nsubj prep det pobj cop nn root vmod neg nsubjpass aux advmod ccomp prep nn nn pobj prep aux pcomp neg nn dobj prep poss pobj
+advmod nn nn nsubj root acomp dep nn dep vmod nn dobj nsubj rcmod amod nn amod nn dobj
+root advmod nsubj rcmod mark poss nn nsubj ccomp advmod nn nn nn nn dep
+nn nsubj nsubj rcmod prep pobj aux xcomp dobj aux xcomp prep pobj aux xcomp poss dobj root
+advmod advmod nsubj root amod nn nn nsubj
+nn nn nsubj root nn nn dobj prep pobj amod dep
+nsubj advmod cop root det amod dobj nsubj rcmod prep pobj dep
+det amod nn nn root
+nn nn nn nn nsubj vmod poss nsubj aux cc nsubj ccomp dobj root dobj
+nsubj root prep pcomp poss amod pobj vmod aux xcomp nsubj cop ccomp prep pobj
+nn nn nsubj aux neg cc nn conj aux neg root prep pobj prep poss pobj
+nsubj det nsubj cop neg root prep det nn nn nn pobj
+root nsubj ccomp det amod dobj nsubj ccomp prep pobj nn dep nsubj rcmod dobj amod dep prt det amod nsubj ccomp
+nsubj root prep det det pobj amod prep pcomp poss dep prep neg pobj advmod nsubj dep dep
+nn nn nsubj vmod advmod xcomp prep dobj nsubj aux pcomp cc conj aux xcomp det dobj dep poss dep root
+nn nn root nsubj rcmod advmod advmod dep nn advmod dobj prep pobj
+det nsubj dep amod root dobj
+nsubj cop advmod root
+root dobj prt dep
+amod root advmod nsubj dep predet poss dobj prep det amod pobj cc nsubj conj nsubj ccomp dobj advmod nn nn nn pobj
+advmod csubj nn poss dobj root prep det nn pobj aux advmod dep dobj prep pobj advmod dep nn dobj det dep
+dep nn root prep det pobj advmod advmod
+nn nsubj root det dobj nsubj rcmod dep aux xcomp prt cc conj nn dobj
+nn nn nn nn nsubj root nsubj ccomp nn dobj prep poss pobj nsubj aux dep poss nn dobj
+nsubj discourse root dobj dep nsubj dep nn dobj aux vmod nn dobj
+root dep advmod amod aux xcomp acomp nsubj ccomp nsubj dep dobj prep pobj det tmod cc det conj amod nsubj parataxis mark det nsubj advcl acomp
+nsubj root nsubj ccomp dobj prep det pobj mark nn nn nn advmod amod nsubj ccomp nn dep dobj prep det pobj mark nsubj ccomp det dobj
+nsubj cop det amod root prep advmod amod nn nsubj pcomp advmod prep amod pobj mark det nsubj advcl nn dobj
+nsubj root prep amod pobj dep nn amod dobj dep nn dobj nsubj rcmod prep det pobj
+nn nsubj cc conj root nn dobj
+root dep dep dep amod dep poss dep nsubj rcmod dobj
+dep nn amod nn nsubj root nn nn dobj prep pobj
+nn nn nsubj neg root poss dobj prep amod pobj mark advmod nsubj aux neg advcl nn amod nn dobj
+advmod amod root advmod prep nn nn amod nn nn pobj prep nn nn nn nn pobj
+nn amod root poss nsubj rcmod nsubj ccomp prep pcomp det pobj
+nn nsubj root ccomp det dobj prep nn nn nn nn pobj
+nn nn nn nn nn nn root amod nn nn nn nn nn dep nsubj dep nn nn nn nn nn nn dobj nsubj rcmod
+nn nn amod root vmod prep pobj
+root nsubj aux ccomp dobj dep dobj
+nsubj root prep dep nn amod dep det dep dep npadvmod pobj
+root iobj dobj cc conj aux xcomp iobj det nn dobj
+root nn dep vmod amod tmod nsubj dep det nn amod nn dobj
+det root vmod poss dobj cc conj nsubj advmod amod nsubj ccomp dobj nsubj dep dobj prep pobj nn nn dep det nn nn nn amod dep dep
+nn root expl dep nsubj amod prep nn pobj advmod ccomp nsubj aux nsubj ccomp prep nn pobj dobj vmod dep det dep
+amod root prep pobj prep nn amod nn pobj advmod prep pobj cc poss conj amod dep advmod advmod dep dep nn dep dep
+nn nn nn amod nsubj cop nn nn root
+root advmod nsubj rcmod poss nn dobj cc conj dobj nn nn nn nn dep dep
+nn root vmod prep nsubj pcomp dobj prt advmod dep prep pobj dep dep det dep dep dep prep pobj dep prep pobj
+aux nsubj root nn nn dobj prep num pobj prep pobj vmod prep pobj amod nsubj aux ccomp aux xcomp det dobj det advmod dep advmod
+nn amod nn nn nn nn root nsubj rcmod dobj dep
+nn nsubj nsubj root amod dobj
+det amod nn nn amod nn nn nn nsubj root det dobj dep dep
+nn amod nsubj cop root
+root dep mark nsubj advmod advcl prep det nn pobj nsubj det dep
+root dobj discourse nsubj dep prep advmod nsubj pcomp aux cop det xcomp prep pobj prep pobj nsubj rcmod dobj aux vmod prep pobj
+nn root advmod prep det nsubj pcomp nn dobj aux vmod amod nn dobj
+nsubj root iobj det nn npadvmod npadvmod npadvmod amod cc conj dobj
+nn nn root prep det pobj prep pobj nsubj rcmod advmod
+nn root dep nsubj dep dobj
+poss nn nsubj root det dobj advmod
+root dobj nsubj dep cop advmod rcmod advmod nn nsubj cop det ccomp cc advmod nn nsubj advmod cop det conj
+root nn nn dobj prep nn pobj
+nn root prep pobj advmod dep
+nsubj nsubj csubj dobj cop nn root dep advmod dep amod dep prep det nn pobj
+nsubj vmod det dobj prep det pobj prep nn pobj prep det amod pobj vmod prep poss pobj aux root prt
+amod nn nn root nsubj rcmod nsubj ccomp
+amod nn nsubjpass auxpass root prep pobj prep pobj dep
+nn root mark nsubj dep det nn nn dobj nsubj rcmod amod dobj
+root nsubj dep det nn amod nn dobj
+root det amod nsubj rcmod nn nn nn dobj dep
+nsubj root nn nn dobj prep det pobj
+nsubj nn nn nn nn root det nsubj dep tmod advmod det amod nn nn nsubj ccomp nn dobj nsubj vmod rcmod
+root advmod amod prep pobj poss dep dep
+mark nsubj det root prep amod pobj nsubj det rcmod prep amod pobj advmod
+root aux dep dobj poss amod dep nsubj aux rcmod dobj poss amod dep
+nn nn nn root dep
+mark nsubj root dobj nsubj rcmod det dobj advmod det dep
+advmod nsubj root nsubj ccomp aux xcomp det amod nn dobj prep amod pobj amod amod nn nn dep nsubj rcmod aux xcomp dobj dep dobj
+root dep dep prep nn pobj cc conj dep dobj
+det nn nsubjpass auxpass root
+nn nn nn nsubj root advmod nsubj ccomp nn nsubj ccomp prep pobj cc cop advmod amod conj dep nn dobj
+root nsubj dep poss nn dobj mark nsubj ccomp nn dobj prep pcomp pobj det dep nsubj cop rcmod vmod dobj aux xcomp dobj
+nsubj root advmod nn nsubj ccomp nn dobj prep pcomp poss dobj prep pobj nn amod nsubjpass auxpass rcmod prep pobj
+nn nsubj root prep dep nn nn pobj dep
+root dep prep pcomp nn nn dobj dep neg prep pcomp det dobj prep det amod nn pobj prep det pobj
+nn root
+dep aux nsubj aux root prep nn pobj nsubj rcmod dobj prep pobj prep nn pobj cc conj prep pobj
+nn nn nsubj neg nsubj root nsubj xcomp prep det pobj nsubj advmod rcmod
+nn nn nn nn nn dep det nn nn nn amod amod nsubj nsubj rcmod root dobj det nn tmod
+nn nn root
+nn root discourse dep amod dep dep nsubj aux dep det amod dobj tmod cc advmod det tmod nsubj aux cop npadvmod conj
+nn nn amod nn root det nsubj prep nn nn nn nn nn nn nn nn pobj rcmod nn nn nn dobj
+amod nsubj root cop prep pobj det amod dobj nsubj rcmod aux xcomp dobj
+nn advmod det nn amod prep pobj root
+amod nsubj root nsubj ccomp nsubjpass aux auxpass ccomp det dobj amod dep prep dep advmod pcomp dep
+nsubj prep predet det pobj nsubj rcmod poss dobj prep cc conj nn nn pobj prep nn nn pobj root dep
+nn nn root dep advmod nn nsubj vmod aux xcomp dobj prep amod amod pobj nn det dep dep
+nn nsubj prep pobj root nn dobj prep nn nn pobj prep pobj dep dobj prep det pobj
+nsubj root dobj cc conj nsubj advmod ccomp dobj cc dep dep nsubj conj aux vmod dobj cc conj
+nn nn nn nsubj root prt det nn dobj nsubj aux parataxis dobj nn nsubj rcmod prep dep dep neg nn nn nn dobj
+nn nn nsubj root det dobj amod dep nsubj rcmod det dobj prep det pobj amod dep dep dep amod nn advmod
+nn root det dep prep poss pobj det nsubj rcmod det dobj
+nn nsubj prep det nn pobj root det nn dobj nsubj rcmod nn dobj amod amod
+nn nn advmod root poss appos mark nsubj dep dep nsubj dep det dobj
+nn nsubj root nn dobj xcomp dobj
+nsubj root det nsubj prep pobj ccomp dobj nsubj prep nn pobj prep poss pobj neg dep prep pobj
+nsubj cop root prep amod nn nn nn pobj dep
+nsubj root prt nn nn dobj det nsubj dep nn nn nn dobj
+nn root prep det amod pobj
+nn nn nn root advmod advmod dep prt nn nn dobj neg vmod aux xcomp dobj cc conj cop det xcomp prep nsubj cop det pcomp
+nn nsubj root dobj advmod nsubj advcl det amod amod nn dobj det nn nn nn dep
+nsubj root nn nsubj ccomp det dobj
+advmod root nsubj cc conj ccomp aux xcomp prep amod nn pobj nsubj rcmod nsubj ccomp poss dobj
+nn nn nn nn nn nn nn root det nn nn amod nn nn nn nn nn dep dep
+nn nn cop nn root mark nsubjpass auxpass advcl dobj
+nsubj root nn dobj prep det pobj nsubj rcmod acomp advmod
+root advmod nsubj advcl det amod nn dobj cc conj mark nsubj cop det amod nn nn nn nn nn ccomp
+nn nsubj root prt
+nn nsubj csubjpass poss dobj auxpass root prt
+nsubj neg dep cc conj dep advmod nsubj nn nn nn dep aux dobj nsubj aux csubj dep aux rcmod dobj root dep
+root mark nsubj advcl dobj aux cop det nn xcomp cc nn amod nn nn nn nn conj dep dep dep advmod cc conj dobj nsubj nn advmod rcmod ccomp dobj cc conj
+root nsubj det rcmod det dobj vmod dep
+nn dep root prep nsubj dep pcomp dep dobj prep nn nn pobj dep nsubj ccomp poss dobj prt
+nsubj root dobj vmod nsubj ccomp dobj dep aux cop det xcomp advmod
+nn nn nsubj aux root prt prep advmod amod pobj advmod advmod mark det nsubj advcl nn amod dobj dep prep pcomp dep
+nn nsubj root prep det nn pobj xcomp prt prep poss nn pobj amod nsubj rcmod amod dobj advmod cop dep
+csubj poss dobj cop root cc poss nn nsubj aux conj aux xcomp prep poss pobj det dobj dep amod nsubj rcmod acomp prep pobj
+nn nsubj root det dobj cc nsubj conj advmod aux dep prep pobj
+root det nsubj aux pcomp det dobj advmod amod
+root dep xcomp nn nn nn nn amod dobj det dep
+nsubj root det nn nsubj ccomp det dobj cc conj vmod poss dobj prep poss nn pobj
+dep root poss dobj aux xcomp mark nsubj advmod advcl prep poss pobj prep poss pobj
+amod nsubj root nsubj ccomp amod nn amod nn nn nn nn nn nn nn dobj dep
+amod amod nsubj root det nsubj ccomp nsubj ccomp dobj nn dep det dep predet det dep prep poss pobj
+nn nsubj root dobj nsubj ccomp nsubj advmod ccomp dobj prep nn pobj cc conj nn nsubj rcmod dobj cc conj advmod
+nn nn root nsubj rcmod dobj
+cc nsubj cop root xcomp prt dobj nn dobj prep pobj advmod mark nsubj advmod advcl prep pobj nn advmod dep prep poss pobj cc conj dobj punct
+advmod aux det nsubj root det dobj aux cop vmod prep neg pobj prep pobj
+amod poss nsubj root prep pobj mark nsubj advcl poss nn dobj vmod poss dobj advmod advmod dep mark nsubj cop poss nn ccomp dep dep
+nn nsubj root nn nn nn nn dobj
+root nsubj rcmod dobj cc conj dep dobj cc nsubj conj nsubj ccomp
+root dep nsubj advmod dep nsubj advmod rcmod poss nsubj xcomp cc conj nn pobj prep det pobj
+advmod amod dep aux det nsubj root nn nn advmod nn nsubj aux ccomp xcomp poss nsubj nn ccomp
+nn nn root advmod dep dep nsubj rcmod nn nn nsubj ccomp dobj prep nn nn pobj nsubj dep
+dep nn nn amod nn nn nn nn nn nn root
+nsubj advmod aux nsubj root det amod amod dobj
+root prep pobj prep det pobj
+nn nsubj aux nn neg nsubj root iobj det dobj neg dep mark nsubj advcl aux xcomp dobj dep dep nsubj rcmod nsubj ccomp dobj prep det pobj
+poss nsubjpass auxpass advmod root amod tmod dep dep
+nn det nn nn nn nn nsubj root dobj det amod dep dep
+nsubj root det amod dobj aux vmod xcomp
+nn nn root amod nn nn dep
+nn nn root
+dep mark nn dep poss amod nsubj cop nn root prep nn nn pobj advmod dep cc mark nn nsubj conj poss det nn dep
+nsubj root prt advmod nsubj aux advmod dep nn dobj dep
+nn root vmod dobj prt dep amod dep nsubj aux neg dep dobj prep det pobj
+poss nsubj root dobj aux dep poss dobj cc conj prep advmod nsubj pcomp det amod dobj amod tmod cc advmod nsubj cop det dep dep nsubj cop det amod conj
+nn amod nsubj prep pobj prep pobj advmod root dobj prt nn nn nn dobj
+advmod root prep pobj nsubj rcmod advmod nsubj advcl cc conj advmod nsubj advcl
+nn nn nn root dep
+root advmod det npadvmod advmod nn nn nn nn amod nsubj advmod ccomp det dobj prep pobj dep
+nsubj nn nn nsubj root neg amod nsubj ccomp det nsubj aux aux parataxis dobj poss nsubj advmod rcmod dep dobj prep pobj mark nn nsubj advmod advcl
+nsubj cop root cc conj cop dep
+nn amod nn root prep pobj nsubj dep prep det nn pobj
+nn nn nn nn nn nn nn nn root det dep
+nn nn amod nsubj prep pobj root dep dep advmod predet det dobj
+nsubj root nsubj ccomp cc conj dep dep dobj nsubj det dep
+root aux xcomp det dobj advmod det nsubj dep aux nn nsubj aux dep prep det amod pobj cc nsubj aux conj prep det pobj
+nn amod nn root dep prep det pobj nsubj rcmod dobj
+amod nn root
+amod nn amod nsubj advmod aux nsubj root mark dep npadvmod dep npadvmod neg advcl cc nn nsubj aux conj dobj advmod dep dobj
+nn nn nn nn nn root nsubj rcmod amod tmod dep prep det pobj
+nsubj root dobj cc conj advmod prep det pobj cc conj amod dobj
+root dep dep aux nsubj aux dep prep nn pobj nsubj prep det pobj dep acomp prep pobj dep cc conj
+advmod nsubj root dobj aux vmod advmod aux dobj cc conj prep nn pobj dep dobj
+aux root det npadvmod advmod prep pobj
+aux nsubj root aux cop det amod amod amod nn xcomp prep det pobj advmod dep nn nn nn dobj
+nsubj root det nn dobj nsubj rcmod nn dobj
+csubj det nsubj cop ccomp vmod predet dobj root
+root det dep amod nsubj rcmod prep nn nn nn nn nn pobj
+nn nn nn nn nn nn nn root
+root det nn nn nn dobj vmod aux xcomp dobj prep det pobj amod dep
+nn nn amod root prep aux pcomp det nsubj ccomp prep det pobj xcomp dobj advmod dep advmod prep det nn pobj
+nn nsubj tmod root neg aux xcomp dobj cc conj prep det nn nn pobj dep
+nn nsubjpass auxpass root cc conj amod amod nsubj xcomp det nsubj nsubj rcmod ccomp dobj cc conj cc advmod conj
+nn nsubj predet det amod nn nsubj root prep nn pobj prep nn nn nn pobj nsubj rcmod dobj advmod
+root poss dobj dep dep dobj dep aux vmod nn nn dobj acomp
+root vmod det dobj prep nn pobj prep pcomp dep dep prep pobj prep nn nn nn nn pobj
+root advmod vmod nn dobj cc nsubj cop det conj
+nn advmod amod root det amod dep nsubj vmod prep det nn pobj rcmod nsubj aux nn ccomp det nn nn nn nsubj dep dep
+root nn dep prep neg pcomp dobj prep det nn nn nn amod pobj advmod
+nsubj npadvmod nn advmod amod root det dobj prep advmod pcomp det dobj prep pcomp det dobj advmod advmod prep nn pobj cc conj
+nsubj root csubj amod dobj advmod amod aux ccomp mark nsubj advcl acomp dobj nsubj dep prep nn nn dep
+nsubj root aux xcomp prt prep predet det pobj
+nn nn nn nn nsubj advmod cop amod nn amod nn root prep pobj neg amod nn dep dep
+amod det nsubj root amod dobj nsubj det amod dep
+nn nn nn nn nn nn nn nn nn nn nn root dep
+root advmod nsubj advcl poss nsubj ccomp det nn dobj prep poss pobj dep nn nn dep nn dobj
+det nn nn nsubj root prep auxpass pcomp dep cc advmod aux conj amod dobj prep nn pobj advmod dep acomp
+nn nn nn nsubj det nn nn nn dep root prep poss nn pobj
+dep prep det nn nn pobj dep nn nn dep nsubj rcmod dobj root dobj
+nsubj dep root prt prep nn pobj
+nn nsubj prep pobj root det dobj vmod dobj advmod nsubj dep det dobj amod prep pobj prep pobj dep cc conj
+nsubj root det dobj poss nsubj rcmod prep pobj
+dep nsubj aux root iobj dobj prep poss pobj mark nsubj aux advcl prep det amod pobj
+nsubj dep advmod advmod nsubj vmod nsubj ccomp advmod cc conj det dobj dep nsubj rcmod dobj det nn dep dep dep advmod root
+predet det amod nn nn nn root
+nsubj aux nsubj advmod advmod root dobj det nn nn nn nn nsubj rcmod nsubj ccomp
+amod nn amod nsubj prep pobj cop det root dep det dobj dep
+nn amod nn nsubj root acomp cc predet det amod nn nsubj conj prt aux cop nn xcomp dep
+nn nsubj root det dobj nsubj rcmod neg dep nsubj aux ccomp det dobj
+root mark nsubj advcl iobj det nn dobj dep dep det dep
+advmod nn nn amod root dep
+nn nn nn root advmod mark nsubj advmod dep aux cop xcomp cc conj det amod dobj dep
+root dep advmod dep aux cop amod nn nn nn amod xcomp dep nsubj ccomp prep nn amod nn pobj dobj
+root prep det pobj nsubj rcmod prep amod pobj prep pobj prep det nn pobj nn nsubjpass auxpass advmod rcmod prep poss pobj
+nsubj dep nsubj cc conj aux nn amod nn nsubj neg root
+nn root dobj nsubj prep nn pobj rcmod aux xcomp nn nn nn nn nn dobj
+nn det nsubj cop root
+nn nn nsubj cop det amod nn amod nn nn nn root
+dep root det amod dobj dep nn dep prep det pobj
+advmod nsubj root det amod amod dobj cc nsubj conj aux xcomp prep poss pobj nsubj advmod ccomp det dobj aux vmod poss dobj
+poss nsubj root dobj cc nsubj conj dobj dep
+root nn advmod neg det amod dep advmod advmod amod
+advmod aux nsubj root prep pobj vmod nn dobj prep pobj dep neg dobj
+nn root prep dobj nsubj advmod pcomp dep amod nn nsubj advmod ccomp nsubj ccomp nn nn nn nn dobj
+csubj dobj cop root
+root nn pobj nsubj cop rcmod advmod amod advmod advmod acomp mark poss amod amod nsubj dep dobj
+nn nsubj root nsubj cop dep aux xcomp iobj det dobj dep
+amod root cc nn conj det tmod
+advmod det nn root det nsubj ccomp dobj aux xcomp dobj mark det nsubj aux advcl advmod nsubj ccomp ccomp poss nn nn dobj advmod
+nn nsubj cc det nn nn conj aux neg root
+nn nn amod amod root nsubj rcmod acomp
+nn det nsubj prep pcomp dobj aux nsubj root nn nn nsubj ccomp ccomp dobj prep nn nn pobj dep
+nn root
+nsubj nsubj rcmod det amod nn dobj advmod root dep dep cc conj
+advmod root aux xcomp dep mark nsubj prep advmod num pobj cop ccomp prep pobj
+nn nn nn nn nn dep dep nn nn nn nn nn root dep
+nn amod nsubj root iobj det nn dobj dep
+nsubj vmod prep det amod pobj root prep pcomp det nn dobj nsubj rcmod aux xcomp dep prep det pobj mark dep aux advcl advmod
+nn nn nsubj root det nn dobj
+nn nn nsubj root prep nn nn dep nn pobj prep det amod pobj mark nsubj advcl det dobj
+dep nsubj advmod advmod amod tmod nsubj root dobj prep pobj dep vmod dobj mark nsubj advcl nsubj ccomp prep pobj prep pobj
+amod root dep prep pobj dep acomp cc aux neg conj dobj nn dep
+root mark det nsubj dep prep poss pobj cc poss nsubj conj prep poss pobj cc nsubj conj poss dobj prep det pobj nsubj rcmod det dobj
+nn amod advmod advmod nn nn nn root
+root nsubj dep poss nsubj det xcomp mark advmod amod nsubj advcl advmod prep pobj
+root advmod mark nsubj advcl dobj prep pobj prep pobj advmod prep nn nn nn pobj dep dep nsubj dep amod
+nsubj root dobj
+root nsubj rcmod amod nn nn dobj dep amod amod nn nn nn nn nsubj rcmod prt prep poss pobj advmod
+nn nn root det dep dep dep amod
+mark nsubj advmod cop root prep det pobj
+advmod det root prep poss pobj nn dep dep dep dep
+root nn dobj amod nsubj rcmod dobj
+amod nsubj root det advmod dobj
+advmod amod nn nn nn nsubj root nsubjpass auxpass ccomp prep amod amod nn nn nn nn nn nn nn pobj
+root advmod dobj cc conj expl det nsubj prep pobj prep pobj dep prep nn nn pobj prep det nn nn nn nn pobj
+amod nn root advmod prep det amod pobj prep poss pobj nsubj rcmod ccomp dobj xcomp iobj det nn dobj
+nn nsubj prep det nn nn nn nn pobj prep nn amod pobj root prep amod amod nn pobj dep prep pobj
+nn nn root poss nn amod nn nn nn dep
+root dep det amod nsubj rcmod nsubj ccomp prep pobj advmod advmod
+det nn nsubj advmod root det nn nsubj ccomp discourse ccomp nsubjpass aux advmod auxpass ccomp prep advmod amod det nn pobj
+nn root advmod amod nsubj dep amod dobj cc nsubj conj poss amod dobj aux dep poss dobj
+dep advmod amod dep dep nn nn nn nn root prep nn pobj cc nsubj advmod conj nn dep det amod nn nn nn dobj
+nn nn root advmod prep pobj dep nsubj advmod rcmod amod dobj prep pobj
+amod nn nn advmod amod nn nsubj root det nn nn dobj prep pobj prep pobj prep nn pobj
+advmod nsubj root acomp prep det pobj amod prep pobj
+root dep dep neg dep dep neg amod dep
+dep dep nsubj root nn nn dobj advmod nsubj advcl nn nn dobj
+nsubj aux root prep mark nsubj dep dep dep nsubj aux pcomp amod dobj nsubj cop poss rcmod
+root aux xcomp dobj det amod dep prep det amod pobj mark nsubj dep advcl nn nn dobj xcomp nn nn dobj
+dep advmod neg nsubj root dobj
+amod nn nsubj root mark det amod nn nsubj ccomp prep nn pobj
+nsubj cop amod root nsubj rcmod advmod det nsubj advcl dep nn nn dobj
+root advmod dep det amod nn nsubj xcomp det dobj
+dep nsubj root det dobj nsubj rcmod aux xcomp nn dobj
+nn nn nn nn nn nn root prep pobj cc advmod mark nsubj conj dobj dep
+root amod advmod nsubj aux dep prep pobj cc nn dep nsubj conj prt prep det pobj mark nn nsubj dep advcl iobj nn dobj prt dep nsubj xcomp
+root mark nsubj advcl dobj det dep nsubj advmod rcmod nn nsubj cop ccomp
+root predet det nsubj vmod amod dobj rcmod advmod
+nn nn dep aux nsubj root advmod nsubj ccomp prep det nn nn amod pobj nsubj rcmod nsubj xcomp det dobj
+nn root dep nn nn nn dobj
+amod nn root dep dep
+dobj det nn nn nn nsubj aux root det amod dobj prep det nn nn pobj tmod
+amod amod root prep nn nn pobj
+prep det nn nn nn pobj cop root
+nn nsubj dep root prep nn nn pobj dep
+nn nn nn nn nn nsubj root dobj mark nsubj aux advcl nsubj ccomp prt advmod ccomp aux xcomp poss dobj prt
+nn nn nn amod nsubj root det dobj prep nn nn nn nn nn amod pobj nn nsubj advmod rcmod dep
+nsubj root det nsubj cc det nn conj ccomp nn neg nn dobj advmod dep det nsubj ccomp
+det nsubj aux root dobj advmod nsubj advcl dep
+neg dep root
+nsubj mark nsubj cop det advcl prep amod pobj cop root
+root nsubj rcmod nsubj ccomp det dobj advmod nsubj advcl prep nn nn nn pobj
+nn nn root prep amod nn pobj nsubj dep dobj
+amod nn root det nsubj prep pobj cc conj cop amod dep nsubj rcmod
+dobj nsubj aux cop det amod num nn nn det root dep neg prep nn pobj
+root prep det nn nn nn nn pobj dep nsubj
+nsubj det nn nn nn nn amod nn root det nsubj aux ccomp nn dobj dep
+nn nn nsubj root poss nn nn dobj aux nsubj advmod parataxis aux xcomp poss dobj prep pobj cc conj nsubj ccomp nsubj ccomp dobj
+nn root prep pobj amod amod npadvmod amod amod npadvmod amod amod amod amod dep amod dep det dobj nsubj rcmod
+nn nn root
+nn root advmod nsubj rcmod dep dobj prep nn nn nn nn nn pobj
+nn root det nsubj dep prep amod nn pobj nsubj rcmod det dobj prep nn pobj parataxis amod advmod dobj prep pobj dep dep dep
+nsubj root det nsubj cop amod ccomp
+advmod root amod dobj nsubj rcmod nn nn dobj nsubj rcmod advmod acomp
+root dobj nsubj vmod prt rcmod dobj prep det pobj prep pobj advmod nsubj advcl det dobj cc mark poss nn nsubj cop conj cc conj
+nsubj root prt amod nn nn amod dobj dep det dobj
+root prep num pobj dobj nsubj rcmod prep det nn nn nn pobj
+mark nsubj root aux xcomp advmod nsubj aux ccomp det nn dobj nsubj rcmod advmod
+nn nn root
+nn nsubj root dep dep nsubj aux dep poss dobj mark det nsubj advcl
+nn nn nn nsubj root dobj nn dep prep pobj mark nsubj dep neg dobj dep
+amod nn root mark nsubj cop advmod det dep cc nsubj advmod cop det nn conj
+nn root poss dep cc mark dep det nn nsubj conj dobj prep pobj
+root det amod amod nn nn dep
+nn root vmod amod prep pobj
+nn nsubj cop det nn root nsubj dep prep nn amod nn nn pobj cc conj dobj prep amod pobj cc conj
+nsubj cop root prep nn nn pobj amod prep nn pobj prep pobj cc dep prep pobj prep amod pobj aux nsubj cop conj
+nn root prep det nn nn nn nn pobj
+root nsubj rcmod amod dobj
+nn root cc amod nn conj
+nsubj root nsubj cop dep nsubj rcmod nn nn dobj aux nn nn nsubj advcl nsubj advmod aux ccomp dobj
+nn root
+nn root num dep nsubj dep amod dep dep
+nn nn root advmod nsubj rcmod num amod dobj nsubj rcmod nsubj ccomp amod dobj cc nn advmod conj
+amod nn root nsubj rcmod aux cop det amod amod amod nn xcomp
+nn nn root
+nn nn nn nn nsubj cop det nsubj root dobj prep amod nn nn pobj prep poss amod nn pobj dobj
+mark poss nsubj advcl nsubj aux cop det amod nn root aux vmod det dobj prt
+nsubjpass auxpass csubj prep pobj prep nsubj pcomp prep det pobj nsubj rcmod nn dobj aux root prep pobj vmod dobj
+nn nsubj cop root
+dep nsubj root nn dobj dep nsubj aux nn dep dep mark det nsubj dep det amod dobj
+dep nsubj advmod cop det nn nsubj advmod csubjpass det nsubj ccomp det dobj prep nn amod nn pobj auxpass root dobj
+root poss nn dobj dep nsubj ccomp poss amod dobj
+nn nn nn root amod
+advmod nsubj root det dobj cc nn dep nn prep pobj nn conj prep det amod pobj prep det pobj
+amod nn root poss amod dep
+mark nsubjpass auxpass root amod nsubj aux dep dobj prep pobj neg dep dep dobj prep amod nn nn pobj mark nsubj ccomp dobj nn nn advmod dep det dep amod dep dep
+amod nn root advmod dep nn nsubj ccomp nsubj ccomp poss nsubj aux ccomp amod amod nn dobj
+nn nn nn root amod dep vmod prep pobj amod dep det dep nn nsubj rcmod nn dobj
+root mark nsubj advmod advcl dobj prep pobj mark nsubj aux advmod ccomp advmod amod dobj cc conj dobj prt
+nsubj advmod advmod nsubj root advmod nsubj ccomp dobj amod dep prep pobj advmod amod dep nsubj advmod dep rcmod prep pobj
+nn root dep num nn dep cc amod conj
+nn nn nsubj root det dobj advmod acomp mark nn nsubj ccomp dobj prep pobj prep poss pobj
+nn nsubj nsubj prep pobj prep nn pobj aux nsubj advmod rcmod det amod nn nn dobj root
+amod nn nn nn nn nsubj root prep det pobj
+root poss nsubj rcmod advmod dobj
+det nsubj root dobj advmod nsubj advcl nn dobj advmod dep nsubj advcl prt prep pobj prep pobj cc conj prep advmod dep nsubj aux pcomp dep
+nn root det amod dep prep det pobj prep det pobj
+root det amod amod dobj prep poss pobj mark nsubj advcl det dobj advmod nsubj rcmod nsubj det xcomp det nn dep dep
+nn nn nn nn nsubj cc conj root dobj
+nn nn nn nn nn nn nsubj root nn amod nn nn dobj prep nn nn nn nn nn amod nn nn pobj
+amod nsubj root dobj prep amod pobj dep dobj advmod dep dep advmod dep nn dobj dep nn nn dobj prep pcomp dep det dobj prt
+nn advmod advmod advmod det nsubj aux root
+root nsubj rcmod acomp
+root det amod dobj prep poss amod pobj
+nsubj root aux xcomp dobj aux xcomp
+nsubj root prep amod pobj nsubj rcmod prep dep nsubj ccomp aux xcomp iobj amod nn det nn dobj
+nn root det nsubj aux aux rcmod prep pobj
+nn nsubj root nn nn dobj advmod nsubj parataxis det nn nn nn nn dobj
+root prep pobj cc advmod dep nsubj conj aux xcomp poss dobj cc nn nsubj advmod advmod conj prep pobj
+dep nn nsubjpass auxpass root advmod nsubj dep det dobj prep det nn pobj nsubj rcmod dobj prt prep num pobj cc advmod conj dobj
+nn nsubj dep nsubj dep amod root dobj
+nn nn nsubj root dobj amod dep
+nsubj root prep nn nn pobj cc nsubj conj poss dobj advmod advmod det nn nsubj dep
+amod nn nn nn nn nn nn root dep
+amod nn nn nsubj dep csubj predet det nsubj ccomp nn nn dobj cop nn nn nn nn nn root
+root nsubjpass auxpass ccomp prep det pobj prep poss pobj det tmod nn tmod advmod amod prep det nn pobj
+nsubj root nn amod amod nsubj cop det ccomp advmod
+nsubj root dobj det nsubj rcmod aux auxpass xcomp advmod acomp advmod dep
+nsubj root aux xcomp poss nn dobj dep det nsubj discourse nsubj cop dep
+root dobj auxpass vmod dep dep neg dep nn dep neg det nn nn nn amod nn dep cc nn conj vmod nsubj ccomp nsubj amod neg xcomp advmod
+nn nn nsubj root advmod advmod nsubj advcl xcomp nsubj ccomp dobj
+root dep neg dep dep
+root nsubj cop det dep dep nsubj csubj prep pobj prep nn nn pobj dep cop det rcmod cc conj prep pobj cc conj cc conj aux xcomp
+nn nn root prep pobj nn dep prep pobj
+poss nsubj root nsubj ccomp prep nn nn pobj
+nn nn root amod nsubj dep det amod dobj
+nn root
+root det dep amod prep pobj
+nsubj cc conj root dobj aux xcomp det dobj cc conj aux vmod mark det nsubj advmod ccomp
+nn root nsubj rcmod dobj prep pobj
+mark nsubj root dep nn dobj poss det dep
+root nsubj pcomp amod amod nn dobj dep nn dep vmod dep nn nsubj rcmod advmod prep pobj aux xcomp dobj aux xcomp nn dobj
+nsubj prep pobj root
+root nsubj rcmod dobj nsubj rcmod dobj
+root dep dep dep nsubj neg dep dobj advmod vmod nsubj advmod advmod amod prep poss amod pobj cop ccomp advmod advcl prep det amod pobj
+advmod root prep det amod nn nn pobj dep
+poss nsubj root prep det amod nn pobj amod nn nn nn nn dep prep amod pobj cc conj
+poss nsubj cop advmod root nsubj prep nn pobj cc conj ccomp det dobj prep amod pobj dep prep det pobj prep poss nn pobj
+nn nn nn nsubj prep pobj aux nsubj root dobj
+root mark poss nsubj advcl dobj dep aux det amod nsubj xcomp poss dobj
+root prep advmod pcomp prep det nn amod nn pobj prep det nn pobj dep nn dobj
+root dobj nsubj ccomp cc mark dep nsubj amod cc conj conj det dobj aux vmod det dobj prep poss pobj cc conj prep det amod pobj nn advmod dep dobj
+nsubj cop root advmod prep pobj det nn nn dep
+root dep prep mark amod nsubj cc conj dep pcomp dep advmod pobj cc nsubj aux conj
+root det nn nsubj rcmod dobj prep pobj dep det amod nn dep poss nn nn nn nn dep vmod dobj prep det pobj
+nn root advmod
+amod nsubj nsubj rcmod prep nn pobj prep pcomp dobj aux root dep cc conj
+nn nn nsubj root prep nn pobj mark nsubj advcl dobj amod dep dep dep dep nn amod nn nn nn nn dobj
+nn nn nn nn nn nn root dep
+nn nn root dep dep dobj amod nn nn nn det nn nn nn nn amod dep
+det nsubj root mark nsubj advmod advmod advcl det amod dobj prep poss pobj dep
+nsubj vmod aux xcomp dobj cc nn conj csubj dobj aux cop det nn nn root advmod det tmod aux prep det nn pobj prep pobj
+nn nn root
+dep root aux xcomp iobj det dobj poss det amod dep
+nsubj advmod root dobj prep nn pobj mark nsubj advcl nn nn nn nn nsubj dep nn dobj
+nn nn root nsubj rcmod dobj
+root mark nsubj advcl dobj prep dep nn nn nn pobj
+root det amod nn nn nn nn dep dep
+root advmod det amod nn nsubj cop advcl dep prt det dobj prep pobj nn npadvmod amod dep
+advmod root poss nn dep
+root advmod prep det nn pobj cc conj nn dobj dep det dep
+mark nsubj root aux cop ccomp dep dep aux nsubj rcmod advmod prep det pobj vmod prt prep nn pobj dobj nsubj rcmod advmod dep dep dobj
+nsubj cop det nsubj root dobj nsubj aux advmod rcmod prep pobj cc conj prep dep dep dep nsubj cop pobj prep nn pobj
+dep det nsubj advmod root prep nsubj pcomp nn nn dobj det dep prep advmod pobj nn advmod prep amod pobj
+root nsubj prep pobj rcmod nn dobj vmod aux xcomp amod nn nn nn nn dobj
+nn amod root dep prep nn pobj dobj nsubj rcmod prep amod pobj det dep
+amod nsubj aux advmod root det nn nn dobj
+root det nsubj ccomp dobj prep pobj cc conj dobj prep det nn pobj prep pcomp nn nn nn nn nn dobj
+amod nn root amod nn dep
+nn nsubj advmod nn nsubj rcmod xcomp mark nsubj ccomp det dobj root dobj
+amod nsubj root prep det pobj nn dep aux vmod dobj
+nsubj root det nn dobj advmod nsubj aux ccomp advmod prep pobj cc conj prep pobj prep num nn nn pobj vmod prep pobj mark nsubj cop poss advcl
+advmod prep poss amod nn pobj det nsubj cop advmod poss root dep
+nn nn root det dep aux vmod prep poss nsubj dep amod pobj
+nn nsubj root det dobj
+neg nn nsubj root det nn nn dobj vmod prep poss pobj dep
+root det dep nsubj rcmod det dobj prep nn pobj
+nn nn amod nn nn root nsubj cop advmod rcmod prep pobj
+nn root
+dep nsubjpass aux auxpass root prep pobj mark nsubj cc det conj nsubj rcmod poss dobj advcl det amod dobj aux xcomp
+poss root dep nsubj rcmod dobj poss nn dep nsubj rcmod dobj
+root amod npadvmod acomp cc neg conj prep det pobj det nn dep dep
+amod nn nn nn root det dep
+amod nsubj root poss nsubj ccomp amod dobj nsubj rcmod dobj
+advmod nsubj nsubj dep prep det nn pobj prep det nn pobj prep nn pobj root dobj
+nn root nsubj rcmod advmod amod nsubj nsubj dep rcmod det dobj dep prep pobj prep pobj
+root dobj vmod aux xcomp det dobj aux vmod dobj prep det pobj nsubj advmod parataxis
+advmod advmod advmod det nsubj vmod aux xcomp dobj aux nn root advmod
+nsubj advmod aux det nsubj advmod root xcomp dobj advmod nsubj aux advcl prt prep pobj
+root nn amod dep
+poss nsubj det root advmod nsubj rcmod aux xcomp prep amod pobj acomp aux xcomp prep pobj neg nn dep dep prep pobj
+root poss nsubj rcmod cop det amod ccomp cc nsubj conj dep
+amod nsubj root nn nsubj ccomp nsubj aux neg ccomp prep det pobj dep
+amod root nsubj aux rcmod prep pcomp det dobj cc det conj det nn dep prep amod nn nsubj det nn nn pobj
+root advmod aux nsubj cop det dep cc aux prep pobj aux conj dep
+auxpass discourse nn nsubjpass root dobj prt prep nn pobj
+nn nn nsubj root dobj prep pobj
+amod nn dep nn nn nn nn root dep nn poss nn nn amod prep pobj prep det nn pobj dep
+root nn dep amod nn nn nsubj rcmod nn nn nn nn dobj
+poss root vmod prep poss pobj vmod dep dep xcomp mark nsubj ccomp amod nn nn dobj poss nn nn dep
+poss nsubj advmod root poss dobj aux xcomp nsubj ccomp predet det nn dobj
+poss root prep nn pobj
+csubj det nsubj cop ccomp vmod predet dobj root
+nsubj advmod root dep det amod dobj amod prep det pobj prep nn nn nn pobj det dep cc cop conj det tmod
+dep root poss dobj nsubj rcmod nn amod dep nsubj aux dep poss det amod amod dobj dep advmod vmod nsubj aux ccomp dobj dep
+nn nn nsubj root prep nn pobj aux vmod det dobj advmod dep prep pobj nsubj rcmod advmod det nn dobj det dep dep
+mark nsubj root aux xcomp cc auxpass conj mark det nn nsubj cop det nn advcl
+nn nsubj root det amod dobj vmod prep poss pobj
+cop root det dobj dep
+nsubj root dobj cc poss conj dep
+nn amod nn nn root
+nsubj advmod root nn advmod dep det amod dobj prep det pobj dep aux xcomp det npadvmod acomp prep pobj advmod
+nsubj root det dobj nsubj rcmod poss dobj
+advmod nn nsubj root det dobj prep pobj amod dobj
+amod amod nn root nsubj cop rcmod prep det amod pobj advmod nsubj parataxis poss dobj dep prt prep poss pobj dep nn amod nn dobj
+nn nn nn nn amod nn nsubj advmod root xcomp dobj vmod prep nn pobj
+nn root
+nsubj root dobj prep pobj neg prep pobj amod dep advmod dep vmod prt nn nsubj ccomp dobj
+cc mark nn nsubj root dep vmod advmod xcomp nn nn nn dobj xcomp nsubj ccomp neg poss nn dobj dep nn dobj
+nsubj root det nn nn dobj dep dobj
+nn nsubj dep det dobj csubj amod dobj root dep
+root nsubj rcmod aux xcomp advmod dep prep det amod pobj advmod advmod amod amod nn nn nn nn nn nn amod dep cc conj
+nn nsubj advmod csubj poss dobj det dobj advmod root poss dobj
+aux det nsubj root prt dobj
+nn nn nn nn nn nn nsubj root dobj prep
+dep nsubj root prep det pobj amod amod
+poss nsubj cop amod det amod nn nn root dobj nsubj rcmod det dobj cc nn nsubj conj dobj dep
+nn nsubj root prep nn pobj dep prep amod det amod pobj
+dep nsubj root nn nn nn nsubj prep det amod pobj nsubj amod rcmod ccomp prep nn pobj vmod prep pobj prep pobj
+advmod root dep nsubj dep dobj dep prep det pobj dep aux nsubj parataxis det nsubj cop ccomp neg nsubj prep pobj cop rcmod
+nn root nsubj rcmod nn npadvmod acomp prep det nn pobj
+amod nn nsubj advmod dep dep advmod nsubj cop det amod root prep det nn nn pobj prep num nn pobj prep det amod pobj
+det root dep
+nn nn nsubj cc nn nn conj prep amod pobj root nsubj xcomp
+nn nn nn nn root det amod dep det nn nsubj rcmod num dobj nsubj rcmod prep det pobj
+poss root prep pobj prep det nn pobj dep det dep nsubj rcmod nn nn nn nn nn dobj
+nn det nn amod nsubj root det dobj mark nsubj advcl det dobj cc conj
+root det nsubj ccomp acomp
+nn nn root prep predet det pobj nsubjpass auxpass rcmod prt prep det pobj prep poss pobj xcomp mark det nn nsubj advcl aux xcomp dobj dobj
+dep prep nn amod nn amod nn nn pobj nsubj root nsubj aux nsubj ccomp prep nn pobj xcomp
+nn nsubj root prep det amod pobj prep nn nn pobj
+root dep dep advmod nsubj rcmod det nsubj ccomp nn dobj poss nn dep mark nsubj dep det nn dobj
+root amod amod dep dep dep dep amod nn nn nn advmod dep
+nn nn nn nsubj nsubj aux nsubj root dobj
+nn nsubj root det dobj prep amod nn nn nn pobj cc poss amod nn nn nn conj dep
+root dobj prep nn nn nn nn nn nn nn pobj vmod nn nn dobj
+dep advmod nn nsubj advmod ccomp prep amod pobj cc nn conj nsubj ccomp nsubj ccomp advmod advmod acomp advmod dep advmod root
+nsubj root det dobj amod advmod nsubj advcl mark nsubj ccomp det dobj vmod prt poss dobj
+nn root nsubj rcmod nsubj ccomp amod det dobj advmod
+det amod nn root vmod det dobj
+nsubj root neg nn amod nsubj cop det amod ccomp nsubj rcmod dep
+root poss dep dep dep nsubj rcmod nsubj xcomp
+root amod poss amod dep mark nsubj aux advcl advmod auxpass advmod dobj
+dep nsubj root det nn nsubj advmod advmod dep prep auxpass prep det amod pobj det nsubjpass cop pcomp cc conj det dobj prep pobj cc det advmod conj
+tmod cop quantmod quantmod quantmod amod num amod root dep det dobj prep pobj nn dep vmod prep det pobj cc conj acomp prep nn nn pobj
+nn nsubj csubj dobj prep nn pobj root nn nn nn nn dobj
+nn nsubj dep root amod nn dobj dep nn dobj dep neg nsubj rcmod nsubj xcomp det dobj
+nn nn nn root vmod prep det pobj det tmod prep pobj neg dep neg dep neg dep advmod dep amod nn dep
+dep nsubj root nsubj ccomp prep det pobj cc conj dep poss nsubj dep aux rcmod dobj amod nsubj ccomp nsubj ccomp
+nn nn root
+nn nn root poss amod dep
+root prep pobj advmod nsubj advcl nsubj dep dep mark advmod amod nsubj advcl dobj prep poss amod pobj nsubj xcomp neg advmod det dobj
+nn nn root mark nn nsubj advmod amod prep pobj advcl nn nn nsubjpass auxpass ccomp advmod mark nsubj cop det amod advcl
+nn root mark amod nn nsubj aux advcl nn amod nn nn nn nsubjpass auxpass ccomp advmod
+poss nn root aux vmod det nn dobj mark det nsubj nsubj rcmod dobj mark nn amod nsubj ccomp neg dobj aux vmod nsubj ccomp dobj nn advmod aux xcomp dobj advcl
+nsubj root dobj nsubj parataxis advmod nsubj advcl nn dobj prep advmod amod pobj aux nsubj ccomp dep det dobj
+nsubj nsubj rcmod prep pobj prep pobj aux cop det amod nn root
+expl root nn prep pobj prep det nn amod nn nn pobj nsubj
+dep dobj advmod root nn dobj
+root dobj prep det amod pobj dep
+nsubj root aux cop det amod nn xcomp det nn nsubj prep pobj rcmod nsubj ccomp dobj mark nsubj advcl dobj prep poss pobj aux vmod prt neg dep
+nsubj root det nn dobj dep advmod ccomp det dobj
+dep root det dobj prep det pobj amod dep vmod mark det nsubj prep nn pobj advcl det nn dobj
+nn nn nn neg nn nsubj prep pobj advmod nsubj root prep nn nn pobj cc nn nn conj nsubj rcmod
+root prt prep nsubj pcomp dep amod dobj advmod
+amod npadvmod amod root
+root prep nn pobj ccomp dobj prep det pobj vmod nsubj ccomp prt ccomp det dobj prep det pobj det nsubj rcmod poss nn dobj
+mark det nsubj cc amod conj csubj nsubj ccomp dobj cop root
+nn root det nsubj dep advmod det nsubjpass auxpass advcl advmod advmod acomp mark nsubj advcl dobj amod
+nn nn nn nsubj aux nsubj advmod root nn nsubj cc nn conj ccomp dobj prep pobj cc det nn conj
+nsubj advmod root nn nsubj ccomp det amod nn dobj cc aux conj det dobj
+nsubj root dobj prep poss nn pobj cc conj mark nsubj advcl nsubj ccomp acomp
+advmod dep det nn nsubj advmod root dobj nsubj rcmod
+nn nn nn nsubj csubj dobj cop amod det amod root
+nn amod nsubj cop det root
+root mark nsubj advcl det dobj nsubj rcmod dobj nsubj ccomp prep pcomp det pobj
+nn nsubj cop det amod poss root dep advmod mark nsubj aux advmod advcl dobj dep dep det dobj prt
+nn nsubj prep poss nn pobj root amod dobj advmod amod advmod amod cc advmod conj amod nn nn dep
+root expl det amod nsubj dep pobj prep pcomp amod pobj cc conj dep neg vmod prep pobj cc conj cc nn conj prep det pobj aux xcomp
+num nn nn nsubj cop det nn nn nn root dep
+cop det root mark nsubj dep advmod cop nsubj acomp prep det nn nn pobj amod prep det pobj
+dep det nsubjpass auxpass root prep det pobj prep dobj nsubj pcomp
+root advmod nsubj rcmod prt poss dep dep det nn nn nn nn nsubj dep
+nn dep aux nsubj root nn amod dobj dep nn dobj mark nsubj advcl advmod dep nn nn neg dobj
+nsubj root det amod dobj nsubj amod amod aux rcmod
+neg root prep det pobj nsubj rcmod prep det pobj prep det nn pobj
+root cc conj dep prep aux pcomp dobj vmod prep nn amod pobj dep dobj
+advmod det nsubj root cc nsubj conj det dobj
+nn nn amod nn nn nn nn root poss dep dep
+nsubj cop poss root prep pobj aux vmod amod dobj
+nn nsubj cop root mark nsubj cop advmod nsubj cop ccomp dobj prep pobj det nsubj aux rcmod dobj
+root prt dobj nn dep dep nn dep aux vmod nn dobj
+nn root det nsubj rcmod prep pobj
+nsubj nn dep nn advmod prep nn nn nn amod pobj npadvmod root acomp advmod aux ccomp dobj
+advmod nn amod nn nn nn root
+root nsubj rcmod
+det root det nn dep mark nsubj dep dobj dep nsubj rcmod neg det dep dep nn nn dep amod amod dobj
+nn nsubj aux nsubj root dobj aux nn nn nsubj parataxis predet det dobj prep npadvmod pcomp neg nn nn dep aux amod dep dep nn dep prep det pobj
+nsubj nn root nsubj xcomp aux xcomp det amod dobj amod neg xcomp nsubj aux ccomp prep
+root auxpass dep acomp prep det pobj nsubj rcmod aux xcomp nsubj advmod advmod ccomp
+amod nn root
+nn nn nsubj cop det nsubj advmod root acomp mark nsubj cop ccomp
+nn nsubj root nsubj aux ccomp nn nn amod dobj advmod
+root dep poss nsubj aux rcmod xcomp amod dobj prep poss pobj
+nn nsubj root iobj nsubj prep nn pobj ccomp dobj
+nn nsubj nsubj rcmod det dobj root
+nn nn root nsubj aux ccomp det dobj prep advmod nsubj dep dep npadvmod pcomp
+nn nn root prep poss nn pobj nsubj rcmod xcomp prep det amod pobj
+nn nsubj root acomp prep det amod pobj
+root prep det amod nn pobj dep dobj nsubj rcmod amod advmod dobj mark nsubj aux nsubj aux advcl poss dobj
+advmod nsubj cop det root prep poss pobj vmod det dobj vmod nsubj ccomp nn dobj
+nn nn nn nn nn amod nn nn nsubj root aux xcomp poss amod nn dobj poss nsubj dep
+advmod cop dep advmod det amod nn amod root
+advmod det nsubj root nn dobj advmod nsubj advcl
+nn root mark poss nsubj cop advcl poss nsubj cop amod ccomp nsubj ccomp nn dobj advmod prep preconj pobj
+nn nsubj root dobj dep dobj dep
+nsubj root poss amod dobj prep poss nn pobj nsubj parataxis det amod dobj
+nsubj prep amod nn nn pobj csubj nn dobj advmod root poss dobj prep det pobj nsubj rcmod det dobj
+nsubj nsubj rcmod nn dobj root dobj dobj advmod cc conj dobj prep nn pobj advmod
+root mark nn nsubj advmod vmod prep nsubj pobj prep poss nn pobj cop det csubj prep det pobj aux rcmod dobj
+poss nsubj root prt dobj prep pobj dep amod dep dep prep det pobj prep pcomp nn pobj advmod vmod dobj predet poss dep prep det pobj
+dep nsubj root num nn nsubj nsubj ccomp nn nn neg det amod dobj
+nsubj prep pobj root dobj
+nn nsubj root aux xcomp prep pobj cc det nn nn nn nn conj
+root prep pcomp pobj aux xcomp det nn dobj dep advmod prep cc conj prep det pobj cc conj det amod dobj det nn nn nn nn dep
+nsubj amod root det dobj prep dep nn pobj dep
+nn nn nsubj nsubj rcmod prep pobj advmod aux root det nn nn dobj
+nn nn root mark nsubj aux nsubj dep det nn amod dobj advmod dep nsubj prep nn nn nn pobj cop ccomp
+det nn nn nsubjpass auxpass root prep nn nn nn nn nn nn pobj cc nn nn nn conj dobj
+root nsubj rcmod nsubj ccomp dobj advmod amod dep
+mark nsubj aux aux root nn dobj prep pobj dep mark nsubj ccomp amod dobj
+nn nsubj root nsubj ccomp det nn nn nn dobj dep dep prep pobj prep nn pobj vmod poss dobj dep
+nn nn nn nn nsubj cop nn nn root dep
+nn nn root amod nn dep vmod aux cop neg amod xcomp
+root nsubj rcmod acomp aux nsubj ccomp dobj advmod aux advcl dobj amod
+nn nsubj advmod root poss dobj dep det nsubj rcmod advmod
+nn nsubj root det dobj prep pobj prep advmod cop det pobj
+nsubj dep aux nsubj root dep nn dep prep det pobj advmod nsubj neg rcmod prep pobj
+det nsubj aux cop det root prep nn pobj det dep
+nn nn nsubj csubj amod cc conj nsubj ccomp dobj neg dobj cc dep conj cop nn nn nn nn nn nn nn root
+dep root nn dobj vmod poss nn dobj tmod nsubj aux cop amod det amod nn nn nn parataxis
+nsubj advmod nsubj dep nn amod prep dep amod nn nn nn nn nn dep root
+nsubj root prt dobj
+nn root advmod det nsubj dep nn nn nn nn nn dobj dep
+root det pobj amod nsubjpass auxpass dep
+nn nn nn nsubj root nn nn dep dep det amod dep mark nsubj dep advmod
+nsubj cc advmod conj det amod dobj cop root
+det amod nsubj dep nsubj vmod dobj prep pobj prep pobj root cop det amod ccomp vmod poss dobj advmod nsubj nn nn advcl dobj advmod
+amod nn nsubj cc conj advmod dep root nn dobj amod dep nsubj dep nn advmod tmod nn nn dep
+nsubj advmod prep advmod det pobj aux root prt prep det pobj nsubj rcmod dobj prep det amod pobj tmod
+amod nn neg nn root
+dep nsubj root mark nsubj cop nn amod ccomp advmod nsubj advmod advcl prep det pobj nsubj ccomp mark dep nsubj aux ccomp prep
+nsubj prep pobj root advmod nsubj advcl prep pobj
+nn nsubj prep pcomp poss dobj root prt
+nsubj root det nn dobj prep det pobj prep pobj cc nsubj aux conj dobj dobj prep poss nn nn nn pobj nsubj dep cop det amod nn nn nn ccomp
+nn nn nn root amod dep
+det root vmod dep xcomp aux xcomp amod dep poss dep
+nn root prep pobj cc advmod dep nn conj
+nn advmod amod root prep det nn nn nn pobj aux vmod prt
+root det dobj dep dobj dep dep
+amod root dep nsubj rcmod advmod prep nn pobj cc amod conj dep
+dep neg root neg nn dobj poss dep
+root dobj nsubj nn nn nsubj rcmod dobj aux rcmod dobj prt
+root advmod nsubj dep nn nn dobj neg dep nsubj aux rcmod nn dobj nsubj det amod amod dep
+nn nsubj root prt prep det pobj det dep prep nn nn nn pobj dep
+root nn advmod dep aux vmod det amod dobj amod dep det dep advmod advmod nsubj advmod dep dobj
+dep nn nsubj prep pobj prep nn pobj root det dobj prep poss pobj nsubj dep dobj
+nn nn nn nsubj prep poss pobj prep det pobj advmod cc advmod root
+root nsubj rcmod det det nn nn tmod cc det nn conj nsubj ccomp det nn dobj mark det nn nn nsubj dep dobj
+nn nn nn nsubj root nn nn nn nn nn nn dobj amod nn dep cc conj dep det dobj
+advmod root prep dep prep det pobj advmod
+npadvmod amod root
+root dep dep nsubj advmod ccomp det dobj
+amod root num nsubj dep det amod nsubj ccomp nsubj ccomp dobj prep det pobj cc dep dep dep nsubj conj nn dep
+root prep det amod pobj
+amod nn nsubj advmod cop det nn root mark dep dobj prep poss pobj cc conj aux xcomp dobj
+root dep dobj advmod nsubj advcl nn dobj
+amod root advmod amod amod amod dep prep nn pobj aux vmod prep pobj advmod nsubj aux dep dobj dobj
+det nsubj cop root mark poss nsubj advcl cc nsubj conj advmod advmod nsubj advcl
+nn nsubj root amod prt prep amod amod pobj amod dobj aux det nn nn nn nn nsubj dep
+det nn nn root det amod dep vmod amod dobj prep det pobj
+advmod det amod nsubj advmod amod root nsubj xcomp
+dep dep advmod root prep mark dep nsubj pcomp det dobj prep poss pobj
+dep poss nsubj cop root mark nsubj cop det advcl
+nn nsubj root dobj nsubj parataxis
+root det nn dep
+root prep nn pobj prep pobj mark csubj dobj prep amod pobj vmod prep det nn pobj cop det amod dep
+nn nn root nsubj rcmod nn nn nn dobj
+dep aux amod nn nn nsubj aux root amod dobj
+nsubj root nn nn nn nsubj ccomp nn amod dobj cc amod nn nn nn nn nn conj
+nn nn dep aux nsubj root advmod advmod ccomp nsubj aux ccomp prep pobj prep pcomp prep det pobj nsubj parataxis det dobj dep dep
+root nsubj rcmod prep det pobj nsubj rcmod dobj dep dep dep
+nsubj aux root dobj nsubj rcmod cc conj dep dep det nn dep nsubj rcmod
+dep aux nsubj root det dobj cc conj dep dobj
+poss nsubj prep pobj cc nsubj conj prep root
+nsubj root prep pobj amod amod nsubj advmod dep ccomp det dobj
+dep nsubj csubj poss nn dobj aux vmod prep det pobj neg prep pobj det nsubj ccomp dobj root
+nn nn nsubj root prt prep aux cop amod pcomp prep poss pobj prep det nn pobj nsubj amod rcmod tmod
+nn nn nn root det nn nn nsubj ccomp mark amod nsubj advcl neg dobj advmod nsubj aux advmod parataxis det nn nn nn nn dobj dep
+nn nn nn amod root nsubj rcmod dobj advmod dep det nsubj xcomp
+mark nsubj cop det nn advcl prep pobj advmod nsubj cop det nn root prep
+nn nn nn nn nn root det dep prep det pobj
+nn nsubj root nn nn dep dobj
+nsubj aux root det dobj mark nsubj advcl det dobj prep det amod pobj vmod prep det pobj prep pobj prep nn nn pobj
+csubj det nn dobj det amod num cc det amod nn conj dep cc nn nn conj det amod dep vmod poss nn nn dobj root det dobj
+dep advmod root aux xcomp dobj prep det pobj advmod nsubj advcl poss nsubj amod amod xcomp prep pobj
+root nsubj rcmod prep advmod pobj neg cop det pobj aux vmod dobj
+root dep advmod nsubj rcmod det dobj prep det pobj nsubj rcmod dobj cc poss conj cc nsubj conj dobj dep prep poss pobj neg dep nsubj vmod dobj advmod
+nn amod nn nn nn root
+nsubj dep aux nsubj root nn dobj dobj prep nn amod nn pobj mark poss nn nsubj dep prep poss pobj
+det nsubj cop det root dep
+nsubj advmod root advmod amod nn dobj amod aux xcomp prep pobj nsubj rcmod npadvmod advmod dobj cc conj prep pobj
+dep nsubj aux cop amod root cc det nsubj aux conj poss dobj
+nn root nsubj rcmod nsubj ccomp det dobj cc conj nn dobj prep nn pobj det tmod dobj
+amod nn nn amod nn root
+amod nn nn root dep advmod prep det nn nn nn nn pobj
+nn dep amod root
+mark amod nsubj prep det pobj root prep nn pobj
+dobj nsubj prep dep pobj advmod root amod nn dobj
+nn nn nsubj root dobj
+poss amod nsubj root aux xcomp nn dobj cc conj dobj prep det amod pobj
+advmod nn root
+advmod nsubj root nsubj ccomp aux xcomp nsubj dep aux nsubj xcomp prep pobj xcomp nsubj ccomp det dobj
+nsubj advmod root det amod num dobj vmod aux xcomp poss dobj det amod nn dobj advmod nsubj rcmod mark nsubj cop det ccomp
+aux det tmod nsubj nn nsubj rcmod det dobj nsubj rcmod nn dobj nsubj rcmod poss dobj aux root dobj
+prep pobj root nsubj nn nn det nn nn nn ccomp dobj
+nsubj aux nsubj root xcomp nn nn dobj advmod dep aux xcomp dobj prt advmod
+nsubj aux root dobj poss nsubj aux rcmod discourse dep prt nn nn nn aux dobj
+nn nn root dep
+advmod amod nn nn nn nn amod root dobj prt prep poss nn nn nn pobj dep
+nn nn nn root neg dep aux cop xcomp cc nsubj advmod conj mark nsubj advmod advcl det nn dobj dep prt det dobj cc conj prt poss dobj
+root nsubjpass aux nsubjpass auxpass rcmod
+root nsubj dep poss dobj dep advmod
+dep aux nsubj root iobj det amod dobj nn amod nsubj rcmod det dobj cc nsubj conj nsubj ccomp prep pobj advmod
+root dep nsubj ccomp xcomp dobj dep
+nsubj dep acomp xcomp dobj root cc conj prep nn pobj prep pobj mark nsubj advcl prep det amod pobj dep cc mwe det amod conj
+det nsubj root prep nn pobj
+dep dep dep amod root
+advmod amod nn nn nn nn root nsubj rcmod nn advmod nn dobj nn advmod det dep cc conj det dep cc dep amod conj
+root det nn dep dep
+nn nn nn nn nn nn nsubj preconj root nn dobj dep dobj prep pobj dep
+nn nn nn nsubj root det nn nn nsubj aux ccomp det nsubj ccomp det dobj mark advmod nsubj dep prt prep pobj
+nn nsubj csubj det dobj prep nsubj pcomp predet det dobj prep nn amod pobj nsubj rcmod cop det root
+nn nn nsubj root aux vmod det amod dobj
+dep dep advmod dep aux root amod amod nsubj dep det amod amod dobj amod prep amod pobj dobj nsubj aux rcmod advmod dep dep
+nsubj cop root vmod aux cop xcomp prep det pobj det nsubj prep amod pobj dep nsubj prep pobj prep det amod pobj prep pobj
+root dep advmod amod prep pobj cc advmod nsubj advmod conj aux xcomp nn nn dep det dep amod
+nn nn root cc nn nn conj
+nn nn nsubj root poss nn nsubj ccomp prep nn nn nn pobj prep det pobj nsubj cop amod nn rcmod
+root cc conj cc nsubj conj dobj nsubj rcmod nsubj ccomp aux xcomp nsubj aux nsubj ccomp poss dobj
+nn amod nsubj root dep dobj advmod dep acomp advmod nsubj advcl prt aux cop xcomp
+root amod dep vmod poss dobj nsubj dep prep nsubj cop det nn nn nn nn amod nn nn nn nn pcomp
+root advmod nsubj dep prep det amod pobj
+nsubj det dep prep nn cc conj pobj aux cop nn amod nn neg amod root
+root nsubj rcmod det dep nsubj aux neg ccomp advmod xcomp det dobj prep amod pobj
+nn nn nsubj aux root dobj cc det conj nsubj rcmod nsubj ccomp mark nsubj advmod ccomp nn dobj prep nn pobj
+det nn nsubjpass auxpass dep dobj nsubjpass root
+nn dep amod amod root
+nsubj root iobj det amod dobj nsubj advmod rcmod dobj dep mark nsubj ccomp dobj aux vmod nn dobj prep pobj
+nn root det dep vmod aux aux xcomp prep pobj prep det pobj
+dep csubj num nn dobj aux xcomp dobj prep pobj dep cc conj cop amod root dep
+amod nsubj vmod prep nn pobj prep pobj root dobj prep nn nn nn nn pobj
+root xcomp dobj prep pobj dep cc conj
+root det nsubj rcmod det dobj prep nn nn nn nn nn nn pobj
+nn nn nn nsubj root dobj prep pobj nsubj rcmod nsubj ccomp det amod nn nn dobj dep
+prep poss nn pobj root det nsubj prep pobj prep advmod nsubj prep pobj cop amod pobj cc amod nn conj cc amod conj
+nn nn nsubj nsubj root aux xcomp cc conj nsubj dep nn dobj nsubj parataxis dobj nn dep aux auxpass vmod prep pobj
+nsubj advmod nsubj rcmod dobj root prt prep det pobj nsubj ccomp aux xcomp prep det pobj cc conj nn nn dobj
+root det dep vmod nn dobj
+advmod nsubj root nsubj ccomp prep neg pobj amod nn nn nn nn dep
+mark nn amod nsubj nsubj rcmod dobj root dobj dep dep prep nn pobj prep det nn pobj prep det pobj advmod nsubj rcmod aux xcomp
+amod root dep det dep nsubj advmod rcmod nsubj ccomp dobj
+nsubj root nn nn amod dobj
+dep det nsubj root dobj
+nn nsubj root det dobj cc conj
+nn nn nsubjpass auxpass root
+nn root dobj nsubj advmod rcmod num dobj prep poss amod nn nn pobj
+root prep predet det pobj nn dep prep poss pobj dep
+amod root nsubj rcmod dobj
+amod nn amod nn amod nn nn amod root prep det pobj cc conj prep amod pobj dep
+det amod nn nn nn root det amod amod nn nn nn nn nn nn nn nn nn nn nn nn dep
+nn nn nsubj advmod amod dep nsubj rcmod dep root
+nsubj aux root nsubj ccomp prep pobj cc conj nn amod nn nn dobj dep det amod dobj
+root poss dobj cc nsubj aux conj prt aux cop det xcomp
+mark nsubj prep pobj root det amod dobj cc conj nn dobj nsubj rcmod dep dobj
+advmod nn nsubj root cc conj xcomp prep det pobj nsubj rcmod aux amod dep mark mark poss nsubj dobj det nsubj csubj dobj xcomp dep
+nn nn nn nsubj root det amod dobj prep nn pobj dep pcomp dep advmod nn nn dep
+nn nn root vmod dobj
+predet det nsubj root nn dobj cc det amod nsubj nn nsubj cop advmod conj
+nn amod root nsubj vmod amod amod dobj nsubj rcmod aux dep dobj advmod
+nsubj root dobj tmod dep prep nn nn pobj cc cop advmod det amod conj prep amod pobj dobj
+root prep nn pobj
+det root vmod prep poss pobj dep
+dep dobj nsubj cop det amod root cc dep nn nn nn nn conj dep det nn dep
+root poss dep dep det dobj nsubjpass auxpass rcmod aux xcomp advmod amod nn dobj nsubj dep poss nn dobj aux vmod nn nn dobj
+nsubj advmod advmod root prt cc dep nn conj prep pobj advmod xcomp
+root nsubj dep prt nn nn nsubj neg ccomp neg amod nn nn nn nn nsubj ccomp dobj
+nn nsubj aux neg csubj det nn dobj advmod advmod advmod pobj cop root advmod
+poss nsubj aux root advmod advmod nn dep dep dep amod poss dep
+nn root nsubj advmod det nn rcmod
+nn root nsubj rcmod prt nn dobj
+amod root advmod nsubj advmod rcmod nsubj nsubj cop poss nn rcmod ccomp nsubj cc conj nsubj dep acomp cc nsubj det conj
+nsubj nsubj root det dobj dep dep advmod prep pobj
+dep dep nsubj root mark nsubj advmod dep amod advcl nsubj det amod dep
+advmod mark poss nsubj cop det amod amod amod root
+nsubjpass dep amod nsubj dep neg acomp cc nsubj conj det dobj det nsubj rcmod det nn dobj prep pobj cc nn conj auxpass root
+nsubj det nsubj nsubj rcmod prep pcomp poss nn dobj rcmod prep pcomp amod dobj prep pobj cop advmod root nsubj ccomp amod dobj
+amod root poss nn amod nn nsubj rcmod aux xcomp det dobj cc conj aux xcomp xcomp mark advcl
+det amod nsubj advmod advmod root dobj prep poss pobj cc nsubj conj prep det pobj csubj advmod advmod dobj aux parataxis iobj dobj
+root mark nn nn nn nsubj cop advmod ccomp dep poss nn nn nn nn dep
+det amod root
+nsubj amod prep amod nn pobj prep det amod pobj aux nn advmod poss root
+dep aux root det dobj amod
+advmod nsubj root nsubj ccomp nn dobj vmod prep poss pobj
+nsubj root advmod prep pobj prep amod pobj cc conj prt prep poss pobj nn dep det nn amod dep cc prep pobj conj prep poss amod pobj
+nn nn nn nn nsubj aux amod nn root
+nsubj aux root advmod dobj vmod dobj prep pobj mark nsubj advcl prt det dobj advmod nsubj cop det amod tmod
+root nsubj rcmod nsubj amod dobj
+nn nsubj cop nsubj det nn root prep nn nn pobj advmod neg amod dep advmod vmod dep prep pobj
+root nn neg det dep prep pobj prep pobj prep advmod dep nsubj pcomp cc nsubj conj prep prep pobj cc nn conj advmod dep
+nn nsubj root dobj prep pobj dep dobj prep det pobj prep det pobj vmod prep pobj aux xcomp det dobj
+nn root prep pobj det amod nn dep
+nsubjpass auxpass root det nn npadvmod prep pobj
+dep aux nsubj root prep pobj nsubj aux cop det rcmod aux vmod amod dobj
+nsubj root nsubj ccomp det amod dobj
+advmod nsubj root prep det amod nn pobj advmod mark nsubj advmod nsubj rcmod dobj ccomp dobj dep
+root amod pobj nsubj dep nn nn nn num prep pobj rcmod dep ccomp prep pobj nsubj aux ccomp iobj det dobj
+nn nn root prep pobj det dep prep det amod nn pobj
+nn root
+nsubj root poss advmod det dobj nsubj rcmod amod dobj nsubj rcmod
+root dep dep det dep dep nn nsubj amod cc conj rcmod amod nsubj cop det nn nsubj ccomp dobj mark nsubj advcl det dobj prep pobj nn nn advmod poss dep
+root nsubj cc conj aux ccomp dobj cc nsubj conj dobj
+root advmod det nsubj rcmod advmod acomp prep dep nn nn nn nn pobj
+root dobj det nn dep cc conj dobj prep nn pobj
+nn nn amod nn nsubj root det nn dobj nsubj aux rcmod dobj det dep
+nsubj root aux xcomp xcomp det nn dobj prep nn nn pobj
+nn root nsubj rcmod neg dep dobj
+nn num nsubj prep det pobj advmod root prep poss pobj dep nn advmod prep poss nn nn pobj dep prep det amod pobj
+root nn cc conj dep poss nn nn amod nn dep
+root advmod nsubj dep dobj prep pobj prep cop pcomp
+nn root nsubj rcmod advmod dep advmod advmod det nsubj advcl dobj
+nn nsubj csubj det dobj poss dep prep num pobj root
+root nn nn dobj vmod advmod amod nn dobj
+det nsubjpass prep pobj auxpass root prt cc nsubj neg prep pobj conj mark nn det nsubj ccomp
+nsubj nsubj aux cop poss rcmod root nsubj det ccomp nsubj aux ccomp dobj
+nn nn nn nn nn nsubj root neg nn dobj det nsubj prep pobj rcmod acomp advmod nsubj aux nn ccomp
+root det amod dobj mark nsubj det amod dep
+advmod advmod dep nsubj root nsubj cop ccomp prep advmod pcomp nsubj ccomp acomp aux xcomp prep det pobj nsubj rcmod nn nsubj ccomp prep pobj prep pobj
+tmod mark nsubj csubj det dobj prep det nn pobj nn advmod amod nn advmod cop num amod root
+nn nsubj root dobj prep nn nsubj pcomp dobj nsubj ccomp ccomp prep nn pobj dep
+nn nn nn nn nn nn root det amod dep advmod amod prep det pobj dep
+nn nn nn nn nn nsubj root
+nn nn amod nn nn nn nn amod nn root
+nsubj root nn nn dobj
+det nn nsubj root nn nn dobj det dep
+nn nn nn nsubj aux nsubj root det dobj vmod dobj prep pobj amod tmod prep amod pobj nsubj rcmod det dobj
+advmod prep pobj mark det nsubj advcl dobj prep poss pobj dep advmod amod nn nn dobj root
+dep nn nn nn amod root
+root nsubj nn nn dep dep poss amod nsubj det nn nn nsubj rcmod det dobj dep amod dep dep
+nsubj prep nn pobj det dep det dep root
+nsubj det nsubj dep dep dep cc nn nsubj root nn dobj neg dep
+root dep amod prep nn pobj
+advmod root dep dep poss dep
+nn root det dep det nsubj vmod nsubj cop det dep advmod dep det dobj nsubj rcmod nn dobj
+amod root nsubj rcmod aux xcomp dep
+nn nn root prep det amod nn nn pobj aux vmod prep nn nn amod pobj nn nsubj ccomp det dobj prep pobj
+advmod nsubj csubj amod dobj cop root
+nsubj root prep amod pobj dep dobj prep det nn pobj
+nn nn nn nn amod nn nn nn root
+nsubj root det dobj mark nsubj advcl acomp advmod dep dobj aux vmod prt nn dobj advmod dep dobj
+nn nn amod nn nsubj root nn dobj nsubj det dep prep nsubj pcomp dobj nsubj vmod advmod nsubj advmod ccomp prt dobj
+root dep nsubj aux advmod rcmod nn dobj dep cc conj det dep
+nn nn nn nn nsubj dep cc conj cop amod root dep dobj prep dep nn nn nn pobj
+nsubj det nn root
+nn amod nn nsubj root amod nsubj ccomp nn amod nsubj ccomp nsubj ccomp dobj dep dep
+nn nn nn nn advmod root prep pobj
+root nn neg det dobj
+root mark dep nn nsubj advmod advcl nsubj ccomp nsubj ccomp dobj prep pobj dep dep advmod nsubj dep dobj det nsubj rcmod amod dobj prep pobj
+advmod nn nsubj root nsubj ccomp mark det nsubj ccomp poss advmod advmod acomp nsubj ccomp dep nsubj amod det dep prep poss nn pobj dep
+root prt
+nn nsubj root dobj prep nn nn pobj advmod pobj dep prep amod nn pobj prep nn nn pobj cc conj
+mark nsubj advmod root det dobj cc nn conj mark nsubj advcl dobj nsubj aux nsubj aux ccomp aux cop det xcomp advmod advmod
+nn num amod nsubj quantmod quantmod quantmod root dep
+mark nsubj root aux xcomp iobj det amod dobj prep poss pobj mark nsubj ccomp poss nsubj xcomp advmod dep cc conj dep
+nn amod nsubj root amod dobj prep amod pobj prep poss pobj dep nsubj prep det pobj aux parataxis advmod dobj dobj advmod prep det pobj
+nn nn nn root nsubj rcmod advmod amod dobj
+dep csubj prep det pobj mark nsubj ccomp prep pobj det tmod nsubj rcmod nn dobj cop root
+nn nn nn nn nn nn amod nn nn nn nn root nsubj dep poss dobj prep det amod pobj
+nn nsubj nsubj root det nsubj ccomp cc dep poss nsubj conj prep poss pobj mark nsubj aux advcl acomp advmod nn nsubj advcl dobj prep pcomp
+nn neg dep root mark nsubj dep dobj xcomp iobj dobj
+amod nsubj root nn nn nsubj ccomp nsubj nn xcomp dobj
+det root advmod nn nn nn nn nn dep
+nsubj root nn dobj advmod nn nsubj cop advcl cc nsubj advmod conj nn nn nn nn dobj poss nn nn dep dep
+nsubj poss dep det dobj vmod prep pobj nsubj dep advmod rcmod dobj advmod root nsubj ccomp dobj
+nn nn root mark nsubj aux advcl dobj det amod dep prep det pobj prep det pobj mark nsubj dep prep pobj nsubj aux rcmod det dobj
+nn nsubj cop amod nsubj cop root dep nn dep vmod aux xcomp advmod nn nsubj advcl det dobj
+nn nn nn nn nn nsubj root nsubj aux dep nsubj ccomp advmod acomp nsubj ccomp dobj
+nn nsubj aux root det amod amod nn dobj cc advmod advmod conj dobj prep det pobj prep pobj
+det nsubj cop advmod root
+nsubj num prep pobj root prep pobj cc poss conj cc nsubj conj advmod amod nn nsubj ccomp det dobj advmod
+dep advmod det amod nn nn nn nn nsubjpass advmod auxpass root punct advmod nsubj dep acomp acomp
+nsubj root det amod dobj cc nsubj conj nsubj xcomp
+root mark nsubj neg advcl nsubj ccomp nn dobj
+root nn nn dobj nsubj dep dobj nn nsubj rcmod prep nn nn pobj cc prep amod pobj nsubj conj dep advmod
+nsubj root dep nn nn nn nn dobj amod
+nsubj root det nn nn nn dobj dep nn nn nn dobj
+root mark det nsubj advcl aux xcomp amod nn nn dobj prep nn pobj dep
+root mark nsubj dep dobj prep cc conj aux pcomp nsubj dep dep nn dep vmod acomp nsubj ccomp amod nn nn dobj dep
+nn root nsubj rcmod det amod dobj dep
+root neg nsubj rcmod aux xcomp amod nsubj dep dobj nsubj rcmod
+poss root mark nsubj dep prep pobj nsubj advmod ccomp det dobj nsubj rcmod
+nn nsubj root nn nn nn dobj dep dep prep advmod nsubj pcomp prep predet poss nn nn pobj advmod nsubj aux ccomp prep pobj cc conj dep
+nn nsubj root det dobj cc conj dobj neg det dep advmod dep vmod det nn nn nsubj ccomp nsubj ccomp prep pobj dobj
+nn nn nsubj root dobj prep advmod nn pobj dep amod dobj aux vmod amod nn dobj
+predet det nsubj dep det nsubj dep root nsubj ccomp prep dep
+dep aux det dobj nsubj rcmod cop advmod root aux xcomp
+root dobj nsubj rcmod amod nn amod dobj cc det conj prep amod pobj prep poss pobj mark nn nsubj advcl prep pobj neg
+root poss nsubj aux neg rcmod advmod dobj cc nn amod nn conj dep
+nn nsubj advmod root nn nn nsubj ccomp dobj prep amod pobj prep poss pobj prep det nn nn nn nn pobj
+nn nn nn nn nn nn nsubj root neg nsubjpass auxpass ccomp xcomp prep pobj prep amod pobj
+nsubj aux root det amod dobj prep det amod nn pobj prep det amod pobj cc conj nn dep
+amod nn nn nn nn root dep
+nsubj aux root prep pcomp det nn pobj prep det nn nn pobj vmod nsubj ccomp nsubj dep cc conj
+root dep nn nn amod nn dobj nsubj det rcmod nsubj advmod dep
+dep root dep
+amod root amod
+nn root nsubj rcmod det dobj
+root nsubj rcmod det nn amod dobj
+advmod nsubj root dobj mark nsubj advcl acomp dep dobj advmod nsubj advcl det amod dobj
+neg poss dep aux xcomp aux xcomp nn dobj expl root neg nsubj advmod dep aux dep cc conj mark nsubj aux advcl dobj
+nn nn nsubj root prep dep dep dep dep dep dep prep det pobj cc conj nsubj ccomp det dobj mark nsubj advcl det dobj dep
+csubj nn dobj aux root amod nsubj ccomp prep pobj
+nsubj csubj dobj prep pobj cop amod nn root
+csubj prep det pobj mark det nsubj ccomp dobj mark nsubj advcl aux root nsubj xcomp nsubj rcmod dep cop det nn ccomp dep
+nn root nsubj rcmod nsubj ccomp dobj mark nsubj advcl nn nsubj ccomp dobj prep nn pobj advmod advmod mark nsubj advcl nn dobj
+nsubj root nsubj ccomp dobj nsubj ccomp nsubj ccomp cc nn conj advmod advmod dep dobj advmod advmod
+nn nsubj prep pobj cop root prep poss pobj
+root det amod dep det amod nn dep cc amod conj
+root advmod nsubj rcmod det amod dobj dep prep det amod nn nn nn pobj dep
+dep aux nsubj amod advmod prep pobj prep det pobj prep det pobj root dobj prep det nn pobj cc conj neg
+advmod root prep pcomp prep det pobj cc poss conj neg
+root iobj det nsubj ccomp nsubj ccomp dobj
+root dobj nsubj ccomp prep
+nn det nsubj root prep det pobj prep det amod nn pobj nsubj amod nn nn nn nn nn dep
+amod root mark advmod dep det nn nsubj dep nn nn nn nn dobj nsubj rcmod prep nn pobj cop det amod nn nn nn dep nn nn nn dep dep
+dep nn nsubj root det amod dobj prep poss pobj aux aux auxpass vmod prep pcomp det pobj cc nsubj conj nsubj ccomp nsubj ccomp dobj dep
+dep nn nn amod nn nn root
+nsubj advmod aux nsubj root dobj nsubj dep nn nn amod nn dobj
+nsubj dep amod nn amod det nn nn nn dobj root det dobj prep nn nn nn nn pobj
+nn nn amod nsubj cop det root advmod vmod nsubj cop ccomp prep det nn pobj
+root advmod nsubj advcl aux xcomp det dobj aux vmod det nn nn nn nn nn dobj
+root dep det dobj prep amod advmod pcomp det dobj
+nsubj root dep nn nn dobj
+nn neg nsubj aux vmod prep amod pobj advmod root quantmod num prep pobj cc nn conj det dobj
+nn nsubj aux root prep amod pobj
+nn nn root prep pobj amod dep nsubj ccomp det dobj
+npadvmod advmod npadvmod dep prep amod pobj csubj dep amod nn nn amod dep aux nsubj advmod rcmod prep cc conj poss pobj root
+root dep neg vmod dobj advmod dep nn dep vmod poss nsubj det xcomp
+nn dep nsubj root iobj dobj nsubj ccomp dobj advmod
+root mark nsubj cc conj advcl dobj vmod nsubj advmod nsubj aux neg ccomp prep pobj dep dobj
+nn det amod nsubj neg amod root
+root det dep nn pobj prep poss pobj dep dobj aux xcomp nn prep nn nn nn pobj dobj
+nn nsubj root xcomp det nsubj ccomp poss dobj amod amod nsubj rcmod poss nn nn nn dobj amod nn dep
+nsubj advmod root prep det pobj nsubj rcmod advmod advmod acomp advmod advmod nsubj ccomp predet det nn dobj nsubj advmod cop rcmod dep
+amod root nn nsubj dep prep pobj cc conj nn nn dobj prep det nn nn pobj dep
+nn amod root nsubj rcmod nsubj ccomp advmod xcomp advmod aux xcomp poss dobj advmod nsubj advcl amod dobj
+dep aux nsubj root prep det pobj prep det pobj
+nsubj root aux nsubj prep pobj advmod advmod mark advmod aux nsubj dep dobj prep pcomp prep pobj ccomp nsubj xcomp prep det pobj
+root advmod dep nsubj advcl dobj mark nsubj advcl nn nn nn dobj
+root nsubj rcmod nsubj cop det amod ccomp aux vmod det dobj nsubj rcmod dobj prep pcomp pobj
+nn root nsubj rcmod nsubj ccomp amod nn dobj
+root dep nsubj ccomp dobj prep amod pobj prep amod pobj prep amod nn nn nn nn nn nn pobj dep
+root dobj mark nsubj advcl dobj prep det pobj cc nn nn conj prep pobj nsubj rcmod mark advmod nsubj advcl advmod mark nsubj advcl amod nsubj advcl prt
+nn nn amod nn root nsubjpass auxpass pcomp dobj prep pobj
+nn nsubj aux neg root dobj prep det pobj nsubj rcmod prep pcomp prep pobj prep det pobj nsubj advmod dep dep dep dep advmod dobj
+npadvmod root poss nn nn nn nn dep dep
+neg root nn nsubj rcmod nn dobj det tmod advmod amod nn nn dep
+advmod nsubj prep nn pobj root xcomp nn dobj cc nsubj conj amod nn nn nn nn dobj
+nn nn nsubj prep pobj root dobj
+nn nn root nn det dep
+nn nsubj root nsubj aux ccomp prep det amod pobj prep det nn nn pobj prep nsubj pcomp amod nn dep prep det pobj prep
+root nsubj det rcmod det dobj prep det nn nn nn pobj
+nn nn root dep
+nsubj root dobj prep pobj det tmod
+nn dep nsubj cop npadvmod det root
+root vmod aux xcomp det dobj prep poss pobj
+root amod nn nn nn neg nn nn dep det dep
+root det dobj advmod advmod advmod aux advmod dep prep pobj advmod dep dobj cc nsubj conj prep pobj
+nn nn nn root dep det nn nn dep prep det pobj prep nsubj pcomp dobj
+advmod root det dobj prep poss nn pobj nsubj rcmod aux xcomp prt
+nn nn nn root prep det amod pobj
+root cc det nn nn conj num
+nn nn root dobj nsubj rcmod nn nn nn nn dobj
+root aux vmod advmod det dobj dep
+nn root
+det amod nsubj aux root det amod nn nn dobj cc poss amod nn conj aux dep det amod dobj
+nsubj det nsubjpass auxpass rcmod det dobj prep pobj cc nsubj nsubj aux rcmod cop conj prep advmod amod pobj root
+nn nn nsubj root advmod nsubj advcl acomp aux cop det amod xcomp
+nn nn nsubj root det nsubj ccomp mark npadvmod advmod amod ccomp
+root pobj dep dep advmod amod nn nn amod nn amod nsubj advmod vmod nsubj advmod det amod nn xcomp
+nn nn nn nn root cc nsubj conj poss nn nn nn amod nn nn dobj prep dep nsubj amod pobj advmod nsubj advcl nsubj dep dobj
+nsubj advmod root nsubj ccomp dobj prep pobj prep det nn nn pobj prep nn amod nn nn nn nn pobj
+root nsubj rcmod advmod det dobj
+nn nn root nsubj rcmod det dobj prep pcomp mark nn dep nsubj cop ccomp prep poss amod pobj prep expl pcomp neg det amod nsubj
+nn nn nsubj aux root prep amod nn nn nn nn pobj
+nsubj prep nn nn nn pobj aux vmod prt det dobj aux root advmod aux nn nsubj dep advmod nsubj advcl dobj prep det pobj
+nn det nsubj root nn nn nn nn nn nn dobj predet det advmod amod nn dep prep det pobj
+nn nn nsubj root prep pobj prep pobj npadvmod
+root cc advmod nsubj conj neg dobj det nn nn advmod nsubj rcmod prep advmod nsubj aux advmod cop det amod pobj
+root advmod xcomp nn dobj dep dobj advmod nsubj dep dep cc advmod conj det dobj
+root det nsubj ccomp prep pobj
+nn nsubj nsubj rcmod dobj root advmod pobj cc conj nsubj xcomp prep amod nn pobj cc det conj
+nsubj cc conj mark det nsubj rcmod xcomp nsubj det nn xcomp cc nn conj root dobj
+nn nn nn nsubj root det dobj advmod prep pobj
+root aux xcomp prt neg aux xcomp prt nsubj ccomp advmod advmod dep dep vmod prep poss pobj
+nn nsubj aux neg root dobj prep pcomp prep amod pobj
+nn root nsubj rcmod nsubj
+nn nn nn nsubj advmod cop det amod amod root nsubj ccomp acomp prep pobj
+nn root
+det nsubj cc conj root poss dobj nsubj rcmod dobj prep det nn amod pobj det dobj dep det dep nsubj aux rcmod dobj
+amod nsubj aux root prt det nn dobj prep det pobj
+nsubj cop det nn nn nn root
+nsubj root aux xcomp prt prep nsubj pobj advmod prep nn amod cc conj pobj cc conj nsubj ccomp prep det nn pobj dobj
+nn nn nsubj cop amod nn root advmod tmod dep det dobj dep
+root nsubj rcmod neg prep det pobj nsubj rcmod acomp nsubj ccomp advmod prep det pobj mark nsubj ccomp amod det dobj
+nsubj det nsubj rcmod advmod dobj nsubj ccomp dep cc conj dep root
+nn nn nn nn root
+root det nsubj neg rcmod dobj mark nsubj advcl dobj
+root det nsubj det nsubj advmod rcmod prep det pobj cop amod rcmod
+amod amod nsubj prep pobj root poss amod nn dobj dep cc conj prep amod nn nn pobj dep
+nn det root cc aux conj nsubj aux ccomp prep det pobj aux vmod nsubj ccomp prt
+nsubj root nn dobj dep
+advmod nn nsubj root
+root nsubj det rcmod mark nsubj dep dep det dobj
+root det dep dep
+dep advmod amod nsubj advmod rcmod prep poss pobj aux nsubj root dobj prep det pobj cc conj cc det conj
+prep det amod nn pobj root dobj prep amod pobj
+nsubj dep advmod root dep dep prep amod pobj cc mark nsubj conj prep det nn pobj prep det pobj aux dep aux vmod prt dobj prep pobj
+root vmod aux xcomp mark nsubj advmod ccomp nsubj advmod ccomp
+dep amod nn nn nsubj prep det pobj root iobj nsubj ccomp nn nn dobj advmod dep det dobj advmod mark nsubj aux advcl cop ccomp prep pobj
+dep root det nn nsubj ccomp poss amod dobj
+nn nn nsubj root dobj prep amod amod nn nn nn nn pobj
+root dep dep cc nsubj aux conj cc nsubj advmod aux nsubj conj
+nsubj cop advmod root prep det pobj
+nsubj aux advmod advmod root nn dobj prep det pobj
+nsubj prep det dep det amod pobj root
+dep dep nsubj aux root aux xcomp nn dobj
+nn nn root vmod aux xcomp predet det dobj
+nn root cc conj dobj
+nsubj nsubj rcmod advmod dobj prep pobj advmod advmod root nsubj prep pobj ccomp nsubj ccomp dobj dep
+nsubj root prep pobj
+nn root prep advmod pcomp dobj prep nn nn pobj amod dep
+advmod root amod nn nn nn nn dobj prep pcomp pcomp prt nsubj ccomp advmod xcomp nsubj ccomp poss amod amod cc conj dep dobj
+nn nsubj mark det nsubj advcl dep poss nn dobj nsubj root mark nsubj advcl advmod acomp dep
+root prep poss nn pobj prep poss nn pobj
+nsubj root prep pobj
+advmod csubj det nsubj ccomp nn nn amod nn nn dobj root dobj
+nsubj root advmod amod dobj amod
+advmod det nsubj root nsubj csubj advmod amod pobj cop nn nn nn nn ccomp
+nn nn nn nn nn root det nn dep mark nsubj nn dep
+nn nsubj aux cop root prep amod pobj advmod nsubj advcl aux xcomp advmod prep det pobj nsubj rcmod dep
+root advmod nsubj det advcl dobj neg vmod dobj npadvmod det prep det pobj
+nn nsubj advmod root dobj prep pobj dep poss dobj
+root amod nsubj advmod ccomp dobj mark det nn nn nsubj cop amod dep
+root vmod nn dep prep pobj nsubj dep nn nn nn dobj nsubj rcmod prep pobj det nn dep
+nn nsubj root dobj
+advmod aux det nsubj prep det pobj root det amod nn nsubj prep pobj ccomp prep pobj vmod dobj prep nn pobj
+nn nn amod nsubj cop det root det dep
+nsubj amod prep pobj prep pobj prep poss pobj prep nn pobj root dep dobj nsubj rcmod prep pobj nsubj rcmod
+advmod advmod amod nn nsubj root neg dobj
+root poss nn nsubj aux rcmod vmod nsubj nn nsubj ccomp advmod aux ccomp prep pobj prep pobj
+dep nsubj advmod vmod advmod xcomp mark nsubj aux advcl advmod det nn dobj root
+advmod nsubj root xcomp prep poss pobj
+nn nsubj cc conj aux root poss nn dobj nsubj rcmod
+nsubj advmod root nsubj xcomp dobj advmod poss nsubj cop advcl cc nsubj cop det amod conj prep pobj cc nn nn nn conj
+nn dep prep neg pcomp det nn dobj advmod prep det nn nn nn nn pobj root
+nn amod root prep amod pobj cc conj det amod npadvmod amod dobj
+amod nn amod root dep
+amod root poss dep
+nn nsubj root nn dobj cc nn conj nsubj rcmod prep det nn amod pobj
+dep poss nsubj aux root aux cop advmod xcomp det nsubj advmod aux nsubj dep
+root mark nsubj aux advcl dobj nsubj rcmod det dobj
+nn root nsubj rcmod dobj
+root dep nsubj amod rcmod det nsubj ccomp prt prep poss pobj prep det pobj dobj
+amod nsubj nsubj root dobj
+nsubj root det amod dobj dep
+nn dep dep dep nn root det nn nn dep prep det pobj nsubj rcmod acomp
+nn nn nn nn nn nn nn nn nn nn nsubj root prep dep prep det pobj
+root amod dep vmod nsubj ccomp amod nn nn nsubj advmod dep dobj nsubj ccomp
+dobj det nsubj root prep det pobj prep pcomp det nn pobj
+amod nn nn dep root
+nsubj aux csubj det dobj mark det nsubj prep nn pobj ccomp num npadvmod advmod aux cop det root vmod prep pobj mark nn amod nsubj ccomp
+nsubj root nsubj ccomp nn nn dobj
+root det pobj prep aux pcomp nn dobj vmod dobj prep pobj advmod advmod dep
+nsubj cop amod nn nn root prep det pobj nsubj dep nsubj cop advmod ccomp prep det pobj dep
+nn root
+nn root
+root prep det pobj prep pcomp det dobj prep pobj cc nn advmod advmod det nsubj conj prep pobj advmod nsubjpass auxpass dep prep det pobj advmod dobj
+amod nn root det nn nsubj aux cop nsubj prep amod pobj advmod amod nn nn nn dep
+nn nn nsubj nsubj aux rcmod prt dobj root det dobj prep amod nn nn pobj prep nn nn nn nn pobj
+nn nn nn nsubj root amod nn dobj dep det dobj cc det nn conj
+nn dep nsubj root det dobj nsubj poss dep prep det pobj mark nsubj aux advcl dobj advmod nsubj aux cop dep
+nsubj root prep num pobj prep pobj nsubj rcmod amod dobj prep nn pobj mark nsubj advcl prt
+nn nn nn root det pobj det dep nsubj rcmod aux xcomp poss dobj dep
