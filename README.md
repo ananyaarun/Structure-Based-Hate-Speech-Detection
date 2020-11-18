@@ -34,4 +34,4 @@ The DL models we have implemented are
 - BERT
 - Tree LSTM
 
-Complete results and analysis are avilable in our Repot.
+Complete results and analysis are avilable in our Report.
